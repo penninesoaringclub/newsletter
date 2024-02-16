@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PSC Newsletters</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on PSC Newsletters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Feb 2024 23:39:49 +0530</lastBuildDate>
+    <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>March 2024</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Thu, 01 Feb 2024 23:39:49 +0530</pubDate>
+      <guid>http://example.org/posts/test/</guid>
+      <description>It&amp;rsquo;s spring! Somebody tell the weather. Welcome to your new look Pennine Soaring Club newsletter!&#xA;Every issue:&#xA;Notes from the committee Name your newsletter The committee have come up with a few names we could call our newsletter but you get the deciding vote. Pick your favourite here and next month we&amp;rsquo;ll be back with a fancy new title.&#xA;The Pennine Post The Parlick Press Wing Tips Safety Obligatory spring thermal warning.</description>
+    </item>
+  </channel>
+</rss>

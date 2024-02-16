@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 defaultContentLanguage = "en"
 languageCode = "en"
+publishDir = 'docs'
 
 title = "PSC Newsletters"
 
