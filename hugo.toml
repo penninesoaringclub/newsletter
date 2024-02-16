@@ -1,4 +1,4 @@
-baseURL = "https://penninesoaringclub.github.io/newsletter/"
+baseURL = "https://penninesoaringclub.github.io/"
 defaultContentLanguage = "en"
 languageCode = "en"
 publishDir = 'docs'
@@ -13,7 +13,7 @@ enableRobotsTXT = true
 [params]
   footer = "Pennine Soaring Club"
   description = "News from the Pennine Soaring Club"
-  avatarURL = "/newsletter/images/psc-logo.png"
+  avatarURL = "/images/psc-logo.png"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   ShowBackToTopButton = true # true or false for "back to top" button on posts
