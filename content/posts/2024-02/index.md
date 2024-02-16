@@ -4,14 +4,13 @@ date: 2024-02-01T12:00:00+05:30
 tags: 
 type: "post"
 image: "header.jpg"
-showTableOfContents: false
+showTableOfContents: true
 ---
 
 ## It's spring! Somebody tell the weather.
 
 Welcome to your new look Pennine Soaring Club newsletter!
 
-{{< gallery match="gallery/winterhill/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 ---
 
 Every issue:
@@ -44,6 +43,14 @@ It's easy to download the [tasks](https://www.xcmap.net/index.php?c=Northern%20C
 
 Did somebody say the weather's been poor again? There are _no flights_ on the Pennine League yet for 2024 so if you log the first one, you could top the table.
 
+## Dates for your diary
+
+### Pennine Fest | 24th May to 26th May
+- Chipping Showground
+- Camping all weekend on the show field
+- Dinner at the Sun Inn on Saturday evening
+
+
 ## New Members
 
 ## Congratulations!
@@ -52,6 +59,7 @@ Passed an exam, did an SIV, won a comp etc.
 
 ## Photos of the month
 
+#### {{< gallery match="gallery/winterhill/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}s
 
 ## You might have missed...
 

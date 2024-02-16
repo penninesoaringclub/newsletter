@@ -19,6 +19,12 @@ enableRobotsTXT = true
   ShowBackToTopButton = true # true or false for "back to top" button on posts
   customHeadHTML = ""
 
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+    ordered = false
+
 [menu]
   [[menu.main]]
     # Unique identifier for a menu item
