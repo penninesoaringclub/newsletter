@@ -84,9 +84,31 @@ Passed an exam, did an SIV, won a comp etc.
 
 - Somebody's had a good day somewhere. A few paragraphs with pics.
 
-## Worth a visit
+## Why not visit... Newgale
 
-- A few paragraphs about a nice site somebody's flown somewhere else, with a pic & a map.
+Why not visit... is a quick look at a flying site that you can't see from Clitheroe. In the UK or abroad, tell us all about somewhere fun to go.
+
+![Newgale](gallery/newgale.jpg)
+
+_Where?_
+
+The Pembrokeshire coast, right out on the edge of West Wales.
+
+_What's it like to fly?_
+
+Newgale is a low cliff, tucked into the north corner of beautiful St David's Bay. In a summer westerly it attracts a mix of a few locals and any holidaymakers who have managed to sneak their wing into the car on a family holiday. The site itself is newbie friendly, very pretty and has interesting corners to explore. If you can get a few hundred above then the possibility opens up of crossing the bay at Nolton Haven to the South, joining the high cliffs at Druidstone and flying all the way down to Broad Haven. There and back will bag you a fun, technical, 10km coastal XC.
+
+_Any watch-outs?_
+
+- If the wind is off the hill, some of the undulating cliffs around takeoff can generate areas of rotor. The locations where this happens are obvious but don't get low and fly in behind a spur.
+
+- Flying two hours either side of low tide.
+
+- Crossing the bay at Nolton is a short glide but over deep water and can be intimidating. Don't commit if you're not sure.
+
+_Who are the local club?_
+
+Newgale isn't a club site but is looked after by the local school, [Pembrokeshire Paragliding](http://www.pembrokeshireparagliding.com)
 
 ## My new gear
 
