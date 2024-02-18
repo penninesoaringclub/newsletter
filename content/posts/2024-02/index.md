@@ -1,5 +1,5 @@
 ---
-title: "February 2024"
+title: "March 2024"
 date: 2024-02-01T12:00:00+05:30
 tags: 
 type: "post"
@@ -9,7 +9,7 @@ showTableOfContents: true
 
 # It's spring! Quick, somebody tell the weather.
 
-Welcome everyone, to your new look Pennine Soaring Club newsletter. Simon Scott appealed for a newsletter editor at the AGM, I put my hand up and so here we are. Issue one. As the seach starts for interesting things to write about, I think we can all agree the lesson here is never to speak up at an AGM.
+Welcome everyone, to your new look Pennine Soaring Club newsletter. Simon Scott appealed for a newsletter editor at the AGM, I put my hand up and so here we are. Issue one. As the search starts for interesting things to write about, I think we can all agree the lesson here is never to speak up at an AGM.
 
 I'm hoping that between us we can rustle up enough stories for a monthly news bulletin, at least through the flying season when we're all out on the hills. We'll round up XC and safety news, check dates for your diary and say hi to any new members but your newsletter needs you. Had a great day out? Let's see some pictures. Smashed your personal best? Let's hear about it. This is the place to tell us all what you did and how much fun you had doing it, or if you've embarrassed yourself, for somebody else to send in the photos of your glider in the Parlick landing field tree.
 
@@ -21,19 +21,21 @@ Neil C.
 
 # Notes from the committee
 
-Regular section with site news, club updates, whatever we want to communicate.
+Our AGM was held on 12th February with lots of members turning out to hear updates from the committee, approve some post changes including a new chairman (Congratulations to Brian!), applaud 2023's [award winners](http://www.penninesoaringclub.org.uk/articles/article-list/pennine-soaring-club-awards-2023/) and listen to a techy presentation from your new newsletter editor.
+
+You can see all of the updated committee positions on the [PSC Website](http://www.penninesoaringclub.org.uk/about/club-committee/).
+
+![John Murphy receives the lifetime achievement award](award.jpg)
 
 # Name your newsletter
 
-The committee have come up with a few names we could call our newsletter but you get the deciding vote. Pick your favourite here and next month we'll be back with a fancy new title.
+We've come up with a few options for naming our newsletter but you get the deciding vote. Pick your favourite and next month we'll be back with a fancy new title.
 
-- The Pennine Post
-- The Parlick Press
-- Wing Tips
+Cast your vote.
 
 # Safety
 
-Link to the latest safety notes, manufacturer warnings, links to incident reports + obligatory spring thermal warning.
+Link to the latest safety notes, manufacturer warnings, incident reports + obligatory spring thermal warning.
 
 # Competitions
 
@@ -47,7 +49,11 @@ It's easy to download the [tasks](https://www.xcmap.net/index.php?c=Northern%20C
 
 ### XC League
 
-Did somebody say the weather's been bad? There are _no flights_ on the Pennine League yet for 2024 so if you log the first one, you could top the table.
+Did somebody say the weather's been bad? There are _no flights_ on the Pennine XC League yet for 2024 so if you log the first one, you could top the table.
+
+Three Pennine pilots have logged flights on the national XC league already though, flying from Barkin and Lords. Scott O'Neil is the top Pennine pilot in the national league with 21.7 points and Barry Sayer and Elliot Brown have one 13km flight each.
+
+Don't forget there are now two XC Leagues - the [original one](https://xcleague.com/xc/leagues/view-15.html) that we all know about and another, newer one that lives on [XContest](https://www.xcontest.org/united-kingdom/ranking-club:2688). The way they work is a little bit different, with XContest scoring Pennine pilots flying anywhere in the UK and the XC League scoring its own Pennine league table as flights from Pennine controlled sites. We'll keep an eye on both.
 
 # Dates for your diary
 
@@ -65,40 +71,37 @@ Did somebody say the weather's been bad? There are _no flights_ on the Pennine L
 
 # New Members
 
-# Congratulations!
+Anyone new in the past couple of months?
+
+# Shout Outs
 
 Passed an exam, did an SIV, won a comp etc.
 
-# Photos of the month
+# The Gallery
 
-This is an example gallery from Winter Hill a few weeks ago. We'll do better.
-
-{{< gallery match="winterhill/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
-
-## You might have missed...
-
-- Any important stuff nicked from Skywings
-- Good videos or articles doing the rounds
-- Links to club updates on the website, safety notes etc.
-- Any interesting new non free flight links
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
 
 # A grand day out
+
+_Sean Mercer writes_
 
 Somebody's had a good day somewhere. A few paragraphs with pics.
 
 # Why not visit... Newgale
 
-Why not visit... is a quick look at a flying site far enough away that you can't see it Clitheroe. In the UK or abroad, tell us all about somewhere fun to go.
+Why not visit... is a quick look at a flying site far enough away that you can't see it from Clitheroe. In the UK or abroad, tell us all about somewhere fun to go.
+
+_Neil Charles writes_
 
 {{< gallery match="newgale/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
 
 _Where?_
 
-The Pembrokeshire coast, right out on the edge of West Wales.
+Pembrokeshire, right out on the edge of West Wales.
 
 _What's it like to fly?_
 
-Newgale is a medium-sized coastal launch, tucked into the north corner of beautiful St David's Bay. In a summer westerly it attracts a mix of a few locals and any holidaymakers who have managed to sneak their wing into the car on a family holiday. The site itself is newbie friendly, very pretty and has interesting corners to explore. If you can get a few hundred above then the possibility opens up of crossing the bay at Nolton Haven to the South, joining the high cliffs at Druidstone and flying all the way down to Broad Haven. There and back will bag you a fun, technical, 10km coastal XC.
+Newgale is a coastal launch, tucked into the northern end of beautiful St David's Bay. In a summer westerly it attracts a mix of a few locals and any visitors who have managed to sneak their wing into the car on a family holiday. The site itself is low airtime friendly, very pretty and has some interesting corners to explore. If you can get a few hundred above then the possibility opens up of crossing the bay at Nolton Haven to the South, joining the high cliffs at Druidstone and flying all the way down to Broad Haven. There and back will bag you a fun, technical, [10km coastal XC](https://flyxc.app/?p=euk%7BHdoe%5Ej%60I%7Bq%40g%60Ibu%40).
 
 _Any watch-outs?_
 
@@ -112,20 +115,31 @@ _Who are the local club?_
 
 Newgale isn't a club site but is looked after by the local school, [Pembrokeshire Paragliding](http://www.pembrokeshireparagliding.com).
 
+# You might have missed...
+
+- Any important stuff nicked from Skywings
+- Good videos or articles doing the rounds
+- Links to club updates on the website, safety notes etc.
+- Any interesting new non free flight links
+
 # Your newsletter needs you
 
 Appear in next month's newsletter! We need submissions for...
 
-_A Grand Day Out_
-2-3 paragraphs describing a fun day. Could be epic, could be silly, could be simply the first time you flew for six months.
+**A Grand Day Out**  
+2-3 paragraphs describing a fun day. You're welcome to write more if you're feeling creative but a few paragraphs is plenty. Could be epic, could be silly, could be simply the first time you flew for six months. If you've had a good day and you took some pictures, send it in.
 
-_Why not visit..._
-A quick guide to a site at home or abroad. Where? What's it like to fly? Any watch outs? Who are the local club? And a picture or two.
+**Why Not Visit...**  
+A quick guide to a site that you like, at home or abroad. Tell us where it is, what it's like to fly, any watch-outs and how to contact the locals. Attach a photo and email it over.
 
-_Photos of the month_
-Send in any recent shots and they'll be published with your name.
+**The Gallery**  
+Send in any recent(ish) shots and they'll be published with your name. Spectacular, silly, from the ground or from the air, it doesn't matter. Let's see what you've been up to.
 
-_Congratulations!_
-First ever XC? Smashed a PB? Took part in a comp? Let us know and get a call out in the newsletter. Nominate your mates if they won't do it themselves.
+**Shout Outs**  
+First ever XC? Smashed a PB? Took part in a comp? Let us know and get a shout out in the newsletter. Nominate your mates if they won't do it themselves.
 
-Send submissions on these or any other free flight topics to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk)
+Send submissions on these or anything else you'd like to see featured to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk)
+
+--- 
+
+Fly safe, see you in April.
