@@ -7,23 +7,23 @@ image: "header.jpg"
 showTableOfContents: true
 ---
 
-## It's spring! Quick, somebody tell the weather.
+# It's spring! Quick, somebody tell the weather.
 
-Welcome to your new look Pennine Soaring Club newsletter! Simon Scott called for a newsletter editor at the AGM, I put my hand up and so here we are. Issue one. I think we can all agree the lesson here is never to speak up at an AGM.
+Welcome everyone, to your new look Pennine Soaring Club newsletter. Simon Scott appealed for a newsletter editor at the AGM, I put my hand up and so here we are. Issue one. As the seach starts for interesting things to write about, I think we can all agree the lesson here is never to speak up at an AGM.
 
 I'm hoping that between us we can rustle up enough stories for a monthly news bulletin, at least through the flying season when we're all out on the hills. We'll round up XC and safety news, check dates for your diary and say hi to any new members but your newsletter needs you. Had a great day out? Let's see some pictures. Smashed your personal best? Let's hear about it. This is the place to tell us all what you did and how much fun you had doing it, or if you've embarrassed yourself, for somebody else to send in the photos of your glider in the Parlick landing field tree.
 
-You don't have to write loads, a couple of paragraphs and a photo or two is perfect.
+You don't have to write loads, a couple of paragraphs and a photo or two is perfect. Send anything you'd like to see included to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
 
 Neil C.
 
 ---
 
-Every issue:
+# Notes from the committee
 
-## Notes from the committee
+Regular section with site news, club updates, whatever we want to communicate.
 
-## Name your newsletter
+# Name your newsletter
 
 The committee have come up with a few names we could call our newsletter but you get the deciding vote. Pick your favourite here and next month we'll be back with a fancy new title.
 
@@ -31,11 +31,11 @@ The committee have come up with a few names we could call our newsletter but you
 - The Parlick Press
 - Wing Tips
 
-## Safety
+# Safety
 
-Obligatory spring thermal warning.
+Link to the latest safety notes, manufacturer warnings, links to incident reports + obligatory spring thermal warning.
 
-## Competitions
+# Competitions
 
 ### Northern Challenge Series
 
@@ -49,7 +49,7 @@ It's easy to download the [tasks](https://www.xcmap.net/index.php?c=Northern%20C
 
 Did somebody say the weather's been bad? There are _no flights_ on the Pennine League yet for 2024 so if you log the first one, you could top the table.
 
-## Dates for your diary
+# Dates for your diary
 
 ### Pennine Fest | 24th May to 26th May
 - Chipping Showground
@@ -63,15 +63,17 @@ Did somebody say the weather's been bad? There are _no flights_ on the Pennine L
 - Grasmere sports showground
 - A few [places](https://www.cumbriasoaringclub.co.uk/lcc/CSC_LCCMain.php) still remaining
 
-## New Members
+# New Members
 
-## Congratulations!
+# Congratulations!
 
 Passed an exam, did an SIV, won a comp etc.
 
-## Photos of the month
+# Photos of the month
 
-#### {{< gallery match="gallery/winterhill/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+This is an example gallery from Winter Hill a few weeks ago. We'll do better.
+
+{{< gallery match="winterhill/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
 
 ## You might have missed...
 
@@ -80,15 +82,15 @@ Passed an exam, did an SIV, won a comp etc.
 - Links to club updates on the website, safety notes etc.
 - Any interesting new non free flight links
 
-## A grand day out
+# A grand day out
 
-- Somebody's had a good day somewhere. A few paragraphs with pics.
+Somebody's had a good day somewhere. A few paragraphs with pics.
 
-## Why not visit... Newgale
+# Why not visit... Newgale
 
-Why not visit... is a quick look at a flying site that you can't see from Clitheroe. In the UK or abroad, tell us all about somewhere fun to go.
+Why not visit... is a quick look at a flying site far enough away that you can't see it Clitheroe. In the UK or abroad, tell us all about somewhere fun to go.
 
-![Newgale](gallery/newgale.jpg)
+{{< gallery match="newgale/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
 
 _Where?_
 
@@ -96,7 +98,7 @@ The Pembrokeshire coast, right out on the edge of West Wales.
 
 _What's it like to fly?_
 
-Newgale is a low cliff, tucked into the north corner of beautiful St David's Bay. In a summer westerly it attracts a mix of a few locals and any holidaymakers who have managed to sneak their wing into the car on a family holiday. The site itself is newbie friendly, very pretty and has interesting corners to explore. If you can get a few hundred above then the possibility opens up of crossing the bay at Nolton Haven to the South, joining the high cliffs at Druidstone and flying all the way down to Broad Haven. There and back will bag you a fun, technical, 10km coastal XC.
+Newgale is a medium-sized coastal launch, tucked into the north corner of beautiful St David's Bay. In a summer westerly it attracts a mix of a few locals and any holidaymakers who have managed to sneak their wing into the car on a family holiday. The site itself is newbie friendly, very pretty and has interesting corners to explore. If you can get a few hundred above then the possibility opens up of crossing the bay at Nolton Haven to the South, joining the high cliffs at Druidstone and flying all the way down to Broad Haven. There and back will bag you a fun, technical, 10km coastal XC.
 
 _Any watch-outs?_
 
@@ -108,12 +110,22 @@ _Any watch-outs?_
 
 _Who are the local club?_
 
-Newgale isn't a club site but is looked after by the local school, [Pembrokeshire Paragliding](http://www.pembrokeshireparagliding.com)
+Newgale isn't a club site but is looked after by the local school, [Pembrokeshire Paragliding](http://www.pembrokeshireparagliding.com).
 
-## My new gear
+# Your newsletter needs you
 
-- Quick couple of paragraphs and a photo as a new kit review
+Appear in next month's newsletter! We need submissions for...
 
-## Open call for whatever people want to share
+_A Grand Day Out_
+2-3 paragraphs describing a fun day. Could be epic, could be silly, could be simply the first time you flew for six months.
 
-Write up of a really good day
+_Why not visit..._
+A quick guide to a site at home or abroad. Where? What's it like to fly? Any watch outs? Who are the local club? And a picture or two.
+
+_Photos of the month_
+Send in any recent shots and they'll be published with your name.
+
+_Congratulations!_
+First ever XC? Smashed a PB? Took part in a comp? Let us know and get a call out in the newsletter. Nominate your mates if they won't do it themselves.
+
+Send submissions on these or any other free flight topics to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk)

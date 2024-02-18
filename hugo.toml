@@ -11,6 +11,7 @@ theme = ["gokarna", "hugo-shortcode-gallery"]
 enableRobotsTXT = true
 
 [params]
+  galleryLoadJQuery = true
   footer = "Pennine Soaring Club"
   description = "News from the Pennine Soaring Club"
   avatarURL = "/newsletter/images/psc-logo.png"
