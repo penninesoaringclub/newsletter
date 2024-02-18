@@ -9,7 +9,7 @@ showTableOfContents: true
 
 # It's spring! Quick, somebody tell the weather.
 
-Welcome everyone, to your new look Pennine Soaring Club newsletter. Simon Scott appealed for a newsletter editor at the AGM, I put my hand up and so here we are. Issue one. As the search starts for interesting things to write about, I think we can all agree the lesson here is never to speak up at an AGM.
+Welcome everyone, to your brand new Pennine Soaring Club newsletter. Simon Scott appealed for a newsletter editor at the AGM, I put my hand up and so here we are. Issue one. As the search starts for interesting things to write about, I think we can all agree the lesson here is never to speak up at an AGM.
 
 I'm hoping that between us we can rustle up enough stories for a monthly news bulletin, at least through the flying season when we're all out on the hills. We'll round up XC and safety news, check dates for your diary and say hi to any new members but your newsletter needs you. Had a great day out? Let's see some pictures. Smashed your personal best? Let's hear about it. This is the place to tell us all what you did and how much fun you had doing it, or if you've embarrassed yourself, for somebody else to send in the photos of your glider in the Parlick landing field tree.
 
@@ -87,7 +87,9 @@ _Sean Mercer writes_
 
 Somebody's had a good day somewhere. A few paragraphs with pics.
 
-# Why not visit... Newgale
+# Why not visit...
+
+### Newgale
 
 Why not visit... is a quick look at a flying site far enough away that you can't see it from Clitheroe. In the UK or abroad, tell us all about somewhere fun to go.
 
@@ -127,13 +129,13 @@ Newgale isn't a club site but is looked after by the local school, [Pembrokeshir
 Appear in next month's newsletter! We need submissions for...
 
 **A Grand Day Out**  
-2-3 paragraphs describing a fun day. You're welcome to write more if you're feeling creative but a few paragraphs is plenty. Could be epic, could be silly, could be simply the first time you flew for six months. If you've had a good day and you took some pictures, send it in.
+2-3 paragraphs describing a fun day. You're welcome to write more if you're feeling creative but a couple of paragraphs is plenty. Could be epic, could be silly, could be simply the first time you flew for six months. If you've had a good day and you took some pictures, send it in.
 
 **Why Not Visit...**  
 A quick guide to a site that you like, at home or abroad. Tell us where it is, what it's like to fly, any watch-outs and how to contact the locals. Attach a photo and email it over.
 
 **The Gallery**  
-Send in any recent(ish) shots and they'll be published with your name. Spectacular, silly, from the ground or from the air, it doesn't matter. Let's see what you've been up to.
+Send in any recent(ish) shots with when and where they were taken. Spectacular, silly, from the ground or from the air, it doesn't matter. Let's see what you've been up to.
 
 **Shout Outs**  
 First ever XC? Smashed a PB? Took part in a comp? Let us know and get a shout out in the newsletter. Nominate your mates if they won't do it themselves.
