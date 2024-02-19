@@ -25,6 +25,8 @@ Our AGM was held on 12th February with lots of members turning out to hear updat
 
 You can see all of the updated committee positions on the [PSC Website](http://www.penninesoaringclub.org.uk/about/club-committee/).
 
+We also made our annual contributions in February of £500 each to the Air Ambulance and Mountain Rescue.
+
 ![John Murphy receives the lifetime achievement award](award.jpg)
 
 # Name your newsletter
@@ -34,6 +36,8 @@ We've come up with a few options for naming our newsletter but you get the decid
 [![Vote Now!](voting-button.png)](https://docs.google.com/forms/d/e/1FAIpQLSdS5pNRRgZfTFDfRetfPyvjMSW_4F83MZ8RuWwb-9NrMmYHDA/viewform?usp=sf_link)
 
 # Safety
+
+**ADD CONTENT HERE OR DROP THE SECTION**
 
 Link to the latest safety notes, manufacturer warnings, incident reports + obligatory spring thermal warning.
 
@@ -53,7 +57,7 @@ Did somebody say the weather's been bad? There are _no flights_ on the Pennine X
 
 Three Pennine pilots have logged flights on the national XC league already though, flying from Barkin and Lords. Scott O'Neil is the top Pennine pilot in the national league with 21.7 points and Barry Sayer and Elliot Brown have one 13km flight each.
 
-Don't forget there are now two XC Leagues - the [original one](https://xcleague.com/xc/leagues/view-15.html) that we all know about and another, newer one that lives on [XContest](https://www.xcontest.org/united-kingdom/ranking-club:2688). The way they work is a little bit different, with XContest scoring Pennine pilots flying anywhere in the UK and the XC League scoring its own Pennine league table as flights from Pennine controlled sites. We'll keep an eye on both.
+Don't forget there are now two XC Leagues - the [original one](https://xcleague.com/xc/leagues/view-15.html) that we all know about and another, newer one that lives on [XContest](https://www.xcontest.org/united-kingdom/ranking-club:2688). The XContest one does a prize t-shirt for your first 100km flight but other than that the way the tables work is also a little bit different. XContest scores Pennine pilots flying anywhere in the UK and the original XC League scores its own Pennine league table as flights only from Pennine controlled sites. We'll keep an eye on both.
 
 # Dates for your diary
 
@@ -75,17 +79,23 @@ Don't forget there are now two XC Leagues - the [original one](https://xcleague.
 
 # New Members
 
-Anyone new in the past couple of months?
+**ADD CONTENT HERE OR DROP THE SECTION**
+
+Anyone new in the past couple of months? We'll aim for a photo and a quick intro so we can look out for them on the hill.
 
 # Shout Outs
 
-Passed an exam, did an SIV, won a comp etc.
+**ADD CONTENT HERE OR DROP THE SECTION**
+
+Passed an exam, did an SIV, won a comp, made it to Fairsnape and back for the first time etc.
 
 # The Gallery
 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
 
 # A grand day out
+
+**SEAN WRITING UP STRIDING EDGE TO HELLVELLYN TTB**
 
 _Sean Mercer writes_
 
@@ -122,6 +132,8 @@ _Who are the local club?_
 Newgale isn't a club site but is looked after by the local school, [Pembrokeshire Paragliding](http://www.pembrokeshireparagliding.com).
 
 # You might have missed...
+
+**ADD CONTENT HERE OR DROP THE SECTION**
 
 - Any important stuff nicked from Skywings
 - Good videos or articles doing the rounds
