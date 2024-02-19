@@ -31,7 +31,7 @@ You can see all of the updated committee positions on the [PSC Website](http://w
 
 We've come up with a few options for naming our newsletter but you get the deciding vote. Pick your favourite and next month we'll be back with a fancy new title.
 
-Cast your vote.
+[![Vote Now!](voting-button.png)](https://docs.google.com/forms/d/e/1FAIpQLSdS5pNRRgZfTFDfRetfPyvjMSW_4F83MZ8RuWwb-9NrMmYHDA/viewform?usp=sf_link)
 
 # Safety
 
@@ -56,6 +56,10 @@ Three Pennine pilots have logged flights on the national XC league already thoug
 Don't forget there are now two XC Leagues - the [original one](https://xcleague.com/xc/leagues/view-15.html) that we all know about and another, newer one that lives on [XContest](https://www.xcontest.org/united-kingdom/ranking-club:2688). The way they work is a little bit different, with XContest scoring Pennine pilots flying anywhere in the UK and the XC League scoring its own Pennine league table as flights from Pennine controlled sites. We'll keep an eye on both.
 
 # Dates for your diary
+
+### Club Night | 11th March
+- Sea View Inn, Chorley
+- Presentation by Mark Shaw, BHPA Technical Officer
 
 ### Pennine Fest | 24th May to 26th May
 - Chipping Showground
@@ -103,7 +107,7 @@ Pembrokeshire, right out on the edge of West Wales.
 
 _What's it like to fly?_
 
-Newgale is a coastal launch, tucked into the northern end of beautiful St David's Bay. In a summer westerly it attracts a mix of a few locals and any visitors who have managed to sneak their wing into the car on a family holiday. The site itself is low airtime friendly, very pretty and has some interesting corners to explore. If you can get a few hundred above then the possibility opens up of crossing the bay at Nolton Haven to the South, joining the high cliffs at Druidstone and flying all the way down to Broad Haven. There and back will bag you a fun, technical, [10km coastal XC](https://flyxc.app/?p=euk%7BHdoe%5Ej%60I%7Bq%40g%60Ibu%40).
+Newgale is a coastal launch, tucked into the northern end of St David's Bay. In a summer westerly it attracts a mix of a few locals and any visitors who have managed to sneak their wing into the car on a family holiday. The site itself is low airtime friendly, very pretty and has some interesting corners to explore. If you can get a few hundred above then the possibility opens up of crossing the bay at Nolton Haven to the South, joining the high cliffs at Druidstone and flying all the way down to Broad Haven. There and back will bag you a fun, technical, [10km coastal XC](https://flyxc.app/?p=euk%7BHdoe%5Ej%60I%7Bq%40g%60Ibu%40).
 
 _Any watch-outs?_
 
@@ -135,7 +139,7 @@ Appear in next month's newsletter! We need submissions for...
 A quick guide to a site that you like, at home or abroad. Tell us where it is, what it's like to fly, any watch-outs and how to contact the locals. Attach a photo and email it over.
 
 **The Gallery**  
-Send in any recent(ish) shots with when and where they were taken. Spectacular, silly, from the ground or from the air, it doesn't matter. Let's see what you've been up to.
+Send in any recent(ish) shots with when and where they were taken. Spectacular, silly, from the ground or from the air, it doesn't matter. Let's see what you've been up to. Videos are very welcome too but pop them on YouTube or Vimeo and send a link for the newsletter.
 
 **Shout Outs**  
 First ever XC? Smashed a PB? Took part in a comp? Let us know and get a shout out in the newsletter. Nominate your mates if they won't do it themselves.
