@@ -7,19 +7,33 @@ image: "header.jpg"
 showTableOfContents: true
 ---
 
-# It's spring! Quick, somebody tell the weather.
+# Chairman’s Chunterings
 
-Welcome everyone, to your brand new Pennine Soaring Club newsletter. Simon Scott appealed for a newsletter editor at the AGM, I put my hand up and so here we are. Issue one. As the search starts for interesting things to write about, I think we can all agree the lesson here is never to speak up at an AGM.
+Welcome to the PSC newsletter, grateful thanks to the efforts of our new committee member, Neil Charles for creating the first of what we hope will be many issues.
 
-I'm hoping that between us we can rustle up enough stories for a monthly news bulletin, at least through the flying season when we're all out on the hills. We'll round up XC and safety news, check dates for your diary and say hi to any new members but your newsletter needs you. Had a great day out? Let's see some pictures. Smashed your personal best? Let's hear about it. This is the place to tell us all what you did and how much fun you had doing it, or if you've embarrassed yourself, for somebody else to send in the photos of your glider in the Parlick landing field tree.
+Well, the AGM came and went with a few surprises along the way. After several years doing an excellent job, Simon Scott stood down as chairman, and as I try to step into his shoes, I’d like to thank him on behalf of all the members for the great work he’s done in guiding the club and keeping us all together.
 
-You don't have to write loads, a couple of paragraphs and a photo or two is perfect. Send anything you'd like to see included to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
+It’s not easy coordinating the activities of 200-odd (some very odd) free-spirited free-flyers and the current state of harmony and goodwill in the club is a testament to his efforts – thanks Simon, for giving me such a hard act to follow. Of course, he’s continuing to serve on the committee, taking over the role of secretary from Barry Sayer, who is moving across to be safety officer, relieving me of the onerous duty of trying out all the ways pilots can hurt themselves.
 
-Neil C.
+Sean Mercer is our new ~~sergeant-at-arms~~ membership secretary, inheriting this position from Jim Ashley, who will continue as chancellor of the exchequer. The inimitable Graham Jones makes a return to the committee as our new social secretary, and we welcome the very competitive Elliott Brown as competitions secretary, taking over from the equally competitive John Murphy, who has left the committee after an incredible 27 years of continuous service. John, thank you so much for the time and effort you have put into your various roles on the committee over the years – I think you must have done almost every job available within the club, and I’m sure we’ll often be back to you for the benefit of your experience. Now, all we need is a weather officer to improve the dreadful start to the year so far.
+
+Brian
 
 ---
 
-# Notes from the committee
+# Welcome Everyone
+
+Here it is. Issue one. Simon Scott appealed for a newsletter editor at the AGM, I put my hand up and now, As the search starts for interesting things to write about, I think we can all agree that the lesson here is never to speak up at an AGM.
+
+We should be able to rustle up enough stories for a monthly news bulletin, at least through the flying season when we're all out on the hills. We'll round up XC and safety news, check dates for your diary and say hi to any new members but your newsletter needs you. Had a great day out? Let's see some pictures. Smashed your personal best? Let's hear about it. This is the place to tell us all what you did and how much fun you had doing it, or if you've embarrassed yourself, for somebody else to send in the photos of your glider in the Parlick landing field tree.
+
+You don't have to write loads, a couple of paragraphs and a photo or two is perfect. Send anything you'd like to see included to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
+
+Neil.
+
+---
+
+# Notes from the AGM
 
 Our AGM was held on 12th February with lots of members turning out to hear updates from the committee, approve some post changes including a new chairman (Congratulations to Brian!), applaud 2023's [award winners](http://www.penninesoaringclub.org.uk/articles/article-list/pennine-soaring-club-awards-2023/) and listen to a techy presentation from your new newsletter editor.
 
@@ -29,7 +43,7 @@ We also made our annual contributions in February of £500 each to the Air Ambul
 
 ![John Murphy receives the lifetime achievement award](award.jpg)
 
-# Name your newsletter
+# Name Your Newsletter
 
 We've come up with a few options for naming our newsletter but you get the deciding vote. Pick your favourite and next month we'll be back with a fancy new title.
 
@@ -59,7 +73,7 @@ Three Pennine pilots have logged flights on the national XC league already thoug
 
 Don't forget there are now two XC Leagues - the [original one](https://xcleague.com/xc/leagues/view-15.html) that we all know about and another, newer one that lives on [XContest](https://www.xcontest.org/united-kingdom/ranking-club:2688). The XContest one does a prize t-shirt for your first 100km flight but other than that the way the tables work is also a little bit different. XContest scores Pennine pilots flying anywhere in the UK and the original XC League scores its own Pennine league table as flights only from Pennine controlled sites. We'll keep an eye on both.
 
-# Dates for your diary
+# Dates For Your Diary
 
 ### Club Night | 11th March
 - Sea View Inn, Chorley
@@ -93,7 +107,7 @@ Passed an exam, did an SIV, won a comp, made it to Fairsnape and back for the fi
 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
 
-# A grand day out
+# A Grand Day Out
 
 **SEAN WRITING UP STRIDING EDGE TO HELLVELLYN TTB**
 
@@ -101,7 +115,7 @@ _Sean Mercer writes_
 
 Somebody's had a good day somewhere. A few paragraphs with pics.
 
-# Why not visit...
+# Why Not Visit...
 
 ### Newgale
 
