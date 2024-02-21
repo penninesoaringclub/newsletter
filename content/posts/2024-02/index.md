@@ -23,13 +23,13 @@ Brian
 
 # Welcome Everyone
 
-Here it is. Issue one. Simon Scott appealed for a newsletter editor at the AGM, I put my hand up and now, As the search starts for interesting things to write about, I think we can all agree that the lesson here is never to speak up at an AGM.
+Here it is. Issue one. Simon Scott appealed for a newsletter editor at the AGM, I put my hand up and now, as the search starts for interesting things to write about, I think we can all agree that the lesson here is never to put your hand up at an AGM.
 
 We should be able to rustle up enough stories for a monthly news bulletin, at least through the flying season when we're all out on the hills. We'll round up XC and safety news, check dates for your diary and say hi to any new members but your newsletter needs you. Had a great day out? Let's see some pictures. Smashed your personal best? Let's hear about it. This is the place to tell us all what you did and how much fun you had doing it, or if you've embarrassed yourself, for somebody else to send in the photos of your glider in the Parlick landing field tree.
 
 You don't have to write loads, a couple of paragraphs and a photo or two is perfect. Send anything you'd like to see included to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
 
-Neil.
+Neil
 
 ---
 
@@ -43,17 +43,23 @@ We also made our annual contributions in February of £500 each to the Air Ambul
 
 ![John Murphy receives the lifetime achievement award](award.jpg)
 
+---
+
 # Name Your Newsletter
 
 We've come up with a few options for naming our newsletter but you get the deciding vote. Pick your favourite and next month we'll be back with a fancy new title.
 
 [![Vote Now!](voting-button.png)](https://docs.google.com/forms/d/e/1FAIpQLSdS5pNRRgZfTFDfRetfPyvjMSW_4F83MZ8RuWwb-9NrMmYHDA/viewform?usp=sf_link)
 
+---
+
 # Safety
 
 **ADD CONTENT HERE OR DROP THE SECTION**
 
 Link to the latest safety notes, manufacturer warnings, incident reports + obligatory spring thermal warning.
+
+---
 
 # Competitions
 
@@ -73,11 +79,18 @@ Three Pennine pilots have logged flights on the national XC league already thoug
 
 Don't forget there are now two XC Leagues - the [original one](https://xcleague.com/xc/leagues/view-15.html) that we all know about and another, newer one that lives on [XContest](https://www.xcontest.org/united-kingdom/ranking-club:2688). The XContest one does a prize t-shirt for your first 100km flight but other than that the way the tables work is also a little bit different. XContest scores Pennine pilots flying anywhere in the UK and the original XC League scores its own Pennine league table as flights only from Pennine controlled sites. We'll keep an eye on both.
 
+---
+
 # Dates For Your Diary
 
-### Club Night | 11th March
+### Cumbria Club Repack and Zip Line | 9th March
+
+### PSC Club Night | 11th March
 - Sea View Inn, Chorley
 - Presentation by Mark Shaw, BHPA Technical Officer
+
+### Peak Soaring Association Club Coach Course | 16th March to 17th March
+- May be full but speak to Simon Baillie if interested
 
 ### Pennine Fest | 24th May to 26th May
 - Chipping Showground
@@ -91,21 +104,21 @@ Don't forget there are now two XC Leagues - the [original one](https://xcleague.
 - Grasmere sports showground
 - A few [places](https://www.cumbriasoaringclub.co.uk/lcc/CSC_LCCMain.php) still remaining
 
+---
+
 # New Members
 
 **ADD CONTENT HERE OR DROP THE SECTION**
 
 Anyone new in the past couple of months? We'll aim for a photo and a quick intro so we can look out for them on the hill.
 
-# Shout Outs
-
-**ADD CONTENT HERE OR DROP THE SECTION**
-
-Passed an exam, did an SIV, won a comp, made it to Fairsnape and back for the first time etc.
+---
 
 # The Gallery
 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
+
+---
 
 # A Grand Day Out
 
@@ -114,6 +127,16 @@ Passed an exam, did an SIV, won a comp, made it to Fairsnape and back for the fi
 _Sean Mercer writes_
 
 Somebody's had a good day somewhere. A few paragraphs with pics.
+
+---
+
+# Shout Outs
+
+**ADD CONTENT HERE OR DROP THE SECTION**
+
+Passed an exam, did an SIV, won a comp, made it to Fairsnape and back for the first time etc.
+
+---
 
 # Why Not Visit...
 
@@ -145,21 +168,20 @@ _Who are the local club?_
 
 Newgale isn't a club site but is looked after by the local school, [Pembrokeshire Paragliding](http://www.pembrokeshireparagliding.com).
 
+---
+
 # You might have missed...
 
-**ADD CONTENT HERE OR DROP THE SECTION**
+North of the border in Scotland, right to roam laws mean that you can climb hills in the countryside with your paraglider and fly off them without having to ask for permission first. In England, we have a limited right to roam that applies only on 8% of our countryside and 3% of our rivers and it specifically excludes paragliding and hang gliding. The BHPA, led by Sites Officer Martin Baxter, is lobbying alongside other groups to change that. [Sign their petition here](https://you.38degrees.org.uk/petitions/unlock-england-s-countryside-introduce-a-right-to-roam?source=rawlink&utm_medium=socialshare&utm_source=rawlink&share=96d82c36-69fe-43cb-9c3a-e37f425872dc).
 
-- Any important stuff nicked from Skywings
-- Good videos or articles doing the rounds
-- Links to club updates on the website, safety notes etc.
-- Any interesting new non free flight links
+---
 
 # Your newsletter needs you
 
 Appear in next month's newsletter! We need submissions for...
 
 **A Grand Day Out**  
-2-3 paragraphs describing a fun day. You're welcome to write more if you're feeling creative but a couple of paragraphs is plenty. Could be epic, could be silly, could be simply the first time you flew for six months. If you've had a good day and you took some pictures, send it in.
+2-3 paragraphs describing a fun day. You're welcome to write more if you're feeling creative but a couple of paragraphs is plenty. Could be epic, could be daft, could be simply the first time you flew for six months. If you've had a good day and you took some pictures, send it in.
 
 **Why Not Visit...**  
 A quick guide to a site that you like, at home or abroad. Tell us where it is, what it's like to fly, any watch-outs and how to contact the locals. Attach a photo and email it over.
