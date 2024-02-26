@@ -55,9 +55,54 @@ We've come up with a few options for naming our newsletter but you get the decid
 
 # Safety
 
-**ADD CONTENT HERE OR DROP THE SECTION**
+Hi all, as newly appointed safety officer, I’ll try my best to keep my first post a cheerful optimistic read, unlike the weather we’ve suffered over the last few months. It’s a safe bet that things will improve, spring is only around the corner!
 
-Link to the latest safety notes, manufacturer warnings, incident reports + obligatory spring thermal warning.
+The winter months have been productive though. Several very interesting club nights, a reserve parachute repack day, a first aid course, pilot exam preparation. All this giving our aviation enthusiasm, many valuable skills to take to the hills.
+
+We need to be on our ‘A game', if you haven’t had a flight for several weeks or even months, check your flying kit.
+A few basics.
+- inspect your wing, lines and risers, making sure it’s all in good condition.
+- check maillons are tight, and karabiners look good (advice is to change karabiners every 5 years).
+- check your harness thoroughly, webbing straps, zips, fabric and Velcro.
+- check the reserve handle and pins.
+- check Brummel hooks are connected.
+- check your helmet for any visible damage.
+
+The points above are only the basics of what should be your pre-flight checks. Paragliding & hang gliding service centres will offer a more comprehensive inspection, such as fabric porosity tests, reserve parachute service & installation into the harness, plus much more.
+
+### Accidents
+Sadly there have been two fatalities recently, and our sincere sympathy goes out to their family and friends. This highlights the caution, responsibility, and respect we need to take in such an extreme sport.
+
+Please report any incidents via the BHPA website, online incident report form, found in the safety documents section.
+
+### Appropriate paragliding footwear.
+A minor incident earlier this month was the result of inappropriate footwear. Boots are a more appropriate footwear.
+
+![boots or shoes](boots.jpg)
+
+Answers on a postcard please….
+
+### On a more personal note...
+
+I noticed my karabiner had rotated slightly during taking off. A pre-flight check fail on my part. 
+
+Something doesn’t look quite right!
+
+![cross loaded carabiner](carabiner1.jpg)
+
+Correct loading, as designed.
+
+![correctly loaded carabiner](carabiner2.jpg)
+
+Equipment failure can be catastrophic. Rushing to get into the air, currency and overconfidence, are most likely the probable cause of the oversight. Check everything, check it again, and then check again ! It’s basic stuff, I know. Five minutes of your time going through several simple checks before your flight, is your responsibility.
+
+Part of your flight plan should include several practice exercises. Check where your reserve handle is located. Hold both brake handles with one hand, reach and locate your reserve handle,  this should be second nature. Practice big ears and speed bar – at a safe altitude practice pulling in big ears, also big ears and speed bar (speed bar last). Familiarity and repeated practice will improve your skill set. Think back to your paragliding school training and refresh your knowledge by attending coaching days. 
+
+If you’re not having fun, you’re doing it wrong.
+
+Hope to see you on a hill soon.
+
+Barry Sayer, PSC Safety Officer.
 
 ---
 
@@ -83,24 +128,24 @@ Don't forget there are now two XC Leagues - the [original one](https://xcleague.
 
 # Dates For Your Diary
 
-### Cumbria Club Repack and Zip Line | 9th March
+### 9th March, Cumbria Club Repack and Zip Line
 
-### PSC Club Night | 11th March
+### 11th March, PSC Club Night
 - Sea View Inn, Chorley
 - Presentation by Mark Shaw, BHPA Technical Officer
 
-### Peak Soaring Association Club Coach Course | 16th March to 17th March
+### 16th - 17th March, Peak Soaring Association Club Coach Course
 - May be full but speak to Simon Baillie if interested
 
-### Pennine Fest | 24th May to 26th May
+### 24th - 26th May, Pennine Fest
 - Chipping Showground
 - Camping all weekend on the show field
 - Dinner at the Sun Inn on Saturday evening
 
-### Buttermere Bash | 31st May to 1st June
+### 31st May - 1st June, Buttermere Bash
 - Sold out but has a [waitlist](https://www.tickettailor.com/events/airventures/1107651)
 
-### Lakes Charity Classic | 21st June to 23rd June
+### 21st - 23rd June, Lakes Charity Classic
 - Grasmere sports showground
 - A few [places](https://www.cumbriasoaringclub.co.uk/lcc/CSC_LCCMain.php) still remaining
 
@@ -117,6 +162,8 @@ Anyone new in the past couple of months? We'll aim for a photo and a quick intro
 # The Gallery
 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
+
+{{< youtube ynBi7OCF_Lo >}}
 
 ---
 
