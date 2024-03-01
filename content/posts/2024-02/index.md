@@ -15,11 +15,12 @@ Well, the AGM came and went with a few surprises along the way. After several ye
 
 It’s not easy coordinating the activities of 200-odd (some very odd) free-spirited free-flyers and the current state of harmony and goodwill in the club is a testament to his efforts – thanks Simon, for giving me such a hard act to follow. Of course, he’s continuing to serve on the committee, taking over the role of secretary from Barry Sayer, who is moving across to be safety officer, relieving me of the onerous duty of trying out all the ways pilots can hurt themselves.
 
-Sean Mercer is our new ~~sergeant-at-arms~~ membership secretary, inheriting this position from Jim Ashley, who will continue as chancellor of the exchequer. The inimitable Graham Jones makes a return to the committee as our new social secretary, and we welcome the very competitive Elliott Brown as competitions secretary, taking over from the equally competitive John Murphy, who has left the committee after an incredible 27 years of continuous service. John, thank you so much for the time and effort you have put into your various roles on the committee over the years – I think you must have done almost every job available within the club, and I’m sure we’ll often be back to you for the benefit of your experience. Now, all we need is a weather officer to improve the dreadful start to the year so far.
+The inimitable Graham Jones makes a return to the committee as our new social secretary, and we welcome the very competitive Elliott Brown as competitions secretary, taking over from the equally competitive John Murphy, who has left the committee after an incredible 27 years of continuous service. John, thank you so much for the time and effort you have put into your various roles on the committee over the years – I think you must have done almost every job available within the club, and I’m sure we’ll often be back to you for the benefit of your experience. Now, all we need is a weather officer to improve the dreadful start to the year so far.
 
 Brian
 
 ---
+
 
 # Welcome Everyone
 
@@ -33,17 +34,44 @@ Neil
 
 ---
 
+# Absent Friends
+
+Richard Chadwick shares this lovely photo of Pete Batty from 2008. A memorial for Pete was held on 10th February following his accident in Tenerife.
+
+![Pete Batty](pete-batty-small.jpg)
+
+Sad news too from the Lake District, posted last week by Gordie Oliver.
+
+![Malc](malc-announcement.jpg)
+
+Condolences to their families and to the many of our members who knew and appreciated both Pete and Malc.
+
+---
+
 # Notes from the AGM
 
 Our AGM was held on 12th February with lots of members turning out to hear updates from the committee, approve some post changes including a new chairman (Congratulations to Brian!), applaud 2023's [award winners](http://www.penninesoaringclub.org.uk/articles/article-list/pennine-soaring-club-awards-2023/) and listen to a techy presentation from your new newsletter editor.
 
 You can see all of the updated committee positions on the [PSC Website](http://www.penninesoaringclub.org.uk/about/club-committee/).
 
-We also made our annual contributions in February of £500 each to the Air Ambulance and Mountain Rescue.
-
 ![John Murphy receives the lifetime achievement award](award.jpg)
 
+We also made our annual contributions in February of £500 each to the Air Ambulance and Mountain Rescue.
+
+[![Air ambulance thanks](air-ambulance-thanks.jpg)](air-ambulance-large.jpg)
+
 ---
+
+# Membership Renewals
+
+Membership levels seem to be steady at around 200 members. This allows us to make a significant donation to the two charities mentioned elswhere. We still have 15 people not responding so it would be nice if we could get this put to bed before the flying season - I know what I'd rather be doing! Please, if you have given the sport up, just tell us so we can stop pestering you.
+
+£25.00 to...
+Lloyds Bank  
+A/C: 02650706  
+Sort Code: 30-96-85
+
+Jim
 
 # Name Your Newsletter
 
@@ -126,7 +154,28 @@ Don't forget there are now two XC Leagues - the [original one](https://xcleague.
 
 ---
 
-# Dates For Your Diary
+# Pennine Fest
+
+### 24th - 26th May (bank holiday weekend)
+
+![landing](fest-small.jpg)
+
+This year Pennine Fest is the same weekend as the Chipping Steam Fair so it will be lively.
+- Chipping Showground - PR3 2QF
+- Camping all weekend on the show field. Electric hook ups. Toilets but not showers.
+
+Dinner at the Sun Inn on Saturday evening, which will be the usual chilli meal with a veg or vegan option. Please contact either Tim or Jim via social media or email accounts@penninesoaringclub.org.uk. We need to know numbers so do get your order in early as it always sells out. The room we use can accommodate 32 total.
+
+At the time of writing I don't have prices for camping or meal but its always been very reasonable and won't break the bank. I'll post it up on  Pennine Chat Telegram group when available.
+
+Jim
+
+---
+
+# More dates For Your Diary
+
+### Look Out for Coaching Days
+- To be announced on the coaching [Telegram group](https://t.me/+rvaylQ5qz0FhODc0).
 
 ### 9th March, Cumbria Club Repack and Zip Line
 
@@ -137,25 +186,12 @@ Don't forget there are now two XC Leagues - the [original one](https://xcleague.
 ### 16th - 17th March, Peak Soaring Association Club Coach Course
 - May be full but speak to Simon Baillie if interested
 
-### 24th - 26th May, Pennine Fest
-- Chipping Showground
-- Camping all weekend on the show field
-- Dinner at the Sun Inn on Saturday evening
-
 ### 31st May - 1st June, Buttermere Bash
 - Sold out but has a [waitlist](https://www.tickettailor.com/events/airventures/1107651)
 
 ### 21st - 23rd June, Lakes Charity Classic
 - Grasmere sports showground
-- A few [places](https://www.cumbriasoaringclub.co.uk/lcc/CSC_LCCMain.php) still remaining
-
----
-
-# New Members
-
-**ADD CONTENT HERE OR DROP THE SECTION**
-
-Anyone new in the past couple of months? We'll aim for a photo and a quick intro so we can look out for them on the hill.
+- Last few [places](https://www.cumbriasoaringclub.co.uk/lcc/CSC_LCCMain.php) are going quickly
 
 ---
 
@@ -167,21 +203,9 @@ Anyone new in the past couple of months? We'll aim for a photo and a quick intro
 
 ---
 
-# A Grand Day Out
-
-**SEAN WRITING UP STRIDING EDGE TO HELLVELLYN TTB**
-
-_Sean Mercer writes_
-
-Somebody's had a good day somewhere. A few paragraphs with pics.
-
----
-
 # Shout Outs
 
-**ADD CONTENT HERE OR DROP THE SECTION**
-
-Passed an exam, did an SIV, won a comp, made it to Fairsnape and back for the first time etc.
+Congratulations to Andy Gridley, Jamie Moffat, Matt Byrnes, Matt Baird and Pete Jones on passing their Pilot ratings!
 
 ---
 
@@ -197,7 +221,7 @@ _Neil Charles writes_
 
 _Where?_
 
-Pembrokeshire, right out on the edge of West Wales.
+Newgale in Pembrokeshire, right out on the edge of West Wales.
 
 _What's it like to fly?_
 
@@ -217,13 +241,13 @@ Newgale isn't a club site but is looked after by the local school, [Pembrokeshir
 
 ---
 
-# You might have missed...
+# You Might Have Missed...
 
-North of the border in Scotland, right to roam laws mean that you can climb hills in the countryside with your paraglider and fly off them without having to ask for permission first. In England, we have a limited right to roam that applies only on 8% of our countryside and 3% of our rivers and it specifically excludes paragliding and hang gliding. The BHPA, led by Sites Officer Martin Baxter, is lobbying alongside other groups to change that. [Sign their petition here](https://you.38degrees.org.uk/petitions/unlock-england-s-countryside-introduce-a-right-to-roam?source=rawlink&utm_medium=socialshare&utm_source=rawlink&share=96d82c36-69fe-43cb-9c3a-e37f425872dc).
+North of the border in Scotland, right to roam laws mean that you can climb hills in the countryside with your paraglider and fly off them without having to ask for permission first. In England, we have a limited right to roam that applies to only 8% of our countryside and 3% of our rivers and it specifically excludes paragliding and hang gliding. The BHPA, led by Sites Officer Martin Baxter, is lobbying alongside other groups to change that. [Sign their petition here](https://you.38degrees.org.uk/petitions/unlock-england-s-countryside-introduce-a-right-to-roam?source=rawlink&utm_medium=socialshare&utm_source=rawlink&share=96d82c36-69fe-43cb-9c3a-e37f425872dc).
 
 ---
 
-# Your newsletter needs you
+# Your Newsletter Needs You
 
 Appear in next month's newsletter! We need submissions for...
 
