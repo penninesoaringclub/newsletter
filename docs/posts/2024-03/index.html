@@ -1403,54 +1403,69 @@ A few basics.</p>
 </div>
 
 <script>
-	if (!jQuery) {
-		alert("jquery is not loaded");
+	if (!("HSCGjQuery" in window)) {
+		if (!window.jQuery) {
+			throw new Error("jQuery is not loaded, hugo-shortcode-gallery wont work without it!");
+		}
+		window.HSCGjQuery = window.jQuery.noConflict(true);
 	}
 
-	$( document ).ready(() => {
-		const gallery = $("#gallery-34a891f18e48269b2a4f6b1087b56dea-0");
-		
+	
+	
+	
+	
+	
+	;(function($) {
 
-		
-		let swipeboxInstance = null;
-
-		
-		
-		gallery.on('jg.complete', () => {
+		$( document ).ready(() => {
+			const gallery = $("#gallery-34a891f18e48269b2a4f6b1087b56dea-0");
 			
+
+			
+			let swipeboxInstance = null;
+
+			
+			
+			gallery.on('jg.complete', () => {
 				
-				
-				$(() => {
-					$('.lazy').Lazy({
-						visibleOnly: true,
-						afterLoad: element => element.css({filter: "none", transition: "filter 1.0s ease-in-out"})
+					
+					
+					$(() => {
+						$('.lazy').Lazy({
+							visibleOnly: true,
+							afterLoad: element => element.css({filter: "none", transition: "filter 1.0s ease-in-out"})
+						});
 					});
-				});
-			
+				
 
-			swipeboxInstance = $('.galleryImg').swipebox(
-				jQuery.extend({},
-					{  }
-				)
-			);
+				swipeboxInstance = $('.galleryImg').swipebox(
+					$.extend({},
+						{  }
+					)
+				);
+			});
+
+			
+			gallery.justifiedGallery({
+				rowHeight : "150",
+				margins : "5",
+				border : 0,
+				randomize :  false ,
+				waitThumbnailsLoad : false,
+				lastRow : "justify",
+				captions : false,
+				
+				
+			});
+
+			
+			
 		});
 
-		
-		gallery.justifiedGallery({
-			rowHeight : "150",
-			margins : "5",
-			border : 0,
-			randomize :  false ,
-			waitThumbnailsLoad : false,
-			lastRow : "justify",
-			captions : false,
-			
-			
-		});
-
-		
-		
-	});
+	
+	
+	
+	})(window.HSCGjQuery)
 </script>
 
 
@@ -1641,54 +1656,69 @@ A few basics.</p>
 </div>
 
 <script>
-	if (!jQuery) {
-		alert("jquery is not loaded");
+	if (!("HSCGjQuery" in window)) {
+		if (!window.jQuery) {
+			throw new Error("jQuery is not loaded, hugo-shortcode-gallery wont work without it!");
+		}
+		window.HSCGjQuery = window.jQuery.noConflict(true);
 	}
 
-	$( document ).ready(() => {
-		const gallery = $("#gallery-34a891f18e48269b2a4f6b1087b56dea-2");
-		
+	
+	
+	
+	
+	
+	;(function($) {
 
-		
-		let swipeboxInstance = null;
-
-		
-		
-		gallery.on('jg.complete', () => {
+		$( document ).ready(() => {
+			const gallery = $("#gallery-34a891f18e48269b2a4f6b1087b56dea-2");
 			
+
+			
+			let swipeboxInstance = null;
+
+			
+			
+			gallery.on('jg.complete', () => {
 				
-				
-				$(() => {
-					$('.lazy').Lazy({
-						visibleOnly: true,
-						afterLoad: element => element.css({filter: "none", transition: "filter 1.0s ease-in-out"})
+					
+					
+					$(() => {
+						$('.lazy').Lazy({
+							visibleOnly: true,
+							afterLoad: element => element.css({filter: "none", transition: "filter 1.0s ease-in-out"})
+						});
 					});
-				});
-			
+				
 
-			swipeboxInstance = $('.galleryImg').swipebox(
-				jQuery.extend({},
-					{  }
-				)
-			);
+				swipeboxInstance = $('.galleryImg').swipebox(
+					$.extend({},
+						{  }
+					)
+				);
+			});
+
+			
+			gallery.justifiedGallery({
+				rowHeight : "150",
+				margins : "5",
+				border : 0,
+				randomize :  false ,
+				waitThumbnailsLoad : false,
+				lastRow : "justify",
+				captions : false,
+				
+				
+			});
+
+			
+			
 		});
 
-		
-		gallery.justifiedGallery({
-			rowHeight : "150",
-			margins : "5",
-			border : 0,
-			randomize :  false ,
-			waitThumbnailsLoad : false,
-			lastRow : "justify",
-			captions : false,
-			
-			
-		});
-
-		
-		
-	});
+	
+	
+	
+	})(window.HSCGjQuery)
 </script>
 
 <p><em>Where?</em></p>
@@ -1858,9 +1888,7 @@ First ever XC? Smashed a PB? Took part in a comp? Let us know and get a shout ou
     
     <span>&copy; 2024 Pennine Soaring Club</span>
     
-    <span>
-        Made with &#10084;&#65039; using <a target="_blank" href="https://github.com/526avijitgupta/gokarna">Gokarna</a>
-    </span>
+
 </footer>
 </body>
 </html>
