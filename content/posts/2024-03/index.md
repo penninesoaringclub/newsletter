@@ -1,6 +1,6 @@
 ---
 title: "March 2024"
-date: 2024-03-01T12:00:00+05:30
+date: 2024-03-05T12:00:00+05:30
 tags: 
 type: "post"
 image: "header.jpg"
@@ -66,12 +66,14 @@ We also made our annual contributions in February of £500 each to the Air Ambul
 
 Membership levels seem to be steady at around 200 members. This allows us to make a significant donation to the two charities mentioned elswhere. We still have 15 people not responding so it would be nice if we could get this put to bed before the flying season - I know what I'd rather be doing! Please, if you have given the sport up, just tell us so we can stop pestering you.
 
-£25.00 to...
+£25.00 to...  
 Lloyds Bank  
 A/C: 02650706  
 Sort Code: 30-96-85
 
 Jim
+
+---
 
 # Name Your Newsletter
 
@@ -146,9 +148,13 @@ It's easy to download the [tasks](https://www.xcmap.net/index.php?c=Northern%20C
 
 ### XC League
 
-Did somebody say the weather's been bad? There are _no flights_ on the Pennine XC League yet for 2024 so if you log the first one, you could top the table.
+Philip Wallbank leads the [Pennine XC League](https://xcleague.com/xc/leagues/view-15.html) with two 11km flights from Parlick. If you're chasing your first ever XC submission, it's worth a look at the flights on the Pennine league so far - a couple of extended legs from Parlick takeoff to the far end of Fairsnape and back can just about tip you over the magic 10km.
 
-Three Pennine pilots have logged flights on the national XC league already though, flying from Barkin and Lords. Scott O'Neil is the top Pennine pilot in the national league with 21.7 points and Barry Sayer and Elliot Brown have one 13km flight each.
+Three more pilots have logged flights but these distances are sure to be obliterated soon as we gear up for spring and XC season proper.
+
+![XC League Table](xcleague.png)
+
+In the national league, Barry Sayer leads the way for Pennine, scoring 24.6 points so far with flights from Barkin and Whitestones.
 
 Don't forget there are now two XC Leagues - the [original one](https://xcleague.com/xc/leagues/view-15.html) that we all know about and another, newer one that lives on [XContest](https://www.xcontest.org/united-kingdom/ranking-club:2688). The XContest one does a prize t-shirt for your first 100km flight but other than that the way the tables work is also a little bit different. XContest scores Pennine pilots flying anywhere in the UK and the original XC League scores its own Pennine league table as flights only from Pennine controlled sites. We'll keep an eye on both.
 
@@ -185,6 +191,9 @@ Jim
 
 ### 16th - 17th March, Peak Soaring Association Club Coach Course
 - May be full but speak to Simon Baillie if interested
+
+### 24th - 26th May, Pennine Fest
+- So good we included it twice
 
 ### 31st May - 1st June, Buttermere Bash
 - Sold out but has a [waitlist](https://www.tickettailor.com/events/airventures/1107651)
