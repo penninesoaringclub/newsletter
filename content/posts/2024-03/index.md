@@ -42,7 +42,7 @@ Richard Chadwick shares this lovely photo of Pete Batty from 2008. A memorial fo
 
 Sad news too from the Lake District, posted last week by Gordie Oliver.
 
-![Malc](malc-announcement.jpg)
+[![Malc](malc-announcement.jpg)](malc-announcement.jpg)
 
 Condolences to their families and to the many of our members who knew and appreciated both Pete and Malc.
 
