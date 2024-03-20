@@ -1,4 +1,4 @@
-baseURL = "https://penninesoaringclub.github.io/newsletter/"
+baseURL = "https://post.penninesoaringclub.org.uk/"
 defaultContentLanguage = "en"
 languageCode = "en"
 publishDir = 'docs'

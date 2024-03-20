@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on PSC Newsletters</title>
-    <link>https://penninesoaringclub.github.io/newsletter/posts/</link>
+    <link>https://post.penninesoaringclub.org.uk/posts/</link>
     <description>Recent content in Posts on PSC Newsletters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 05 Mar 2024 12:00:00 +0530</lastBuildDate>
-    <atom:link href="https://penninesoaringclub.github.io/newsletter/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://post.penninesoaringclub.org.uk/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>March 2024</title>
-      <link>https://penninesoaringclub.github.io/newsletter/posts/2024-03/</link>
+      <link>https://post.penninesoaringclub.org.uk/posts/2024-03/</link>
       <pubDate>Tue, 05 Mar 2024 12:00:00 +0530</pubDate>
-      <guid>https://penninesoaringclub.github.io/newsletter/posts/2024-03/</guid>
+      <guid>https://post.penninesoaringclub.org.uk/posts/2024-03/</guid>
       <description>Chairman’s Chunterings Welcome to the PSC newsletter, grateful thanks to the efforts of our new committee member, Neil Charles for creating the first of what we hope will be many issues.&#xA;Well, the AGM came and went with a few surprises along the way. After several years doing an excellent job, Simon Scott stood down as chairman, and as I try to step into his shoes, I’d like to thank him on behalf of all the members for the great work he’s done in guiding the club and keeping us all together.</description>
     </item>
   </channel>
