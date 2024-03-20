@@ -1,4 +1,4 @@
-baseURL = "https://post.penninesoaringclub.org.uk/"
+baseURL = "https://post.penninesoaringclub.org.uk"
 defaultContentLanguage = "en"
 languageCode = "en"
 publishDir = 'docs'
@@ -14,7 +14,7 @@ enableRobotsTXT = true
   galleryLoadJQuery = true
   footer = "Pennine Soaring Club"
   description = "News from the Pennine Soaring Club"
-  avatarURL = "images/psc-logo.png"
+  avatarURL = "/images/psc-logo.png"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   ShowBackToTopButton = true # true or false for "back to top" button on posts
