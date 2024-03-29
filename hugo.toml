@@ -3,7 +3,7 @@ defaultContentLanguage = "en"
 languageCode = "en"
 publishDir = 'docs'
 
-title = "PSC Newsletters"
+title = "The Pennine Post"
 
 theme = ["gokarna", "hugo-shortcode-gallery"]
 
