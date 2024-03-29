@@ -2,7 +2,7 @@
 title: "April 2024"
 date: 2024-03-29T12:00:00+05:30
 tags: 
-type: "page"
+type: "post"
 image: "header.jpg"
 showTableOfContents: true
 ---
@@ -187,7 +187,7 @@ Jim
 
 Congratulations to Scott O'Neil for chalking up 57km - [the longest flight of the day](https://xcleague.com/xc/flights/2024667.html?vx=0) - from Clough Head on Sunday 24th March - the same day that's given us all of our spectacular photos this month.
 
-Scott's much too modest to have nominated himself for the shout out but he did take some cracking video of the day.
+Scott's much too modest to have nominated himself for the shout out but he did make a cracking video of the day.
 
 {{< video src="scott.mp4" controls="yes">}}
 
@@ -196,27 +196,44 @@ Scott's much too modest to have nominated himself for the shout out but he did t
 
 # Why Not Visit...
 
-### Somewhere
-
-Neil writing up Clough Head unless somebody else does it.
-
-_Somebody writes_
+### Clough Head
 
 _Where?_
 
+Clough Head, just south of Threlkeld in the Lake District.
+
+![](clough.jpg)
+
 _What's it like to fly?_
+
+Ask the Pennine pilots who were there on the 24th March! Clough Head is a brilliant west to north west site and well worth the extra drive if you suspect the wind might be a bit light for Parlick, or it's an XC day and you don't fancy getting decked trying to squeeze through the narrow gap between ground and airspace 15km downwind from Pendle.
+
+The takeoff is big and grassy, although be prepared for a proper Lake District style walk up from the bottom. The site guide says you can park in a quarry halfway up and you are allowed to, but it might not be realistic to try unless you have a 4x4.
+
+If you're chasing your first XC's, Clough is a fabulous place to go. Climb back onto the crags behind takeoff, gain some height and then head south to Helvellyn, waving at the cross country skiers on the tops if there's still snow around. Keep going south following the main ridge down from Thirlmere and past Grasmere, taking in some spectacular views along the way, to land at Ambleside for [20km](https://flyxc.app/?p=qeglIp_qQbvMunChiHwpApnH_jG). It's a west facing ridge nearly all the way down - plus a few slightly technical bits - so you'll have plenty of options for climbs on a wind and sun facing slope in the afternoon.
 
 _Any watch-outs?_
 
+- Read the [site guide](https://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=CLH) (don't miss the tabs at the top of the page for Access and Flying).
+
+- No landing nearby except in the designated field and it's £2 per pilot to the farmer for use of that field. Check which field is in use and pay before you walk up to save forgetting afterwards.
+
+- Park considerately. It can be difficult to find a spot nearby if you arrive late on a busy day but that's not an excuse for blocking access to farm fields.
+
 _Who are the local club?_
+
+Cumbria Soaring Club, so you can fly Clough on our reciprocal agreement. Read the [site guide](https://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=CLH)! It has a lot of important details about parking and landing fields, as well as some useful flying advice.
 
 ---
 
 # You Might Have Missed...
 
-FLARM update following bugfix
+via [XC Mag](https://xcmag.com/news/xc-tracer-flarm-collide-over-software-update/)...
 
-Flight browser is back again
+*"A major software update to Flarm, the collision-avoidance system, has resulted in the disruption of the Open Glider Network live-tracking service and led to two XC Tracer instruments losing their Flarm functionality.*
+*The two instruments that have lost their Flarm functionality are the XC Tracer Maxx II and XC Tracer Mini V. No other free-flight Flarm-enabled instruments are known to be affected."*
+
+If you have an XC Tracer Maxx 2 or Mini 5, be sure to check the XC Tracer [website](https://www.xctracer.com/) for updated firmware. For everyone flying with Flarm, it's not a bad idea to have a look at [KTrax](https://ktrax.kisstech.ch/flarm-liverange/) now and again to ensure that you're actually broadcasting and nothing on your flight deck is interfering with the signal.
 
 ---
 
