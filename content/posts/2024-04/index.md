@@ -187,7 +187,7 @@ Jim
 
 Congratulations to Scott O'Neil for chalking up 57km - [the longest flight of the day](https://xcleague.com/xc/flights/2024667.html?vx=0) - from Clough Head on Sunday 24th March - the same day that's given us all of our spectacular photos this month.
 
-Scott's much to modest to have nominated himself for the shout out but he did take some cracking video of the day.
+Scott's much too modest to have nominated himself for the shout out but he did take some cracking video of the day.
 
 {{< video src="scott.mp4" controls="yes">}}
 
