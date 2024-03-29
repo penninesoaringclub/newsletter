@@ -11,7 +11,7 @@ showTableOfContents: true
 
 Welcome to issue 2!
 
-Last month's votes have been counted and we're now officially the Pennine Post so set your bookmarks to [post.penninesoaringclub.org.uk](https://post.penninesoaringclub.org.uk/) and we'll aim to be back on the first Tuesday of each month with news, events and pictures of all of the spectacular flying we've been doing. Or pictures of parawaiting. Probably mostly parawaiting.
+Last month's votes have been counted and we're now officially The Pennine Post so set your bookmarks to [post.penninesoaringclub.org.uk](https://post.penninesoaringclub.org.uk/) and we'll aim to be back on the first Tuesday of each month with news, events and pictures of all of the spectacular flying we've been doing. Or pictures of parawaiting. Probably mostly parawaiting.
 
 Thanks to everyone who's sent contributions this month. The Pennine Post is *your* newsletter so if you want a good read to take your mind off work then you need to send something in.  
 Email anytime to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk) or we also have a handy [web form](https://docs.google.com/forms/d/e/1FAIpQLSd3NJQKlmLjjlh-nZGQKaeXzN6dSSL2PHzKRXFYAy_Bw7SC9w/viewform?usp=sf_link) that you can use to ping over pictures and stories. If you're on a hill, take a photo!
@@ -87,7 +87,57 @@ Treasurer - Bowland Pennine MRT
 
 # Safety
 
-Barry...
+### Spring thermals
+
+![](safety.jpg)
+
+As spring unfolds, it's that time for a gentle reminder aimed at pilots who've been grounded during the winter, or are feeling a bit out of practice.
+
+For many pilots, emerging from a winter hiatus means dusting off their gear and reacquainting themselves with the skies. Those who haven't kept up with their flying routine can expect to feel a bit rusty, needing more time to regain their former skills. Even those who've flown intermittently over the winter might find themselves a bit out of touch with handling thermals.
+
+During this season, the air and ground are relatively cold and the sun is relatively powerful. The sun asserts its warming influence and this combination sets the stage for thermals to form and rise rapidly. You might hear thermals described as "punchy," which translates to your serene flight being rudely interrupted as your wing jolts backward upon entry, or sections of it turning oddly limp as you skirt past. The potency and compact size of these thermals, coupled with misjudged control inputs, can lead to collapses and general discomfort. Additionally, as thermals peak in strength, midday conditions might become gusty, making ground handling trickier.
+
+Soaring on spring thermic days, especially on our small hills, presents its challenges, with altitude fluctuating swiftly as thermals come and go. Experienced pilots often position
+themselves further ahead of the hill where thermals form, offering both prime thermal opportunities and a safety buffer.
+
+The timeless advice remains: fly within your skill level. For those reentering after a hiatus, it's wise to ease back in gradually. Novice pilots seeking to soar on thermic days might opt for early or late flights, gradually building confidence as the season progresses.
+
+Observing fellow pilots (disregarding those flaunting high-performance wings), assessing cloud formations, and monitoring gustiness are essential for informed decision-making. If conditions appear turbulent and pilots seem unsettled, being on the side of caution is the best approach.
+
+Here are some insights garnered over time:
+
+- Acknowledge the risks. Just by reading this, you're on the right track.
+
+- Avoid flying during peak heating hours.
+
+- Stick with familiar gear until you're comfortable.
+
+- Keep snacks to hand and stay hydrated.
+
+- Wear layers to combat cold temperatures.
+
+- Prioritize keen observation of surroundings and conditions.
+
+- Beware that ground handling on takeoff in spring can lead to being pinged into the air by a strong & turbulent thermal. 
+
+- Stay vigilant to changing conditions and always have a backup plan.
+
+- Mentally prepare for encountering punchy thermals; stay active and respond to collapses promptly. Be ready to deploy your emergency parachute if necessary.
+
+- Remember, there's always another day for flying.
+
+- Fly actively (keep the wing above your head where it belongs).
+
+- If you get a collapse: HANDS UP!
+
+- If it all goes horribly wrong, throw your reserve early. Rehearse throwing your emergency parachute and be prepared to use it.
+
+- Make good decisions!
+
+With these pointers in mind, may your spring flying endeavors be both enjoyable and safe.
+
+Barry Sayer  
+Safety Officer.
 
 ---
 
