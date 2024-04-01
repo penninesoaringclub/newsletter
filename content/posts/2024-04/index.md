@@ -180,7 +180,7 @@ The Northern Challenge Series has started to get flights added since it opened 1
 
 ![](nappa.jpg)
 
-This year Pennine Soaring Club is host to three of the challenges, set on Pendle, Parlick and Longridge. Why not get them downloaded and ready for a flight? there is no registration needed to add your flights, just to the relevant task page and your name will appear on the scoreboard.
+This year Pennine Soaring Club is host to three of the challenges, set on Pendle, Parlick and Longridge. Why not get them downloaded and ready for a flight? there is no registration needed to add your flights, just upload a track to the relevant task page and your name will appear on the scoreboard.
 
 ![](ncs_table.jpg)
 
