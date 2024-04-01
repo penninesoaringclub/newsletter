@@ -16,7 +16,7 @@ Last month's votes have been counted and we're now officially The Pennine Post s
 Thanks to everyone who's sent contributions this month. The Pennine Post is *your* newsletter so if you want a good read to take your mind off work then you need to send something in.  
 Email anytime to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk) or we also have a handy [web form](https://docs.google.com/forms/d/e/1FAIpQLSd3NJQKlmLjjlh-nZGQKaeXzN6dSSL2PHzKRXFYAy_Bw7SC9w/viewform?usp=sf_link) that you can use to ping over pictures and stories. If you're on a hill, take a photo!
 
-This month we've got wise words from our safety officer before the sun finally starts cooking up some spicy spring thermals, a new members shout out, rumours of some proper flying in the Lake District and loads of photos for you to look at wistfully while the rain comes down.
+This month we've got wise words from our safety officer before the sun finally starts cooking up some spicy spring thermals, a new members shout out, the start of competition season, rumours of some proper flying in the Lake District and loads of photos for you to look at wistfully while the rain comes down.
 
 Hang in there. You'll be getting yanked skywards by your risers before you know it.
 
@@ -27,6 +27,8 @@ Hang in there. You'll be getting yanked skywards by your risers before you know 
 ---
 
 # Chairman’s Chunterings
+
+*Brian Stewart, Chairman*
 
 ### Inclusivity – who needs it?
 
@@ -58,9 +60,9 @@ Many thanks to Mark Shaw, senior technical officer at the BHPA for an informativ
 
 ### Club history
 
-If you've been around for a while and in particular from the start of Pennine Soaring Club in 1993 and have any info or records from the past, we'd be interested to hear from you. There are some gaps from pre 2002, which we would like to fill. Information such as committee positions, AGM reports, magazines... In addition, anything from earlier times too from the Pennine Hang Gliding Club days is welcome. It would be nice to have a more complete record of our history and could even prove useful at some point. Please get in touch in any of the usual ways.
+*Jim Ashley, Treasurer*
 
-Jim
+If you've been around for a while and in particular from the start of Pennine Soaring Club in 1993 and have any info or records from the past, we'd be interested to hear from you. There are some gaps from pre 2002, which we would like to fill. Information such as committee positions, AGM reports, magazines... In addition, anything from earlier times too from the Pennine Hang Gliding Club days is welcome. It would be nice to have a more complete record of our history and could even prove useful at some point. Please get in touch in any of the usual ways.
 
 ### Thanks from Bowland Pennine Mountain Rescue Team
 
@@ -86,6 +88,8 @@ Treasurer - Bowland Pennine MRT
 ---
 
 # Safety
+
+*Barry Sayer, Safety Officer*
 
 ### Spring thermals
 
@@ -136,9 +140,6 @@ Here are some insights garnered over time:
 
 With these pointers in mind, may your spring flying endeavors be both enjoyable and safe.
 
-Barry Sayer  
-Safety Officer.
-
 ---
 
 # Sites
@@ -167,21 +168,41 @@ I look forward to meeting up with you soon, and hopefully some very patient, sym
 
 # Competitions
 
-Update on Monday    
+*Elliot Brown, Competitions Secretary*
+
+The 30th March seems to be the start of the 100km flights being added to [XContest](https://www.xcontest.org/world/en/flights/daily-score-pg/#filter[date]=2024-03-30@filter[country]=GB ) and XC League in numbers with entries from Milk Hill, Eyam Edge and Windbank. There was also a great earlier flight from Tinto in Scotland the week before, scoring 107km.
+
+![](tinto.jpg)
 
 ### Northern Challenge Series
 
-Update...
+The Northern Challenge Series has started to get flights added since it opened 1st of February, with Nappa being completed on the 30th of March.
 
-[![Northern Challenge Series](https://www.xcflight.com/s/cc_images/cache_83561507.jpg?t=1700681134])](https://www.xcflight.com/northern-challenge-series-2024/)
+![](nappa.jpg)
+
+This year Pennine Soaring Club is host to three of the challenges, set on Pendle, Parlick and Longridge. Why not get them downloaded and ready for a flight? there is no registration needed to add your flights, just to the relevant task page and your name will appear on the scoreboard.
+
+![](ncs_table.jpg)
+
+### XContest
+
+Scott’s flight on Clough Head has secured his position at the top of the XContest Pennine league, with a couple of entries from Windbank helping to add to those numbers. Looking through the other pilots' entries down the board, it’s a similar picture for days/locations.
+
+![](xcontest_table2.jpg)
 
 ### XC League
 
-Update...
+Parlick seems to be getting the most love on XC League, with the odd flight from Blackstone Edge thrown into the mix.
 
-[XC League Table](https://xcleague.com/xc/leagues/view-15.html)
+![](xcleague_table.jpg)
 
-[XContest League Table](https://www.xcontest.org/united-kingdom/ranking-club:2688)
+---
+
+[![](xcleague.jpg)](https://xcleague.com/xc/leagues/view-15.html)
+
+[![](xcontest.jpg)](https://www.xcontest.org/united-kingdom/ranking-club:2688)
+
+[![](https://www.xcflight.com/s/cc_images/cache_83561507.jpg?t=1700681134])](https://www.xcflight.com/northern-challenge-series-2024/)
 
 ---
 
@@ -303,7 +324,7 @@ Send in any recent(ish) shots with when and where they were taken. Spectacular, 
 **Shout Outs**  
 First ever XC? Smashed a PB? Took part in a comp? Let us know and get a shout out in the newsletter. Nominate your mates if they won't do it themselves.
 
-Send submissions on these or anything else you'd like to see featured to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk)
+Send submissions on these or anything else you'd like to see featured to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk). You can also drop them over using the [web form](https://docs.google.com/forms/d/e/1FAIpQLSd3NJQKlmLjjlh-nZGQKaeXzN6dSSL2PHzKRXFYAy_Bw7SC9w/viewform?usp=sf_link) or message [Neil](t.me/NeilCharles) on Telegram.
 
 --- 
 
