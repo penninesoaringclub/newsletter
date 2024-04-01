@@ -168,41 +168,37 @@ I look forward to meeting up with you soon, and hopefully some very patient, sym
 
 # Competitions
 
-*Elliot Brown, Competitions Secretary*
+*Elliott Brown, Competitions Secretary*
 
-The 30th March seems to be the start of the 100km flights being added to [XContest](https://www.xcontest.org/world/en/flights/daily-score-pg/#filter[date]=2024-03-30@filter[country]=GB ) and XC League in numbers with entries from Milk Hill, Eyam Edge and Windbank. There was also a great earlier flight from Tinto in Scotland the week before, scoring 107km.
+The 30th March seems to be the start of the 100km flights being added to [XContest](https://www.xcontest.org/world/en/flights/daily-score-pg/#filter[date]=2024-03-30@filter[country]=GB ) and XC League in numbers, with entries from Milk Hill, Eyam Edge, Windbank and our own Parlick Hill. There was also a great earlier flight from Tinto in Scotland the week before, scoring 107km.
 
-![](tinto.jpg)
+[![](tinto.jpg)](https://xcleague.com/xc/flights/2024699.html)
+
+A fantastic flight too by our PSC pilot John Oliver, who rocked up to Parlick on 30th March and clocked an amazing effort to just past Bishop Auckland at 116km! 
+
+[![](john.jpg)](https://xcleague.com/xc/flights/2024826.html?vx=15 )
 
 ### Northern Challenge Series
 
 The Northern Challenge Series has started to get flights added since it opened 1st of February, with Nappa being completed on the 30th of March.
 
-![](nappa.jpg)
+[![](nappa.jpg)](https://www.xcmap.net/xc.php?r=1343&t=1188&c=Northern+Challenge+Trophy)
 
 This year Pennine Soaring Club is host to three of the challenges, set on Pendle, Parlick and Longridge. Why not get them downloaded and ready for a flight? there is no registration needed to add your flights, just upload a track to the relevant task page and your name will appear on the scoreboard.
 
-![](ncs_table.jpg)
+[![](ncs_table.jpg)](https://www.xcmap.net/index.php)
 
 ### XContest
 
-Scott’s flight on Clough Head has secured his position at the top of the XContest Pennine league, with a couple of entries from Windbank helping to add to those numbers. Looking through the other pilots' entries down the board, it’s a similar picture for days/locations.
+John’s flight off Parlick on Saturday has secured him a nice lead at the top of the league, with his epic outing to the North. The remaining pilots in the top 5 have similarly built up some good flights from the same couple of flyable days in March.
 
-![](xcontest_table2.jpg)
+[![](xcontest_table2.jpg)](https://www.xcontest.org/united-kingdom/ranking-club:2688 )
 
 ### XC League
 
 Parlick seems to be getting the most love on XC League, with the odd flight from Blackstone Edge thrown into the mix.
 
-![](xcleague_table.jpg)
-
----
-
-[![](xcleague.jpg)](https://xcleague.com/xc/leagues/view-15.html)
-
-[![](xcontest.jpg)](https://www.xcontest.org/united-kingdom/ranking-club:2688)
-
-[![](https://www.xcflight.com/s/cc_images/cache_83561507.jpg?t=1700681134])](https://www.xcflight.com/northern-challenge-series-2024/)
+[![](xcleague_table.jpg)](https://xcleague.com/xc/leagues/view-15.html )
 
 ---
 
@@ -218,7 +214,7 @@ This year Pennine Fest is the same weekend as the Chipping Steam Fair so it will
 
 Dinner at the Sun Inn on Saturday evening, which will be the usual chilli meal with a veg or vegan option. Please contact either Tim or Jim via social media or email accounts@penninesoaringclub.org.uk. We need to know numbers so do get your order in early as it always sells out. The room we use can accommodate 32 total.
 
-At the time of writing I don’t have prices for camping but the meal on Saturday night will be £10, including a pound to the air ambulance. Cash only please!
+Camping is £8 per pitch (tent, caravan or motor home) + £6 for an electric hookup. The meal on Saturday night will be £10, including a pound to the air ambulance. Cash only please!
 
 I’ll post more information on the Pennine Chat Telegram group when available.
 
@@ -262,6 +258,7 @@ Scott's much too modest to have nominated himself for the shout out but he did m
 
 {{< video src="scott.mp4" controls="yes">}}
 
+And congratulations again to John Oliver - already mentioned in Competitions - for the first 100km XC from a Pennine hill this season. Also the first 50km XC. And the first 25km XC from a Pennine site by a Pennine pilot. The rest of us have got some serious catching up to do already.
 
 ---
 
