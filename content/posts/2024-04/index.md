@@ -264,6 +264,8 @@ And congratulations again to John Oliver - already mentioned in Competitions - f
 
 # Why Not Visit...
 
+Why not visit... is a quick look at a flying site far enough away that you can't see it from Clitheroe. In the UK or abroad, tell us all about somewhere fun to go.
+
 ### Clough Head
 
 _Where?_
@@ -321,7 +323,7 @@ Send in any recent(ish) shots with when and where they were taken. Spectacular, 
 **Shout Outs**  
 First ever XC? Smashed a PB? Took part in a comp? Let us know and get a shout out in the newsletter. Nominate your mates if they won't do it themselves.
 
-Send submissions on these or anything else you'd like to see featured to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk). You can also drop them over using the [web form](https://docs.google.com/forms/d/e/1FAIpQLSd3NJQKlmLjjlh-nZGQKaeXzN6dSSL2PHzKRXFYAy_Bw7SC9w/viewform?usp=sf_link) or message [Neil](t.me/NeilCharles) on Telegram.
+Send submissions on these or anything else you'd like to see featured to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk). You can also drop them over using the [web form](https://docs.google.com/forms/d/e/1FAIpQLSd3NJQKlmLjjlh-nZGQKaeXzN6dSSL2PHzKRXFYAy_Bw7SC9w/viewform?usp=sf_link) or message [Neil](https://t.me/NeilCharles) on Telegram.
 
 --- 
 
