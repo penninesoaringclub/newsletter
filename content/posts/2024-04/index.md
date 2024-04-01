@@ -218,7 +218,7 @@ This year Pennine Fest is the same weekend as the Chipping Steam Fair so it will
 
 Dinner at the Sun Inn on Saturday evening, which will be the usual chilli meal with a veg or vegan option. Please contact either Tim or Jim via social media or email accounts@penninesoaringclub.org.uk. We need to know numbers so do get your order in early as it always sells out. The room we use can accommodate 32 total.
 
-At the time of writing I don’t have prices for camping but the meal on Saturday night will be £9.
+At the time of writing I don’t have prices for camping but the meal on Saturday night will be £10, including a pound to the air ambulance. Cash only please!
 
 I’ll post more information on the Pennine Chat Telegram group when available.
 
