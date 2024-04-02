@@ -258,7 +258,7 @@ Scott's much too modest to have nominated himself for the shout out but he did m
 
 {{< video src="scott.mp4" controls="yes">}}
 
-And congratulations again to John Oliver - already mentioned in Competitions - for the first 100km XC from a Pennine hill this season. Also the first 50km XC. And the first 25km XC from a Pennine site by a Pennine pilot. The rest of us have got some serious catching up to do already.
+And congratulations again to John Oliver - already mentioned in Competitions - for the first 100km XC from a Pennine hill this season. Which also counts as the first 50km XC. And the first 25km XC from a Pennine site by a Pennine pilot. The rest of us have got some serious catching up to do already.
 
 ---
 
