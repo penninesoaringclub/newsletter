@@ -45,7 +45,7 @@ Patience and Persistence Promotes Perfect Paragliding. I like that one better. A
 
 *Graham Jones, Social Secretary*
 
-We were extremely privaged to have Jocky at our 2nd April Club Night. Among many other things Jocky is known as Cumbrias SIV Guru, team manager of the winning GB team in Argentina and part of a mountain resue team in the Lake District. His SIV trips to  Ölüdeniz in Turkey are legendary.
+We were extremely privaged to have Jocky at our 2nd April Club Night. Among many other things Jocky is known as Cumbria's SIV Guru, team manager of the winning GB team in Argentina and part of a mountain resue team in the Lake District. His SIV trips to  Ölüdeniz in Turkey are legendary.
 
 Jocky opened the evening by expressing his sadness at the tragic loss of Malcolm Grout. Malc was well known for his tireless kindness in helping other paragliders in safety and progression. With Malc in mind Jocky was here to spread his own kindness to our club members and update us on Wing Recovery Techniques.
 
@@ -67,19 +67,19 @@ You can watch the video of this fantastic evening [here](https://www.youtube.com
 
 ![](safety1.jpg)
 
-As April passed by rapidly, fortunately there has been no serious accidents to report, however several incidents occurred. Are these avoidable? Perhaps, though human error is a part of life and the learning curve. Our focus on the strong spring conditions, mixed with the intense passion to paraglide and hang glide takes over our senses.
+As April passed by rapidly, fortunately there have been no serious accidents to report, however several incidents occurred. Are these avoidable? Perhaps, though human error is a part of life and the learning curve. Our focus on the strong spring conditions, mixed with the intense passion to paraglide and hang glide takes over our senses.
 
 It’s exciting to see several Pennine pilots flying new wings this season. Good decision making on favorable weather condition days, followed by reports of successful test flights gives confidence in manufacturing advances and production quality. Safety on the B class wings is extremely impressive with no compromise on performance.
 
 The local hills have been a busy place for low airtime and experienced pilots, all looking out for each other, coaching and sharing advice. This creates a safe friendly club environment we can be proud of. The flying season is now well underway, so staying vigilant is a priority especially with the strong spring conditions many of us have experienced. On thermic days, keeping an amount of separation from the hill gives you more time, options and a safety buffer should you get a collapse or unstable flight characteristics. Bullet thermals that form on the hillside rise very rapidly.
 
-Reverting back to Jocky Sanderson’s club night presentation, with the emphasis of fast well timed inputs. Controlling the wing stability above, and using the brakes in a fluid smooth manner utilizes active flying to suit the conditions.
+Reverting back to Jocky Sanderson’s club night presentation, with the emphasis on fast well timed inputs. Controlling the wing stability above, and using the brakes in a fluid smooth manner utilizes active flying to suit the conditions.
 
 ### Incident Reports
 
 #### Checking emergency parachute pins & plastic retaining rods
 
-Incident - On landing fellow pilots noticed the harness reserve opening compartment is fully open, with the loop retaining rods not in situ. The deployment handle is still in the correct position, attached with the Velcro/hook & loop setup that is standard on many harness brands.
+On landing fellow pilots noticed the harness reserve opening compartment was fully open, with the loop retaining rods not in situ. The deployment handle was still in the correct position, attached with the Velcro/hook & loop setup that is standard on many harness brands.
 
 ![](chutecollage.jpg)
 
@@ -95,7 +95,7 @@ A little bit of consideration is sometimes required on placement of all your fly
 
 Witnessing a pilot preparing to launch, only a few meters upwind of everybody's equipment in strong conditions raised concern. A discussion took place, how the pilot would hop-scotch through lines, wings, harnesses plus kicking helmets. Only for this to happen immediately.
 
-A prompt short dragging followed. Control of the paraglider was regained, with dusting off slight embarrassment, onlookers quickly prompted the pilot to reposition in a more suitable area.
+A prompt short dragging followed. Control of the paraglider was regained, with dusting off and slight embarrassment, onlookers quickly prompted the pilot to reposition in a more suitable area.
 
 ![](busy.jpg)
 
@@ -107,7 +107,7 @@ Contributory factors...
 Pilot - Poor or insufficient pre-flight check.  
 Equipment - Harness failure or malfunction.
 
-Normal launch after wing-walking to a better spot. Struggles to get legs into pod (normally very easy with my setup). Persevered and forced legs into pod, only to find the pod was too short and I couldn't get them out again. Managed to get one foot out and was able to climb sufficiently to make a very inelegant top landing on one foot in deep mud and was able to control the glider despite falling over. One of the pod tensioning lines had snagged in on something internally, so the foot plate was too close. Not easy to spot on the pre-flight check as it only showed up when I tried to get my legs in. Correct action would have been to land immediately without putting my legs in the pod when I realised something was wrong.
+Normal launch after wing-walking to a better spot. Struggles to get legs into pod (normally very easy with my setup). Persevered and forced legs into pod, only to find the pod was too short and I couldn't get them out again. Managed to get one foot out and was able to climb sufficiently to make a very inelegant top landing on one foot in deep mud and was able to control the glider despite falling over. One of the pod tensioning lines had snagged on something internally, so the foot plate was too close. Not easy to spot on the pre-flight check as it only showed up when I tried to get my legs in. Correct action would have been to land immediately without putting my legs in the pod when I realised something was wrong.
 
 An incident report has been submitted by the pilot, alongside a wise statement...
 
@@ -135,7 +135,7 @@ Edenfield is closed for lambing until 25th May and if you're travelling to our n
 
 To say it’s been a slow start to the flying season would be a massive understatement! I think it’s the worst winter/spring that I’ve known since I learned to fly. There has still been some activity on the coaching front, though.
 
-As the Pennine Post reported last month, quite a few of our members have been supported to take their Pilot exams, this spring.
+As the Post reported last month, quite a few of our members have been supported to take their Pilot exams, this spring.
 
 Despite the recent poor weather, we still managed to have a successful coaching day at Winter Hill, on Sunday 21st April. One of our members achieved his first flights outside of the school environment, and manged some decent soaring and top landing. Others also manged some very good top landings on what can seem like an intimidating site. I’d like to thank the other coaches, who gave up their time to help, too.
 
