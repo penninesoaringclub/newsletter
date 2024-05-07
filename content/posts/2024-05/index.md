@@ -55,9 +55,9 @@ Thank you Jocky Sanderson from all the members of Pennine Soaring Club.
 
 You can watch the video of this fantastic evening [here](https://www.youtube.com/watch?v=zLCVqq16SEY&ab_channel=PennineSoaringClub).
 
-![](jocky1.jpg)
+[![](jocky1.jpg)](jocky1.jpg)
 
-![](jocky2.jpg)
+[![](jocky2.jpg)](jocky2.jpg)
 
 ---
 
@@ -65,7 +65,7 @@ You can watch the video of this fantastic evening [here](https://www.youtube.com
 
 *Barry Sayer, Safety Officer*
 
-![](safety1.jpg)
+[![](safety1.jpg)](safety1.jpg)
 
 As April passed by rapidly, fortunately there have been no serious accidents to report, however several incidents occurred. Are these avoidable? Perhaps, though human error is a part of life and the learning curve. Our focus on the strong spring conditions, mixed with the intense passion to paraglide and hang glide takes over our senses.
 
@@ -97,7 +97,7 @@ Witnessing a pilot preparing to launch, only a few meters upwind of everybody's 
 
 A prompt short dragging followed. Control of the paraglider was regained, with dusting off and slight embarrassment, onlookers quickly prompted the pilot to reposition in a more suitable area.
 
-![](busy.jpg)
+[![](busy.jpg)](busy.jpg)
 
 *A busy day on a Yorkshire flying site*
 
@@ -248,7 +248,7 @@ https://www.xcleague.com/xc/flights/20241121.html
 
 ### 24th - 27th May (the whole bank holiday weekend)
 
-![](fest.jpg)
+[![](fest.jpg)](fest.jpg)
 
 This year Pennine Fest is the same weekend as the Chipping Steam Fair so it will be lively.
 
@@ -284,9 +284,12 @@ Camping is £8 per pitch (tent, caravan or motor home) + £6 for an electric hoo
 
 Many thanks to Paul Winterbottom for erecting a brand new windsock for us all in Parlick landing field!
 
-![](windsock.jpg)
+[![](windsock.jpg)](windsock.jpg)
 
 And congratulations to our Chairman Brian on a fantastic 20km FAI [triangle](https://xcleague.com/xc/flights/20241208.html?vx=15) out to Beacon Fell and back from Longridge.
+
+[![](brian_longridge.jpg)](brian_longridge.jpg)
+*Brian chasing Jim and Pete*
 
 ![](triangle.jpg)
 
