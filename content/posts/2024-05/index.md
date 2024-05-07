@@ -29,7 +29,7 @@ Thank you to everyone who's contributed to this issue. Keep those photos and sho
 
 *Brian Stewart, Chairman*
 
-Such sad news to hear that Kevn Mcloughlin, long time PSC member and a stalwart of paragliding up here in our neck of the woods, passed away recently. A familiar, friendly, helpful face on the hill, one of those quiet heroes who would help anyone and be involved in whatever was happening on the hill, he will be sorely missed by the huge number of people who knew him. The funeral will take place at Lancaster Crematorium on Tuesday 7th May at 13:30. RIP, Kevin.
+Such sad news to hear that Kevin Mcloughlin, long time PSC member and a stalwart of paragliding up here in our neck of the woods, passed away recently. A familiar, friendly, helpful face on the hill, one of those quiet heroes who would help anyone and be involved in whatever was happening on the hill, he will be sorely missed by the huge number of people who knew him. The funeral will take place at Lancaster Crematorium on Tuesday 7th May at 13:30. RIP, Kevin.
 
 Today’s theme is alliteration. The military have a saying along the lines of: “Proper Preparation Prevents Piss-Poor Performance”. Hmmm, should have taken that one on board the other week. After faffing about at Longridge (great shout out for Simon B for hanging around there for his coachees and missing some personal flying), I was persuaded to trek to Pendle. In a previous paragliding life, in an earlier millennium, I used to be the one chasing all over the country to find some ‘better’ conditions; once I was reincarnated after the noughties, I vowed that would not be me – make a decision and stick with it would be my mantra.
 
@@ -45,7 +45,7 @@ Patience and Persistence Promotes Perfect Paragliding. I like that one better. A
 
 *Graham Jones, Social Secretary*
 
-We were extremely privaged to have Jocky at our 2nd April Club Night. Among many other things Jocky is known as Cumbria's SIV Guru, team manager of the winning GB team in Argentina and part of a mountain resue team in the Lake District. His SIV trips to  Ölüdeniz in Turkey are legendary.
+We were extremely privileged to have Jocky at our 2nd April Club Night. Among many other things Jocky is known as Cumbria's SIV Guru, team manager of the winning GB team in Argentina and part of a mountain rescue team in the Lake District. His SIV trips to  Ölüdeniz in Turkey are legendary.
 
 Jocky opened the evening by expressing his sadness at the tragic loss of Malcolm Grout. Malc was well known for his tireless kindness in helping other paragliders in safety and progression. With Malc in mind Jocky was here to spread his own kindness to our club members and update us on Wing Recovery Techniques.
 
@@ -69,7 +69,7 @@ You can watch the video of this fantastic evening [here](https://www.youtube.com
 
 As April passed by rapidly, fortunately there have been no serious accidents to report, however several incidents occurred. Are these avoidable? Perhaps, though human error is a part of life and the learning curve. Our focus on the strong spring conditions, mixed with the intense passion to paraglide and hang glide takes over our senses.
 
-It’s exciting to see several Pennine pilots flying new wings this season. Good decision making on favorable weather condition days, followed by reports of successful test flights gives confidence in manufacturing advances and production quality. Safety on the B class wings is extremely impressive with no compromise on performance.
+It’s exciting to see several Pennine pilots flying new wings this season. Good decision making on favourable weather condition days, followed by reports of successful test flights gives confidence in manufacturing advances and production quality. Safety on the B class wings is extremely impressive with no compromise on performance.
 
 The local hills have been a busy place for low airtime and experienced pilots, all looking out for each other, coaching and sharing advice. This creates a safe friendly club environment we can be proud of. The flying season is now well underway, so staying vigilant is a priority especially with the strong spring conditions many of us have experienced. On thermic days, keeping an amount of separation from the hill gives you more time, options and a safety buffer should you get a collapse or unstable flight characteristics. Bullet thermals that form on the hillside rise very rapidly.
 
@@ -85,7 +85,7 @@ On landing fellow pilots noticed the harness reserve opening compartment was ful
 
 #### Ooops,I did it again
 
-After a uneventful take off on Jeffery Hill I noticed my karabiner had rotated slightly. Again! I landed immediately to check everything, again. Two overkill 'O rings' are now fitted. 
+After an uneventful take off on Jeffery Hill I noticed my karabiner had rotated slightly. Again! I landed immediately to check everything, again. Two overkill 'O rings' are now fitted. 
 
 ![](binercollage.jpg)
 
@@ -137,7 +137,7 @@ To say it’s been a slow start to the flying season would be a massive understa
 
 As the Post reported last month, quite a few of our members have been supported to take their Pilot exams, this spring.
 
-Despite the recent poor weather, we still managed to have a successful coaching day at Winter Hill, on Sunday 21st April. One of our members achieved his first flights outside of the school environment, and manged some decent soaring and top landing. Others also manged some very good top landings on what can seem like an intimidating site. I’d like to thank the other coaches, who gave up their time to help, too.
+Despite the recent poor weather, we still managed to have a successful coaching day at Winter Hill, on Sunday 21st April. One of our members achieved his first flights outside of the school environment, and managed some decent soaring and top landing. Others also managed some very good top landings on what can seem like an intimidating site. I’d like to thank the other coaches, who gave up their time to help, too.
 
 ![](coachingcollage.jpg)
 
