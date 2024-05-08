@@ -285,7 +285,7 @@ Camping is £8 per pitch (tent, caravan or motor home) + £6 for an electric hoo
 # Dates For Your Diary
 
 ### Look Out for Coaching Days
-- To be announced on the coaching [Telegram group](https://t.me/+rvaylQ5qz0FhODc0).
+- To be announced on the coaching Telegram group
 
 ### 24th - 27th May, Pennine Fest
 - Get your Saturday pub dinner booked via Jim if you want one
