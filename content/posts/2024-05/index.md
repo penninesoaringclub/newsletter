@@ -83,7 +83,7 @@ On landing fellow pilots noticed the harness reserve opening compartment was ful
 
 ![](chutecollage.jpg)
 
-#### Ooops,I did it again
+#### Ooops, I did it again
 
 After an uneventful take off on Jeffery Hill I noticed my karabiner had rotated slightly. Again! I landed immediately to check everything, again. Two overkill 'O rings' are now fitted. 
 
