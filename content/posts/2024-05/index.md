@@ -209,7 +209,7 @@ A good line for the next 7km sees us back to 5,100' with 23km to go - ahead is C
 It occurred to me that this climb just may be a sea breeze convergence, a moment of roughness and decreasing wind speed raised that suspicion and fearing our tailwind would turn into a headwind we each took the final climb higher than we needed. Alex and I sailed in with >3,000' to spare. 
 
 [![](rm10.jpg)](rm10.jpg)  
-*18:32 A well research LZ is a low stress LZ*
+*18:32 A well researched LZ is a low stress LZ*
 
 On final glide I'd reminded the gang that time was of the essence; a quick pack and jog to the station to ensure we made the last train. They heeded my advice and t'was I the laggard of the bunch being assisted to pack my glider away, how embarrassing!
 
@@ -232,15 +232,37 @@ https://www.xcleague.com/xc/flights/20241121.html
 
 *Elliott Brown, Competitions Secretary*
 
+Written for April, as flights keep coming in!
+
+Well, it would seem that there has been a bout of good weather days for flying distance in the last month, about 5 days of fantastic distance flights being recorded up and down the country. Mainly a lot of Southern sites, but with some great flights in Scotland, like Tinto and Aonach Mor getting a look in.
+The 20th of April had the lion's share of big distance attempts, with a little site called Leckhampton Hill (I’ve not been to myself). While having a look into the site, I stumbled across a [news article](https://www.gloucestershirelive.co.uk/news/cheltenham-news/paragliders-launch-beauty-spot-never-9238367) from the day, it looked very busy above take off! 
+
+[![](comps1.png)](https://www.xcontest.org/united-kingdom/flights/daily-score-pg/#filter[date]=2024-04-20)
+
+Below is my favourite for this month, just because of the mountains that they are flying through and the multiple crossings of various Lochs through the flight. One for the wish list for me.
+
+[![](comps2.png)](https://www.xcontest.org/world/en/flights/detail:Fireater/17.4.2024/12:35) 
 
 ### Northern Challenge Series
+http://www.xcmap.net/ 
 
+The leaderboard is getting a fair few new entries from pilots all over, with the top scorer completing another task on their EN-A. Four of the tasks have been completed now, with a CSC pilot completing the local Longridge. New tasks on Parlick and Pendle haven’t been attempted and submitted yet, maybe your name will be here next? We need more Pennine Pilots to have a go, it’s a great tool to learn how to use your phone/device tasking and pushing yourself a bit further away from the hill.
+
+Even if you’re not really flying the task, you might clock up some points bobbing around trying to get away (see my Windbank flight).
+
+[![](comps3.png)](comps3.png) 
 
 ### XContest
 
+Richard’s sequential epic flights from Derbyshire have well and truly put him in pole position, and Brian has entered a number of FAI triangle flights, which always score nicely.
+
+[![](comps4.png)](https://www.xcontest.org/united-kingdom/ranking-club:2688)
 
 ### XC League
 
+John’s still holding the pole position strongly with his great XC from last month, now supplemented by an FAI triangle on Pendle, which is a top scorer with a 2.3x multiplier (note the multiplier on XContest is only 2.1, so slightly different scores for the same flight). More people are getting in the air this month, adding their flights in, so there has been a fair bit of movement up and down the board. Reminds me that I need to get some flights in the Pennines to get myself on there as well!
+
+[![](comps5.png)](https://xcleague.com/xc/leagues/view-15.html)
 
 ---
 
@@ -282,7 +304,7 @@ Camping is £8 per pitch (tent, caravan or motor home) + £6 for an electric hoo
 
 # Shout Outs
 
-Many thanks to Paul Winterbottom for erecting a brand new windsock for us all in Parlick landing field!
+Many thanks to Paul Winterbottom for erecting a brand new windsock for us all in Parlick landing field.
 
 [![](windsock.jpg)](windsock.jpg)
 
@@ -297,7 +319,7 @@ And congratulations to our Chairman Brian on a fantastic 20km FAI [triangle](htt
 
 # You Might Have Missed...
 
-With the slow demise of Facebook groups, [Telegram](https://telegram.org/) seems to be the new home of UK paragliding chat. If you're not a member of these PSC groups, get yourself signed up!
+With the slow demise of Facebook groups, [Telegram](https://telegram.org/) seems to be the new home of UK paragliding chat. If you're not a member of these PSC groups, get yourself signed up.
 
 - [Pennine Chat](https://t.me/+WE7P1V5MfyQ5DmxX)
 - [Pennine Site Conditions](https://t.me/+Up-PPy1d58Oh6TFu)
@@ -306,6 +328,7 @@ With the slow demise of Facebook groups, [Telegram](https://telegram.org/) seems
 There are also some UK wide chat groups that you might want to sign up for.
 - [BHPA Information](https://t.me/BHPA_Information) (broadcast only, not chat)
 - [XC Retrieve](https://telegram.me/joinchat/AY58wwCvsxw4XNLM0ycY8A) (vetting group to prevent spam, more details [here](https://flyaszent.com/xc-retrieve/))
+- [Site Alerts](https://alerts.hilltop-analytics.com/) (Telegram alerts when pilots are flying on your local sites)
 - [XCTrack](https://t.me/xctrack) users
 - [XCTracer](https://t.me/XCTracerUK) owners
 
