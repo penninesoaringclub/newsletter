@@ -10,6 +10,10 @@ theme = ["gokarna", "hugo-shortcode-gallery"]
 # Automatically generate robots.txt
 enableRobotsTXT = true
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-QF1CT99HJK'
+
 [params]
   galleryLoadJQuery = true
   footer = "Pennine Soaring Club"
