@@ -122,14 +122,14 @@ I was lucky enough to be able to go out to Sopot in Bulgaria this year for the B
 We had 3 really good tasks, cloud base up to 9500 feet plus strong reliable thermals gave us some great, if sometimes challenging, flying. A chairlift to the main take off was a bonus, but even when we drove to another site further south it was a nice easy stroll to the take off and having trackers provided gave a nice feeling people were looking out for you. Transport was even provided to places of interest that we were able to visit on 2 of the days that the weather didn’t cooperate and an interesting, informative presentation by Gareth on competition flying
 one evening.
 
-![](jm1.jpg)  
+![](jm1.png)  
 *Looking back towards Sopot*
 
 The camaraderie between everyone was a joy to experience, the bars and restaurants in Sopot definitely benefited from our presence. I learnt a great deal in the week, especially when it came to programming tasks into my instruments and was impressed by the way everyone was so ready to help each other. If you are looking at getting into competitions or improving your flying the BP Cup is a great way to experience proper task setting but in a friendly but still competitive arena.
 
 For me a big thanks are due to the eagle that joined me on task 2, yet again proving how lucky we are to participate in such an exciting and rewarding sport, how many people have ever had the opportunity to glide wingtip to wingtip with these magnificent animals. Also thanks to Sky Nomads the local paragliding school for their support throughout the week, helping with transfers and accommodation in addition to the detailed briefings and excellent retrieves, the sponsors that provide the support and prizes, but most of all a massive thanks to Viv and Gareth for the huge amount of effort they put into organising and running the series.
 
-![](jm2.jpg)  
+![](jm2.png)  
 *The view from 9,000'*
 
 ---
