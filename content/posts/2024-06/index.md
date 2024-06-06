@@ -148,8 +148,7 @@ A fair few Pennie pilots entered the competition this year, including myself and
 
 The [BP Cup](https://www.bpcup.co.uk/) is a great introduction into competition flying and I know when I first did a round, I was peppering Gareth Aston with questions about how the competitions are run and the different types of tasks etc. There are two parts at the moment, a UK round and European round, somewhere a bit warmer. Drama in Greece is the destination for this year and there seem to be a few places still going… 
 
-Pennine pilots; 
-Yannick Le Gall, David McLean, John Murphy, Kieran Myles, Paul Winterbottom
+Pennine pilots: Yannick Le Gall, David McLean, John Murphy, Kieran Myles, Paul Winterbottom
 
 ### Northern Challenge Series 2024
 A couple of new flights have been entered into the league but no major movements at the top. I’m really hoping to get to Longridge to fly someday and maybe try the task out.
