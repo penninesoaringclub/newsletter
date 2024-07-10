@@ -66,7 +66,7 @@ The XC comp brief was “Its windy today, but fancy a walking task?” That had 
 
 [![](lcc/2.jpg)](2.jpg)
 
-After being reminded of my X-Lakes comp from a few year ago, i was in the mood for a mini epic of my own. So i scrambled up Grassmoor.
+After being reminded of my X-Lakes comp from a few years ago, I was in the mood for a mini epic of my own. So I scrambled up Grassmoor.
 
 [![](lcc/3.jpg)](3.jpg)
 
