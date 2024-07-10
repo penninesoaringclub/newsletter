@@ -234,6 +234,8 @@ Loads of new pilots appearing on the Pennine League this month, looks like the s
 
 Well, the weather still hasn’t got much better. Apart from a couple of reasonable days for the Lakes Charity Classic, it’s been pretty pants, so there hasn’t been much on the hill coaching happening.
 
+Congratulations though, to Sean Mercer and Matt Haywood for passing their Pilot exams!
+
 I’m still watching the weather for another coaching day, so keep checking the coaching Telegram group for updates. The next time there looks to be a good weekend I’ll try to do something.
 
 ---
