@@ -60,27 +60,27 @@ Arqiva the mast operators apologise for the inconvenience caused.
 
 LCC early Friday morning, I arrived early as I fancied a bit of street style photography of the X-Lakes guys before they set off. I wanted to be around the nervous excitement that’s quite unique to Hike and fly. But  just ending up chatting to people. Bud was taking tactics and weather at double speed, others unsure about routes.
 
-[![](lcc/1.jpg)](1.jpg)
+[![](john1.jpg)](john1.jpg)
 
 The XC comp brief was “Its windy today, but fancy a walking task?” That had a good up take.
 
-[![](lcc/2.jpg)](2.jpg)
+[![](john2.jpg)](john2.jpg)
 
 After being reminded of my X-Lakes comp from a few years ago, I was in the mood for a mini epic of my own. So I scrambled up Grassmoor.
 
-[![](lcc/3.jpg)](3.jpg)
+[![](john3.jpg)](john3.jpg)
 
 Saturday came good. The Thirlmere valley was full of gliders by the time I was in the air. Exactly why I love comps, people marking the good and not so good spots all along it.
 
 The B-Comp had a task up and down. The A-Comp was up then to the west, plus a mix of X-Lakers setting up on Helvellyn, therefore people you were with not necessarily on the same mission as you. No gaggles formed but seeing the lakes full of gliders was fantastic.
 
-[![](lcc/4.jpg)](4.jpg)
-[![](lcc/5.jpg)](5.jpg)
-[![](lcc/6.jpg)](6.jpg)
-[![](lcc/7.jpg)](7.jpg)
-[![](lcc/8.jpg)](8.jpg)
-[![](lcc/9.jpg)](9.jpg)
-[![](lcc/10.jpg)](10.jpg)
+[![](john4.jpg)](john4.jpg)
+[![](john5.jpg)](john5.jpg)
+[![](john6.jpg)](john6.jpg)
+[![](john7.jpg)](john7.jpg)
+[![](john8.jpg)](john8.jpg)
+[![](john9.jpg)](john9.jpg)
+[![](john10.jpg)](john10.jpg)
 
 ---
 
