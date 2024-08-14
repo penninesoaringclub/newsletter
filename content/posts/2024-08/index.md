@@ -225,7 +225,7 @@ For the few of us that did manage to get away that day gave some interesting con
 
 Another light wind day on Fairsnape, another (im)patient wait for something to kick off. Murf & John O were first into it, JM taking a speculative punt towards Paddy’s Pole and finding some screeching gulls to mark the climb.
 
-![](brian1.jpg)
+![](brian_1.jpg)
 
 John O pushed forward finding good lift out towards Beacon Fell. Murf had been gone a while before the next (and final?) cycle came through and a few of us made hard work of the initial climb before Jim, Scott, Nobby and Graham joined me over the back.
 
@@ -233,11 +233,11 @@ Jim was off like a greyhound, and chasing him I could see that the convergence l
 
 We each took turns at skying out and gully grovelling. Inevitably the A65 proved to be an effective barrier, which was so frustrating as the sky looked great again in the Dales. I felt like we knew everyone in the village as we bumped into first Kerim, of Nova fame, then Steve Newiss as we left the field. Best bit was finding a 7-seater taxi just over the road, which made for a nice easy retrieve. Another grand day out for the Pennini.
 
-![](brian2.jpg)
+![](brian_2.jpg)
 
-![](brian3.jpg)
+![](brian_3.jpg)
 
-![](brian4.jpg)
+![](brian_4.jpg)
 
 ---
 
