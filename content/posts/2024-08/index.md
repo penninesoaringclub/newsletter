@@ -60,7 +60,7 @@ Scott O’Neil and I went competing in Slovenia. Weather wasn’t playing ball t
 
 First day after I arrived, before the comp. Scott and I tried to get to Italy, but the border was closed to us (low clouds on the ridge), but we had a great flight.
 
-![](elliot1.jpg)
+[![](elliot1.jpg)](elliot1.jpg)
 
 ### Day 4 - Task 1:
 
@@ -71,17 +71,17 @@ Headed to Lijak, as that would give us the best options for flying, while we had
 Steep take off and tree covered ridge to start gaining height. Big gaggles drifting not very high over trees, not the most comfortable flying for me. Decided to just try and get high and race through.
 
 Cloud in my way over TP2, not used to being this high.
-![](elliot3.jpg)
+[![](elliot3.jpg)](elliot3.jpg)
 
 Got low taking the direct route to TP3 and passing through thermals. This church (I was praying to it!) saved me, not many options below.
-![](elliot4.jpg)
+[![](elliot4.jpg)](elliot4.jpg)
 
 Angry sky and rain in the next valley (foreshadowing…)
 
 Should have called level 3 over the radio, but the task was stopped as I was heading back to goal and I got wet.
 
 Task was stopped and not cancelled, so we scored points. From when it was stopped, all pilots were given a 4:1 glide. So, if you were high when it was stopped, you get more points. Cancelled = no points.
-![](elliot5.jpg)
+[![](elliot5.jpg)](elliot5.jpg)
 
 
 ### Day 5 - Task 2:
@@ -92,25 +92,25 @@ Flying in Tolmin, weather vastly improved.
 
 Gaggle flying is fun.
 
-![](elliot7.jpg)
+[![](elliot7.jpg)](elliot7.jpg)
 
 Start times are really important, I should have realised that I was jumping the gun.
 
-![](elliot8.png)
+[![](elliot8.png)](elliot8.png)
 
 Epic views.
 
-![](elliot9.jpg)
+[![](elliot9.jpg)](elliot9.jpg)
 
 Heading back from TP1 I made a friend.
 
-![](elliot10.jpg)
+[![](elliot10.jpg)](elliot10.jpg)
 
 It looks miles away, but I was thermalling with my buddy. Just an amazing bit of the flight. (Last time I tried to film with an eagle, I fell out of the thermal and shortly landed on the last day of comp).
 
 Struggle my way back towards TP2, without getting a climb, risked the Kozlov Rob to get a thermal, but got rained on for a bit instead.
 
-![](elliot11.jpg)
+[![](elliot11.jpg)](elliot11.jpg)
 
 Took a risk and got to the other side of the valley to scratch up the face, but left early to get the TP (mistake). Nothing to be had on the way back, landed at goal, a couple of turnpoints early.
 
@@ -122,33 +122,33 @@ Epic day to be had:
 
 More gaggle flying.
 
-![](elliot13.jpg)
+[![](elliot13.jpg)](elliot13.jpg)
 
 Wanted to start in the lead, so got too keen and didn’t have the right height, but was at the front.
 
 To the mountains!
 
-![](elliot14.jpg)
+[![](elliot14.jpg)](elliot14.jpg)
 
 This had to be some of the coolest flying terrain I’ve ever been in.
 
 More big mountains.
 
-![](elliot15.jpg)
+[![](elliot15.jpg)](elliot15.jpg)
 
 Having a play near the hut (someone please look up, I need attention).
 
-![](elliot16.jpg)
+[![](elliot16.jpg)](elliot16.jpg)
 
 Bovec in the next valley.
 
 Turn point 5 and looking into Bovec, had a lot of Photons coming at me when heading towards this TP!
 
-![](elliot17.jpg)
+[![](elliot17.jpg)](elliot17.jpg)
 
 Got really high and decided to nip over the back and into the valley that would be a horrendous to land in or get a retrieve from
 
-![](elliot18.jpg)
+[![](elliot18.jpg)](elliot18.jpg)
 
 I spent most of this flight giggling at the pilot in front of me, who had the name Suboptimus Prime, everytime I looked at XCTrack.
 
@@ -156,11 +156,11 @@ This is the only thing that I wanted to get out of the trip.
 
 Got to goal!
 
-![](elliot19.jpg)
+[![](elliot19.jpg)](elliot19.jpg)
 
 What a welcome.
 
-![](elliot20.jpg)
+[![](elliot20.jpg)](elliot20.jpg)
 
 ---
 
@@ -188,6 +188,8 @@ I’m also hoping to get permission for somewhere we can use for a ground handli
 
 ![](coaching3.jpg)  
 *Photos: Pete Phillips*
+
+---
 
 *John Murphy writes...*
 
