@@ -142,6 +142,14 @@ As always, the success of these events is a result of great planning and organis
 
 ---
 
+# Shout Outs
+
+Congratulations to Jacob Butterworth and the British team, who took bronze at the 1st FAI Junior World Paragliding Championships in Tolmin.
+
+[![](jacob.jpg)](jacob.jpg)
+
+---
+
 # Competitions
 
 *Elliott Brown, Competitions Secretary*
