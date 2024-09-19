@@ -148,6 +148,10 @@ Congratulations to Jacob Butterworth and the British team, who took bronze at th
 
 [![](jacob.jpg)](jacob.jpg)
 
+And bravo to Baz Roberts and Cumbria Soaring Club, who have managed to restore permission to fly at Carrock and Caldbeck Common.
+
+[![](carrock.jpg)](carrock.jpg)
+
 ---
 
 # Competitions
@@ -172,9 +176,9 @@ Congratulations to Jacob Butterworth and the British team, who took bronze at th
 
 ### Winter Club Nights
 
-Winter club nights are provisionally booked for the second Monday of each month: 14th October, 11th November, 9th December, 13th January, 10th February, 10th March & 14th April.
+*Graham Jones, Social Secretary*
 
-Keep an eye on Telegram for confirmation of dates and topics.
+Club nights will return as usual on the second Monday of each month throughout the winter, with the first one booked for 14th October at the [Sea View Inn, Chorley](https://theseaviewchorley.co.uk/). Keep an eye on Telegram for confirmation of further dates and topics.
 
 ---
 
