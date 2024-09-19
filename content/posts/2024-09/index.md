@@ -144,7 +144,7 @@ As always, the success of these events is a result of great planning and organis
 
 # Shout Outs
 
-Congratulations to Jacob Butterworth and the British team, who took bronze at the 1st FAI Junior World Paragliding Championships in Tolmin.
+Congratulations to Jacob Butterworth and the British team, who took bronze at the 1st [FAI Junior World Paragliding Championships](https://www.fai.org/CIVL-Tolmin-2024) in Tolmin.
 
 [![](jacob.jpg)](jacob.jpg)
 
@@ -165,6 +165,16 @@ Congratulations to Jacob Butterworth and the British team, who took bronze at th
 ### XC League
 
 [![](xcleague.png)](https://xcleague.com/xc/leagues/view-15.html)
+
+---
+
+# Dates For Your Diary
+
+### Winter Club Nights
+
+Winter club nights are provisionally booked for the second Monday of each month: 14th October, 11th November, 9th December, 13th January, 10th February, 10th March & 14th April.
+
+Keep an eye on Telegram for confirmation of dates and topics.
 
 ---
 
