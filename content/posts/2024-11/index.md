@@ -109,7 +109,40 @@ Arqiva the mast operators apologise for the inconvenience caused.
 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
 
-{{< youtube "oBtzDEH7QwY" >}}
+{{< youtube "XKcrpOcJ3P4" >}}
+
+---
+
+# Safety
+
+*Barry Sayer, Safety Officer*
+
+Such bad weather has equated to no new incidents and accidents over the last few months and that's not a bad thing to write, although we could all favour more flyable days. The weather gods are providing very few opportunities to attack the hills and when a flying window has appeared the conditions have been quite spicy, with turbulent air, strong winds and big wind gradients to test all your pilot skills. Make good decisions and don't get caught out due to desperation to fly.
+
+Our chairman's article in Skywings last month was fantastic, revisiting the crucial elements of 'sharing the sky' with Bowland gliding club. Reading the site guide and familiarising yourself with the sailplanes' landing circuit and flight patterns will not only secure our good club relationship, it will keep everyone safe.
+
+### Reserve repack day
+A reserve repack day (your emergency parachute system) will take place early March 2025. It is provisionally planned for Sunday 09/03/25 - confirmation will follow. 
+Pencil this in your diary! It's essential that your reserve works correctly should you need it. Learning how to inspect your parachute, fold it as-per manufacturers spec and then install it in your harness is relatively straightforward and very satisfying.
+
+Previous repack days have always been successful with a nice relaxed atmosphere at Chipping village hall and excellent attendance from many of the PSC members. 
+
+### Cloud flying 
+
+[![](barry1.jpg)](barry1.jpg)
+
+It is inevitable that at some point during your paragliding or hang gliding adventures that you will end up in the white room. [Recent news reports](https://xcmag.com/news/paraglider-pilot-swept-to-7300m-in-himalayan-storm-and-survives/?utm_source=facebook&utm_medium=Social&utm_campaign=News&fbclid=IwY2xjawGPf-lleHRuA2FlbQIxMQABHW84kYjjsM6-yhlx61GA8O2ZLuUiwm4wjrewQ9PXjAI05TKnEg6t64oUBg_aem_C992fK_2iqLYpGbKx6wKbA) of a paraglider pilot being sucked into a cloud on a cross country flight in India saw him reach altitudes of over 7,000 metres, not of their choice. Incredible assent rates and rapid decent techniques not working must be a frightening experience most would like to avoid. The pilot survived fortunately.
+
+Large clouds will suck you into them so being fully aware of the conditions and environment you are flying in is very important. It is vital that you have an early and safe escape route, using rapid decent methods as to keep a visual with other air traffic and in clear sight of the ground.
+On occasions it's a great memorable experience whilst skimming clouds and flying through small ones. The danger lies with you having no visibility, no visual reference of the ground, and this can result in disorientation and even unnerving panic.
+
+A personal experience of going in the white room this summer on  a beautiful thermic day at Windbank in Yorkshire. The five star day took many pilots up to a cloud base at 4,700 feet, and with a brief use of big ears to lose the required altitude it was a simple effective manoeuvre to resume back to normal flight conditions. Good communication and separation with my flying buddy, plus holding our heading, was the key factor to drop out of the climb. Collision avoidance is a priority in these situations, just imagine several pilots flying in a cloud making turns, it would inevitably cause a very dangerous scenario for mid air collision.
+
+{{< youtube "JC1jXkR3nnHiwfJK" >}}
+
+[![](barry2.jpg)](barry2.jpg)
+
+Safe flights everyone.
 
 ---
 
@@ -169,17 +202,23 @@ Telegram me direct or email competition@penninesoaringclub.org.uk.
 
 ---
 
-# Dates For Your Diary
+# Memory Lane
 
-### Winter Club Nights
+Jim Ashley and two happy passengers, 13 years ago!
+
+[![](jim.jpg)](jim.jpg)
+
+---
+
+# Dates For Your Diary
 
 *Graham Jones, Social Secretary*
 
-**Monday 11th November** - Amazing flights with Richard Meek
+**Monday 11th November** - Club Night: Amazing flights with Richard Meek
 
-**Monday 9th December** - TBC
+**Monday 9th December** - Club Night: TBC
 
-Keep an eye open for more dates, including a repack in February organised by Barry.
+**Sunday 9th March** - Repack day (Date TBC, pencil it in but watch this space)
 
 [![](rm.png)](rm.png)
 
