@@ -77,6 +77,8 @@ If you run into even a relatively minor accident and you don't carry even a very
 
 # Notes from the Committee
 
+### Club night
+
 Our first club night of the year was dedicated to weather forecasting. Brian kicked us off with a deep dive into Rasp, followed by Andy, Simon and Neil on Met Office forecasts, aviation forecasts, XC Weather and wind at altitude.
 
 Our webmaster Carl has helpfully listed links to all of the different web resources we talked about, together with the video on the [PSC site](http://www.penninesoaringclub.org.uk/articles/article-list/social-night-october-2024-weather-forecasting-to-fly/).
@@ -84,6 +86,8 @@ Our webmaster Carl has helpfully listed links to all of the different web resour
 Even if you've been flying for years there might well be some new bits in here that you haven't heard before.
 
 {{< youtube "095H4l9V7tA" >}}
+
+### Help wanted
 
 A university student has contacted us via Facebook. If anyone would like to help please drop Jim Ashley a message for her email address.
 
