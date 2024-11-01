@@ -85,23 +85,13 @@ Even if you've been flying for years there might well be some new bits in here t
 
 {{< youtube "095H4l9V7tA" >}}
 
----
+A university student has contacted us via Facebook. If anyone would like to help please drop Jim Ashley a message for her email address.
 
-# Sites
+*I'm part of a group of university students tasked with creating a documentary for our degree over the next 5 weeks. We're researching and brainstorming interesting people to focus on and thought that paragliding as an unusual hobby and wondered if there would be anyone from the club who would be interesting in taking part. If anyone would be interested in taking part, you can email me at...* [give Jim a shout for Millie's email address].
 
-*Andy Archer, Sites Officer*
+*Thank you!*
 
-### Winter Hill
-
-Winter Hill Transmitter Mast is now a construction site and under the control of a contractor, this is due to replacement of the stay lines that are supporting the structure. The contractor will be managing the site from now until the 3rd of October 2024 and there will be some periods of significantly reduced access when the new stays are being lifted over and alongside the site access road, the work will also include weekend work.
-
-During working hours the gates on site will be locked and set to a code held by the contractor, out of hours (from 6pm – 8am) the code for the gates will be set to the same code as the Winter Hill barrier at the bottom of the hill.
-
-The site manager's contact details will be displayed on the gate however he is very unlikely to give access during normal working hours without a permit to work or legitimate cause to drive further up the hill to reach the other masts. 
-
-**As such can I ask for this period, that members avoid using the access track to Winter Hill? Instead please park in the [car park](https://maps.app.goo.gl/FDkwkiKyyyWwwcXPA) on Rivington Road and walk up the front face of the hill to take off.**
-
-Arqiva the mast operators apologise for the inconvenience caused.
+*Millie Bennett*
 
 ---
 
