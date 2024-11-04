@@ -210,7 +210,7 @@ Telegram me direct or email competition@penninesoaringclub.org.uk.
 
 # Memory Lane
 
-Jim Ashley and two happy passengers, 13 years ago!
+Jim Ashley with happy passengers Sam and Bryn, 13 years ago!
 
 [![](jim.jpg)](jim.jpg)
 
