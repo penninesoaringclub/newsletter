@@ -99,18 +99,6 @@ A university student has contacted us via Facebook. If anyone would like to help
 
 ---
 
-# Sites
-
-*Andy Archer, Sites Officer*
-
-Winter Hill maintenance work is ongoing and could continue to the end of November. Until work on the masts is completed, access remains via the [car park](https://maps.app.goo.gl/FDkwkiKyyyWwwcXPA) on Rivington Road and walking up the front face of the hill.
-
-Note from Arqiva:
-
-*As could be predicted due to the weather conditions up on the hill, the works have been hit with a few delays.  As it stands the work is continuing for another 2 weeks, it may run up to the end of November. Once the project team have handed the site over to our local team and access is restored I will send an email out on the access distribution list.*
-
----
-
 # The Gallery
 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
@@ -269,4 +257,4 @@ Send submissions on these or anything else you'd like to see featured to [editor
 
 --- 
 
-Fly safe, see you in January.
+Fly safe, see you in November.
