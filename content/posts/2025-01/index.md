@@ -1,6 +1,6 @@
 ---
-title: "November 2024"
-date: 2024-11-01T10:00:00+05:30
+title: "January 2024"
+date: 2025-01-01T10:00:00+05:30
 tags: 
 type: "post"
 image: "header.jpg"
