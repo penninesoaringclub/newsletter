@@ -1,6 +1,6 @@
 ---
 title: "2024 Awards Voting"
-date: 2024-12-01T10:00:00+05:30
+date: 2026-01-01T10:00:00+05:30
 tags: 
 type: "post"
 image: "header.jpg"
