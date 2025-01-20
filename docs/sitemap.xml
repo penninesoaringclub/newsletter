@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1353/posts/</loc>
+    <loc>https://post.penninesoaringclub.org.uk/posts/</loc>
     <lastmod>2026-01-10T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1353/</loc>
+    <loc>https://post.penninesoaringclub.org.uk/</loc>
     <lastmod>2026-01-10T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1353/posts/2024-11/</loc>
+    <loc>https://post.penninesoaringclub.org.uk/posts/2024-11/</loc>
     <lastmod>2024-11-01T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1353/posts/2024-09/</loc>
+    <loc>https://post.penninesoaringclub.org.uk/posts/2024-09/</loc>
     <lastmod>2024-09-17T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1353/posts/2024-08/</loc>
+    <loc>https://post.penninesoaringclub.org.uk/posts/2024-08/</loc>
     <lastmod>2024-08-13T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1353/posts/2024-07/</loc>
+    <loc>https://post.penninesoaringclub.org.uk/posts/2024-07/</loc>
     <lastmod>2024-07-08T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1353/posts/2024-06/</loc>
+    <loc>https://post.penninesoaringclub.org.uk/posts/2024-06/</loc>
     <lastmod>2024-06-01T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1353/posts/2024-05/</loc>
+    <loc>https://post.penninesoaringclub.org.uk/posts/2024-05/</loc>
     <lastmod>2024-05-07T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1353/posts/2024-04/</loc>
+    <loc>https://post.penninesoaringclub.org.uk/posts/2024-04/</loc>
     <lastmod>2024-04-02T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1353/posts/2024-03/</loc>
+    <loc>https://post.penninesoaringclub.org.uk/posts/2024-03/</loc>
     <lastmod>2024-03-05T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1353/categories/</loc>
+    <loc>https://post.penninesoaringclub.org.uk/categories/</loc>
   </url><url>
-    <loc>http://localhost:1353/tags/</loc>
+    <loc>https://post.penninesoaringclub.org.uk/tags/</loc>
   </url>
 </urlset>
