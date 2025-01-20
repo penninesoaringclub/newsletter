@@ -299,4 +299,4 @@ Send submissions on these or anything else you'd like to see featured to [editor
 
 --- 
 
-Fly safe, see you in November.
+Fly safe, see you in March.
