@@ -20,6 +20,26 @@ Some lucky Pennine pilots have had good days out over the winter at home and abr
 
 ---
 
+# Memberships
+
+*Matt Mottaghian, Membership Secretary*
+
+Membership renewals are due by 1st February. If you haven't already set up a transfer, please pay £25 using [Stripe](https://buy.stripe.com/5kA037gsM8jD1AQ145) and don't forget to include your BHPA number.
+
+For any queries, please contact [membership@penninesoaringclub.org.uk](mailto:membership@penninesoaringclub.org.uk)
+
+---
+
+# Mid-winter Curry Night
+
+All PSC members & friends welcome! 
+
+7pm on Thursday 30th January at [Sagar Premier](https://maps.app.goo.gl/3zmKZZuFgB7bYgnj9?g_st=ifm) in Preston. Set meal for only £22 with lots of choices and plenty to eat, including for vegans and veggies! Buy your own drinks at the bar.
+
+PM [Jacqui](https://t.me/Black_Puddin_Bertha) to book your place.
+
+---
+
 # Notes from the Committee
 
 ### Winter club nights
@@ -75,12 +95,6 @@ A reserve repack day (your emergency parachute system) will take place on 9th Ma
 It's essential that your reserve works correctly should you need it. Learning how to inspect your parachute, fold it as-per manufacturers spec and then install it in your harness is relatively straightforward and very satisfying.
 
 Previous repack days have always been successful with a nice relaxed atmosphere at Chipping village hall and excellent attendance from many of the PSC members. 
-
----
-
-# The Gallery
-
-{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
 
 ---
 
@@ -173,6 +187,12 @@ https://crickhowellparagliding.com/dragon-hike-and-fly-race-2025/
 
 ---
 
+# The Gallery
+
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
+
+---
+
 # Dates For Your Diary
 
 **18th - 25th January** - [British Winter Open](https://pgcomps.org.uk/timeline/) - Roldanillo, Colombia
@@ -191,7 +211,7 @@ https://crickhowellparagliding.com/dragon-hike-and-fly-race-2025/
 
 **24th - 27th April** - [BP Cup](https://www.bpcup.co.uk/node/12) - Yorkshire Dales
 
-**10th - 11 May** - [Dragon Hike and Fly](https://airtribune.com/dragon-hike-and-fly/info) - Crickhowell, Wales
+**10th - 11th May** - [Dragon Hike and Fly](https://airtribune.com/dragon-hike-and-fly/info) - Crickhowell, Wales
 
 **23rd - 25th May** - Pennine Fest (TBC) - Chipping, Lancashire
 
