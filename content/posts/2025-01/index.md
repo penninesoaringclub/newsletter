@@ -20,6 +20,26 @@ Some lucky Pennine pilots have had good days out over the winter at home and abr
 
 ---
 
+# Chairman's Chunterings
+
+*Brian Stewart, Chairman*
+
+2025 and all that . . . 
+
+Another trip round the solar system, passing an arbitrary position in our orbit and over a third of a billion miles travelled around the milky way, so it’s time to wish our reader a happy new year as we look forward to blue skies, fluffy cumulus and thermals just the right side of character building. I suppose it’s been an OK year in terms of flying, oop north we seem to have had the worst of the windy days, but whether it’s GJ clocking up the hours in every available weather window, JO and RM clocking 100km+ flights from our hills or JM topping our league there has been some good flying.
+
+Next month is the AGM, which is an important part of running a club like ours, where members get to see and scrutinise how the club’s officers have been running things on your behalf. As always, every member is entitled to volunteer for a post on the committee – in the unlikely event that the current post holder wants to contest it, this would be put to a vote at the AGM. Is there something you want to see develop within the club? Have you got suggestions for future social nights or club events? Ideally put these forward in advance of the AGM to give a chance to discuss them. It’s also the chance to celebrate the successes of the members receiving an award for their flying or contributions to the club. Be there!
+
+One issue that needs addressing is communication: Facebook, in my opinion, has progressively become more useless as a communication tool over the years and is no longer fit for this purpose, morphing into a click and rage-bait filled advertising medium. WhatsApp and Telegram have their uses but not everyone is willing to subscribe to them and they can become contentious if unchecked. Email should be much better than it is, but members change addresses, bulk emails disappear into junk folders – employers’ mail systems routinely filter these out. The club website should be the main repository of club communications and we will be working towards this, but there are potential problems contained in the digital legislation coming down the line – the threat of admins being held accountable for the contributions of individuals is making small organisations consider ending all forums.
+
+It is vital that the club can communicate effectively with all members and we welcome any suggestions for improvement, in particular how to best use the club website and direct members to look there for information. The various social media channels that carry the Pennine Club name need to be monitored and moderated. Another area that needs help is considering the effects of future airspace changes, in particular drone operations. This doesn’t need you to have special legal expertise, but attention to detail and willingness to read through CAA communications would be useful. If you feel you have any skills or experience that could help the club in these areas, then please step forward, we need you!
+
+Tight lines,
+
+Brian Stewart
+
+---
+
 # Memberships
 
 *Matt Mottaghian, Membership Secretary*
@@ -36,7 +56,9 @@ All PSC members & friends welcome!
 
 7pm on Thursday 30th January at [Sagar Premier](https://maps.app.goo.gl/3zmKZZuFgB7bYgnj9?g_st=ifm) in Preston. Set meal for only £22 with lots of choices and plenty to eat, including for vegans and veggies! Buy your own drinks at the bar.
 
-PM [Jacqui](https://t.me/Black_Puddin_Bertha) to book your place.
+Message [Jacqui](https://t.me/Black_Puddin_Bertha) on Telegram to book your place.
+
+![](curry.jpg)
 
 ---
 
@@ -44,11 +66,19 @@ PM [Jacqui](https://t.me/Black_Puddin_Bertha) to book your place.
 
 ### Winter club nights
 
+*Graham Jones, Social Secretary*
+
 We've had some brilliant club nights over the winter including talks on weather forecasting, flying in India, epic XC tales and most recently microlight flying and BASE.
 
 Many thanks to everyone who gave up their time to speak. You can catch up with videos and photos of all of the events on the [PSC Website](http://www.penninesoaringclub.org.uk/articles/).
 
 [![](rm.jpg)](rm.jpg)
+
+### SIV
+
+*Jim Ashley, Treasurer*
+
+Don't forget, the club offers a £50 contribution towards your first SIV (subject to documentation and committee approval). Please contact Jim for details [accounts@penninesoaringclub.org.uk](mailto:accounts@penninesoaringclub.org.uk).
 
 ---
 
@@ -56,7 +86,7 @@ Many thanks to everyone who gave up their time to speak. You can catch up with v
 
 *Andy Archer, Sites Officer*
 
-The gate code for Winter Hill has been changed as of Friday 10th Jan 25 @3pm.
+The gate code for Winter Hill has been changed as of Friday 10th January.
 
 Please contact a member of the committee for the new gate code (WhatsApp/text/Telegram/email/FB messenger)
 
@@ -79,9 +109,16 @@ Please follow the rules:
 
 For everyone who has already been in touch with me about getting their Pilot rating, the Sea View Inn, Chorley, is booked for the revision and exam nights.
 
-Wednesday 29th January, Flight theory. Wednesday 5th February Air Law and Navigation. Wednesday 12th February, Weather. Wednesday 19th February exam night.
+- Wednesday 29th January: Flight theory
+- Wednesday 5th February: Air Law and navigation
+- Wednesday 12th February: Weather
+- Wednesday 19th February: Exam Night
 
-We'll be aiming to start at 19:30 each night, and I'll take your details for ordering the exam paper on the first night
+We'll be aiming to start at 19:30 each night, and I'll take your details for ordering the exam paper on the first night.
+
+If you would like to get your Pilot rating and you haven't already been in touch with me, please let me know as soon as possible.
+
+Contact me through [Telegram](https://t.me/BailAtBase) or [chiefcoach@penninesoaringclub.org.uk](mailto:chiefcoach@penninesoaringclub.org.uk)
 
 ---
 
@@ -213,8 +250,6 @@ https://crickhowellparagliding.com/dragon-hike-and-fly-race-2025/
 
 **10th - 11th May** - [Dragon Hike and Fly](https://airtribune.com/dragon-hike-and-fly/info) - Crickhowell, Wales
 
-**23rd - 25th May** - Pennine Fest (TBC) - Chipping, Lancashire
-
 **30th - 31st May** - [Buttermere Bash](https://www.facebook.com/events/603425262077557/) - Buttermere, Lake District
 
 **8th - 14th June** - [British Sports Trophy](https://pgcomps.org.uk/timeline/) - Gemona, Italy
@@ -224,8 +259,6 @@ https://crickhowellparagliding.com/dragon-hike-and-fly-race-2025/
 **18th - 22nd June** - [Lakes Charity Classic / X-Lakes](https://www.cumbriasoaringclub.co.uk/lcc/CSC_LCCMain.php)
 
 **12th - 19th July** - [British Championships](https://pgcomps.org.uk/timeline/) - Krushevo, North Macedonia
-
-**September TBC** - Dales Fly In - Yorkshire Dales
 
 **14th - 19th September** - [BP Cup](https://www.bpcup.co.uk/node/12) - Sopot, Bulgaria
 
