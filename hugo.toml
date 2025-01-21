@@ -1,7 +1,7 @@
 baseURL = "https://post.penninesoaringclub.org.uk"
 defaultContentLanguage = "en"
 languageCode = "en"
-publishDir = 'docs'
+publishDir = 'public'
 
 title = "The Pennine Post"
 
