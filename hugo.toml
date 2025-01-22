@@ -22,7 +22,6 @@ enableRobotsTXT = true
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   ShowBackToTopButton = true # true or false for "back to top" button on posts
-  customHeadHTML = ""
   showPostsOnHomePage = "recent"
   customHeadHTML = '''
     <!-- Google tag (gtag.js) -->
