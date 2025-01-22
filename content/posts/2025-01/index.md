@@ -3,7 +3,7 @@ title: "January 2025"
 date: 2025-01-20T10:00:00+05:30
 tags: 
 type: "post"
-image: "header.jpg"
+image: "cover.jpg"
 showTableOfContents: true
 ---
 
