@@ -24,6 +24,17 @@ enableRobotsTXT = true
   ShowBackToTopButton = true # true or false for "back to top" button on posts
   customHeadHTML = ""
   showPostsOnHomePage = "recent"
+  customHeadHTML = '''
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-QF1CT99HJK"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-QF1CT99HJK');
+    </script>
+  '''
 
 [markup]
   [markup.tableOfContents]
