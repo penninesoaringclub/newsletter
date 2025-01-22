@@ -11,7 +11,7 @@ showTableOfContents: true
 
 How's your 2025 planning coming along? With a bit of luck you've managed to get out on the snowy hills but even if not, we've got a packed issue of 2025 diary dates to help you plan your next adventure. Book a trip, try a competition or spend an evening setting up your instruments and tracking, it won't be long until the thermals are launching us skywards.
 
-Some lucky Pennine pilots have had good days out over the winter at home and abroad so we've got the usual gallery full of pics to whet your appetite.
+Some lucky Pennine pilots have had good days out over the winter at home and abroad so we've got the usual gallery full of pictures to whet your appetite.
 
 [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
 
