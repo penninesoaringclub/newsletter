@@ -240,6 +240,8 @@ https://crickhowellparagliding.com/dragon-hike-and-fly-race-2025/
 
 **5th February** - Air Law and Navigation Pilot Rating Coaching - 7.30pm, Sea View Inn, Chorley
 
+**10th February** - Pennine Soaring Club AGM - 7.30pm, Sea View Inn, Chorley
+
 **12th February** - Weather Pilot Rating Coaching - 7.30pm, Sea View Inn, Chorley
 
 **19th February** - Pilot Rating Exam Night - 7.30pm, Sea View Inn, Chorley
