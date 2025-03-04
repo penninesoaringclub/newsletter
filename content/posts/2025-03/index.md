@@ -1,6 +1,6 @@
 ---
 title: "March 2025"
-date: 2025-04-01T10:00:00+05:30
+date: 2025-03-01T10:00:00+05:30
 tags: 
 type: "post"
 image: "/posts/2025-03/cover.jpg"
