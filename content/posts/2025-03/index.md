@@ -11,7 +11,7 @@ showTableOfContents: true
 
 Daffodils are blooming, risers are twitching and varios are beeping. It's spring!
 
-As the weather finally turns flyable, we've got a packed issue ahead of the new season, with important sites news, a coaching reminder about needing a pilot qualification for cross country flights from Simon, early XC tales tales from Elliot and some PSC members' aspirations for 2025. Plus the usual gallery full of photos and videos.
+As the weather finally turns flyable, we've got a packed issue ahead of the new season, with important sites news, a coaching reminder about needing a pilot qualification for cross country flights from Simon, early XC tales tales from Elliott and some PSC members' aspirations for 2025. Plus the usual gallery full of photos and videos.
 
 Check your kit, repack your reserve, put a camera on your flight deck and get planning on [flyxc.app](https://flyxc.app/). It's going to be epic.
 
