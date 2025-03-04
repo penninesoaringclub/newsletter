@@ -324,7 +324,7 @@ From modest to epic, a few PSC members shared their flying goals for 2025. What'
 
 > "100 hours/1st 100k/5 hour flight"
 >
-> Elliot Brown
+> Elliott Brown
 
 ---
 
