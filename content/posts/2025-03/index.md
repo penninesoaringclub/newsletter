@@ -423,7 +423,9 @@ From modest to epic, a few PSC members shared their flying goals for 2025. What'
 ---
 
 > "Get to the HG sport class worlds in June in Italy as a UK pilot, be selected as an official UK team pilot for that event, win medals at that event (team and individual), complete my microlight biennial instructor flight review before I leave Texas (likely to be August or September) to move to Lancashire.
+>
 > Then, after I move to Lancashire:
+>
 > Ground handle my PG at PSC training site(s), Fly my PG at a PSC site, Ditto but on my HG"
 >
 > Richard Milla
