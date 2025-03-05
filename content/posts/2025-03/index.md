@@ -11,7 +11,7 @@ showTableOfContents: true
 
 Daffodils are blooming, risers are twitching and varios are beeping. It's spring!
 
-As the weather finally turns flyable, we've got a packed issue ahead of the new season, with important sites news, a coaching reminder about needing a pilot qualification for cross country flights from Simon, early XC tales tales from Elliott and some PSC members' aspirations for 2025. Plus the usual gallery full of photos and videos.
+As the weather finally turns flyable, we've got a packed issue ahead of the new season, with important sites updates, a coaching reminder about needing a pilot qualification for cross country flights from Simon, early XC tales from Elliott and some PSC members' aspirations for 2025. Plus the usual gallery full of photos and videos.
 
 Check your kit, repack your reserve, put a camera on your flight deck and get planning on [flyxc.app](https://flyxc.app/). It's going to be epic.
 
@@ -130,15 +130,15 @@ In a welcome change to previous years, you may still fly Edenfield during these 
 
 **Parlick**
 
-Please do not land in the grass field next to Fell Foot cottage, east of the official landing field on the other side of the road. Fencing has been removed so it looks like a convenient option but the grass is being grown as a crop.
+From May to October, please do not land in the grass field next to Fell Foot cottage, east of the official landing field on the other side of the road. Fencing has been removed so it looks like a convenient option but during the summer the grass is being grown as a crop.
 
 [![](parlick-no-landing.png)](parlick-no-landing.png)
 
 On Saturday 1st March, Bowland Forest Gliding Club again had to stop winching due to a paraglider overflying the airfield.
 
-Please remind yourself of the location of BFGC and of the approach patterns of returning sailplanes, which cannot change their flight path once they have committed to landing.
+Please remind yourself of the [Parlick site rules](http://www.penninesoaringclub.org.uk/sites/parlick/), the location of BFGC and of the approach patterns of returning sailplanes, which cannot change their flight path once they have committed to landing.
 
-[![](parlick-airspace.png)](parlick-airspace.png)
+{{< youtube tibDCFupGgo >}}
 
 ---
 
@@ -166,7 +166,7 @@ You have probably seen my messages on Telegram, and by email, encouraging Club P
 
 The Pilot rating is about much more than just flying Cross Country (hopefully you are aware of the changed guidance around the BHPA insurance and XC flying), it is about gaining the knowledge and skills that will help you to continue to progress safely in this great sport of ours.
 
-An important part of the process of achieving your Pilot rating is completing all of the Pilot tasks and getting them signed off by a coach. By far the easiest way to do this by getting a Pilot task book from the BHPA office and taking it out with you when you go flying, as any Club Coach can sign off tasks that they witness. It is also really important to keep a logbook and both of these will help when it comes to signing you off, once you have passed your exam. Please contact me if you decide that this is something that you want to do and I will do my best to help you through the process.
+An important part of the process of achieving your Pilot rating is completing all of the Pilot tasks and getting them signed off by a coach. By far the easiest way to do this is by getting a Pilot task book from the BHPA office and taking it out with you when you go flying, as any Club Coach can sign off tasks that they witness. It is also really important to keep a logbook and both of these will help when it comes to signing you off, once you have passed your exam. Please contact me if you decide that this is something that you want to do and I will do my best to help you through the process.
 
 At the recent AGM I spoke about the insurance issues, and encouraging more people to get their Pilot rating. someone asked what is the current ratio, in our club, of CP to Pilot and above. I didn’t know off the top of my head, but felt it was a very good question and said that I would find out. We have just got the recent data off the BHPA, and 43% of members are CP rated, 51% Pilot and 6% Advanced Pilot. Although these numbers aren’t terrible, and are slightly better than I would have guessed, I would really like to get us to a place where only our newer members were still CP rated. If you are CP rated, please give this serious thought and let me know if it’s something you want to do.
 
@@ -410,6 +410,34 @@ From modest to epic, a few PSC members shared their flying goals for 2025. What'
 
 ---
 
+# Competitions
+
+*Elliott Brown, Competitions Secretary*
+
+Updated 2-4th March 2025
+
+Flying was done by me and others, hurrah!
+
+### Northern Challenge Series 2025
+http://www.xcmap.net/ 
+
+We have some new flights being added and some new pilots appearing this year! A very good start, Ed nearly getting the last TP on Pendle before landing. Whernside getting plenty of action, perfect for a non-xc day.
+
+Parlick had a couple of attempts, with Joseph committing to getting that TP5 and landing on the top. I didn’t fancy it myself 😀 The challenge on Parlick isn’t the grid challenge for the NCS, but you can still give it a whirl and add your flight to the results page.
+
+[![](ncs.png)](https://www.xcmap.net/results.php?t=544)
+
+### XContest - Pennine Soaring Club
+
+Flying weather has got our Pennine members out and about, fingers crossed this is the start of a great flying season. Don’t forget to get yourself registered to get access and maybe win some prizes.
+
+[![](xcontest.png)](https://www.xcontest.org/united-kingdom/ranking-club:2688)
+
+### XC League
+We're waiting on the league to be activated (apologies, flights are there, just needs verifying) 
+
+---
+
 # Dates For Your Diary
 
 **9th March** - Repack day - Chipping Village Hall
@@ -469,4 +497,4 @@ Send submissions on these or anything else you'd like to see featured to [editor
 
 --- 
 
-Fly safe, see you in March.
+Fly safe, see you in April.
