@@ -52,6 +52,16 @@ Brian Stewart
 
 ---
 
+# Safety
+
+*Paul Redman, Safety Officer*
+
+There are still spaces available at the repack on Sunday 9th March (this Sunday) at Chipping Village Hall.
+
+[Email to book your place](mailto:safety@penninesoaringclub.org.uk)
+
+---
+
 # Notes from the Committee
 
 ### AGM and Awards
@@ -366,7 +376,7 @@ From modest to epic, a few PSC members shared their flying goals for 2025. What'
 
 ---
 
-> 250km UK XC Flight
+> "250km UK XC Flight"
 >
 > Richard Meek
 
@@ -384,7 +394,7 @@ From modest to epic, a few PSC members shared their flying goals for 2025. What'
 
 ---
 
-> To Fly
+> "To Fly"
 >
 > Anon
 
