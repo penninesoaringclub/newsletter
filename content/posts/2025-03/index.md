@@ -126,7 +126,11 @@ John Murphy
 [![](bent-upright.jpg)](bent-upright.jpg)
 *Sam Ashley proudly receives the coveted Bent Upright trophy from Brian.*
 
-### Social Night
+---
+
+# Social
+
+*Jacqui Kavanagh, Social Secretary*
 
 Don't forget the last club night of the year, this coming Monday 10th March.
 
