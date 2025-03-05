@@ -458,6 +458,8 @@ We're waiting on the league to be activated (apologies, flights are there, just 
 
 **9th March** - Repack day - Chipping Village Hall
 
+**10th March** - Social Night - Sea View Inn, Chorley
+
 **24th - 27th April** - [BP Cup](https://www.bpcup.co.uk/node/12) - Yorkshire Dales
 
 **10th - 11th May** - [Dragon Hike and Fly](https://airtribune.com/dragon-hike-and-fly/info) - Crickhowell, Wales
