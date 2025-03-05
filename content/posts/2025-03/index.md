@@ -426,7 +426,7 @@ From modest to epic, a few PSC members shared their flying goals for 2025. What'
 >
 > Then, after I move to Lancashire:
 >
-> Ground handle my PG at PSC training site(s), Fly my PG at a PSC site, Ditto but on my HG"
+> Ground handle my PG at PSC training site(s), fly my PG at a PSC site, ditto but on my HG"
 >
 > Richard Milla
 
