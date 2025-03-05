@@ -68,7 +68,7 @@ There are still spaces available at the repack on Sunday 9th March (this Sunday)
 
 Our AGM was held on 10th February, with updates from each of the committee's officers on their work for the past 12 months.
 
-Barry Sayer and Graham Jones stepped down from their committee posts with our grateful thanks and we welcome Paul Redman as our new Safety Officer and Jacqui Kavanagh as our new Social Secretary.
+Barry Sayer, Graham Jones and Jacob Cleverley stepped down from their committee posts with our grateful thanks and we welcome Paul Redman as our new Safety Officer, Jacqui Kavanagh as our new Social Secretary and Neil Charles will look after social media alongside the newsletter.
 
 AGM night is also awards night! Congratulations to all of 2024's winners.
 
