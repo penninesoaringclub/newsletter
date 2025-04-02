@@ -26,12 +26,6 @@ To take you into the season, we've got photos from some lovely March flying days
 
 ---
 
-# Safety
-
-*Paul Redman, Safety Officer*
-
----
-
 # Notes from the Committee
 
 Thank you to everyone involved in the PSC repack on 9th March. Guy Richardson and his team did a fantastic job!
@@ -89,6 +83,12 @@ From May to October, please do not land in the grass field next to Fell Foot cot
 # Coaching Corner
 
 *Simon Baillie, Chief Coach*
+
+---
+
+# Safety
+
+*Paul Redman, Safety Officer*
 
 ---
 
@@ -176,27 +176,12 @@ Our new [Instagram account](https://www.instagram.com/pennine_soaring_club/) has
 
 *Elliott Brown, Competitions Secretary*
 
-Updated 2-4th March 2025
-
-Flying was done by me and others, hurrah!
-
 ### Northern Challenge Series 2025
-http://www.xcmap.net/ 
 
-We have some new flights being added and some new pilots appearing this year! A very good start, Ed nearly getting the last TP on Pendle before landing. Whernside getting plenty of action, perfect for a non-xc day.
-
-Parlick had a couple of attempts, with Joseph committing to getting that TP5 and landing on the top. I didn’t fancy it myself 😀 The challenge on Parlick isn’t the grid challenge for the NCS, but you can still give it a whirl and add your flight to the results page.
-
-[![](ncs.png)](https://www.xcmap.net/results.php?t=544)
 
 ### XContest - Pennine Soaring Club
 
-Flying weather has got our Pennine members out and about, fingers crossed this is the start of a great flying season. Don’t forget to get yourself registered to get access and maybe win some prizes.
-
-[![](xcontest.png)](https://www.xcontest.org/united-kingdom/ranking-club:2688)
-
 ### XC League
-We're waiting on the league to be activated (apologies, flights are there, just needs verifying) 
 
 ---
 
