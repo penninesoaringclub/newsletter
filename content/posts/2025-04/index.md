@@ -40,7 +40,7 @@ Thank you to everyone involved in the PSC repack on 9th March. Guy Richardson an
 
 ### 100km or Bust
 
-As a special treat, we've got one more club night before they return next winter. Pete Logan, Dales Club Chief Coach has kindly agreed to come and talk to us about getting to the next level and flying that dream 100km.
+As a special treat, we've got one more club night before we take a break until next winter. Pete Logan, Dales Club Chief Coach has kindly agreed to come and talk to us about getting to the next level and flying that dream 100km.
 
 Monday 14th April, 7.30pm at the Sea View in Chorley.
 
