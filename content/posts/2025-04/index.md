@@ -16,7 +16,7 @@ To take you into the season, we've got photos from some lovely March flying days
 [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
 
 [![](cover.jpg)](cover.jpg)  
-*Cover photo: Neil Charles*
+*Cover photo: Max Kidd*
 
 ---
 
@@ -70,7 +70,7 @@ Signs have been placed at the entrance gate to the access track as a reminder.
 
 ### Neighbouring Clubs
 
-Our neighbours will also have restrictions due to lambing, which can change from year to year. Please check their websites before you travel.
+Our neighbours will also have restrictions due to lambing, which can change from year to year. Please check their websites before you travel and there's a great article by Christina Richards in this month's Skywords (the Dales Club magazine) about [sheep farming and free flight](https://www.dhpc.org.uk/skywords/#url=https://docs.google.com/document/d/e/2PACX-1vQa9MiDCHH-H486ViInKKp9S2WMD92qpJzsPChte2zL0oMw-hWnenays-Ru8MFP_gTwKpZ7ykVn7c3d/pub), which is well worth your time (HT Emma Wrathall).
 
 ### Parlick
 
@@ -240,4 +240,4 @@ Send submissions on these or anything else you'd like to see featured to [editor
 
 --- 
 
-Fly safe, see you in April.
+Fly safe, see you in May.
