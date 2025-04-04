@@ -11,7 +11,7 @@ showTableOfContents: true
 
 Spring proper has arrived, bringing a few XC's and triangles from Pennine Sites and the first 100s of the season starting to appear down south.
 
-To take you into the season, we've got photos from some lovely March flying days, tales of an eventful flight home from Brian, tips for practicing your XC's at home and great news on Pennine Fest from Jacqui. Here comes 2025.
+To take you into the season, we've got photos from some lovely March flying days, tales of an eventful flight home from Brian, tips for practicing your XC's from the sofa and great news on Pennine Fest from Jacqui. Here comes 2025.
 
 [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
 
