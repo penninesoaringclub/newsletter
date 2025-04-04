@@ -1,6 +1,6 @@
 ---
 title: "April 2025"
-date: 2025-04-04T10:00:00+05:30
+date: 2025-04-05T10:00:00+05:30
 tags: 
 type: "post"
 image: "/posts/2025-04/cover.jpg"
@@ -17,12 +17,6 @@ To take you into the season, we've got photos from some lovely March flying days
 
 [![](cover.jpg)](cover.jpg)  
 *Cover photo: Max Kidd*
-
----
-
-# Chairman's Chunterings
-
-*Brian Stewart, Chairman*
 
 ---
 
@@ -77,18 +71,6 @@ Our neighbours will also have restrictions due to lambing, which can change from
 From May to October, please do not land in the grass field next to Fell Foot cottage, east of the official landing field on the other side of the road. Fencing has been removed so it looks like a convenient option but during the summer the grass is being grown as a crop.
 
 [![](parlick-no-landing.png)](parlick-no-landing.png)
-
----
-
-# Coaching Corner
-
-*Simon Baillie, Chief Coach*
-
----
-
-# Safety
-
-*Paul Redman, Safety Officer*
 
 ---
 
@@ -164,24 +146,34 @@ Fort Worth, Texas, USA
 
 ---
 
-# Social Media
-
-*Neil Charles, Social Media*
-
-Our new [Instagram account](https://www.instagram.com/pennine_soaring_club/) has picked up its first 100 followers. If you'd like your pics to appear on the club page, just tag @pennine_soaring_club when you post and we'll try to re-share posts and stories that show everyone how much fun we've been having. If you've got a private Instagram profile then we can't re-share unfortunately but tag @pennine_soaring_club anyway and Neil might steal them for the newsletter gallery.
-
----
-
 # Competitions
 
 *Elliott Brown, Competitions Secretary*
 
+Updated 1st April 2025
+
 ### Northern Challenge Series 2025
 
+No new pilot entries so far but there has been a reshuffle in the top 5, with more local flights getting added and building those points up. Don’t forget that this is Pennine Soaring Club pilots flying in the UK, so get your flights uploaded when you’ve headed further afield, outside of PSC sites.
+
+[![](ncs.png)](https://www.xcmap.net/results.php?t=544)
 
 ### XContest - Pennine Soaring Club
 
+Flying weather has got our Pennine members out and about, fingers crossed this is the start of a great flying season. Don’t forget to get yourself registered to get access and maybe win some prizes.
+
+[![](xcontest.png)](https://www.xcontest.org/united-kingdom/ranking-club:2688)
+
 ### XC League
+And we’re live! The Pennine League for 2025 is up and working. Now we just need more of that good weather I’ve heard so much about.
+
+[![](xcleague.png)](https://xcleague.com/xc/leagues/view-15.html)
+
+---
+
+# You Might Have Missed
+
+Our new [Instagram account](https://www.instagram.com/pennine_soaring_club/) has picked up its first 100 followers. If you'd like your pics to appear on the club page, just tag @pennine_soaring_club when you post and we'll try to re-share posts and stories that show everyone how much fun we've been having. If you've got a private Instagram profile then we can't re-share unfortunately but tag @pennine_soaring_club anyway and Neil might steal them for the newsletter gallery.
 
 ---
 
@@ -208,12 +200,6 @@ Our new [Instagram account](https://www.instagram.com/pennine_soaring_club/) has
 **14th - 19th September** - [BP Cup](https://www.bpcup.co.uk/node/12) - Sopot, Bulgaria
 
 **20th - 23rd November** - [Kendal Mountain Festival](https://www.kendalmountainfestival.com/) - Kendal, Lake District
-
----
-
-# You Might Have Missed
-
-
 
 ---
 
