@@ -3,7 +3,7 @@ title: "April 2025"
 date: 2025-04-05T10:00:00+05:30
 tags: 
 type: "post"
-image: "/posts/2025-04/cover.jpg"
+image: "/posts/2025-04/cover1.jpg"
 showTableOfContents: true
 ---
 
@@ -15,7 +15,7 @@ To take you into the season, we've got photos from some lovely March flying days
 
 [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
 
-[![](cover.jpg)](cover.jpg)  
+[![](cover1.jpg)](cover1.jpg)  
 *Cover photo: Max Kidd*
 
 ---
