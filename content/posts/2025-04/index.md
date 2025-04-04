@@ -153,13 +153,13 @@ Updated 1st April 2025
 
 ### Northern Challenge Series 2025
 
-No new pilot entries so far but there has been a reshuffle in the top 5, with more local flights getting added and building those points up. Don’t forget that this is Pennine Soaring Club pilots flying in the UK, so get your flights uploaded when you’ve headed further afield, outside of PSC sites.
+No new flights have been entered or beaten existing entries on the board.
 
 [![](ncs.png)](https://www.xcmap.net/results.php?t=544)
 
 ### XContest - Pennine Soaring Club
 
-Flying weather has got our Pennine members out and about, fingers crossed this is the start of a great flying season. Don’t forget to get yourself registered to get access and maybe win some prizes.
+No new pilot entries so far but there has been a reshuffle in the top 5, with more local flights getting added and building those points up. Don’t forget that this is Pennine pilots flying in the UK, so get your flights uploaded when you’ve headed further afield, outside of PSC sites.
 
 [![](xcontest.png)](https://www.xcontest.org/united-kingdom/ranking-club:2688)
 
