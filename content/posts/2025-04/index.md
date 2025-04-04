@@ -1,6 +1,6 @@
 ---
 title: "April 2025"
-date: 2025-04-05T10:00:00+05:30
+date: 2025-04-01T10:00:00+05:30
 tags: 
 type: "post"
 image: "/posts/2025-04/cover1.jpg"
@@ -130,13 +130,12 @@ for as little as the cost of two or three tandem aerotows!!
 
 This is NOT an advertisement or an endorsement. I just want to share what I’ve found because I think it could be helpful to other folks.
 
-Richard has written an [overview guide](0010_HG_safety_GliderSim_OVERVIEW_v002.pdf) and for more information, please send an e-mail to: [flysafe.flyhigh.flyfar@gmail.com](mailto:flysafe.flyhigh.flyfar@gmail.com) for an invitation to a dedicated Telegram chat group with more info about it all.
-
 Be safe, have fun!
 
-Richard Milla
-
+Richard Milla  
 Fort Worth, Texas, USA
+
+*Richard has written an [overview guide](0010_HG_safety_GliderSim_OVERVIEW_v002.pdf) and for more information, please send an e-mail to: [flysafe.flyhigh.flyfar@gmail.com](mailto:flysafe.flyhigh.flyfar@gmail.com) for an invitation to a dedicated Telegram chat group with more info about it all.*
 
 ---
 
