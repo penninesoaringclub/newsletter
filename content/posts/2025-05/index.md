@@ -9,43 +9,14 @@ showTableOfContents: true
 
 # Lovely weather, shame about the day job
 
+Did you catch Big Tuesday? For those not in the office and with the skills to take advantage, Tuesday 29th April saw booming conditions, with flights from the Pennines all the way to Newcastle and Durham. Eight XContest pilots broke the 100km barrier from Parlick and those of us in the office at least got to watch along on [puretrack.io](https://puretrack.io/).
 
+We've got some lovely contibutions this month from Scott, Doug and Elliott, plus important news about lambing on Edenfield and an update on Pennine Fest. Dust your tent off, it's going to be brilliant.
 
 [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
 
-[![](cover1.jpg)](cover1.jpg)  
-*Cover photo: Max Kidd*
-
----
-
-# Chairman's Chuntering's
-
-*Brian Stewart, Chairman*
-
-
----
-
-# Notes from the Committee
-
-Many thanks to Pete Logan for his brilliant '100km or Bust' club night that rounded off our winter programme in April. If you missed it, you can still watch the recording on YouTube.
-
-{{< youtube CAqM1-t7yVw>}}
-
----
-
-# Social
-
-*Jacqui Kavanagh, Social Secretary*
-
-### Pennine Fest
-
-Chipping Showground has been booked for 6th-8th June for Pennine Fest.
-
-The cost of a camping pitch is £15 per night with electric hook up extra at £8 per night, payable at the venue.
-
-There will be a group meal on Saturday the 7th at the Sun Inn but places will be limited - watch this
-
-[![](pennine-fest.png)](pennine-fest.png)
+[![](jim_moon.jpg)](jim_moon.jpg)  
+*Cover photo: Jim Ashley makes the local paper*
 
 ---
 
@@ -81,11 +52,47 @@ From May to October, please do not land in the grass field next to Fell Foot cot
 
 ---
 
+# SIV
+
+*Jim Ashley, Treasurer*
+
+If you've done your first SIV course you could claim a £50 subsidy from PSC. This will usually be your second year of PSC membership for obvious reasons and subject to committee aproval.
+
+Send whatever proof you have to me at [accounts@penninesoaringclub.org.uk](mailto:accounts@penninesoaringclub.org.uk)
+
+Jim
+
+---
+
+# Notes from the Committee
+
+Many thanks to Pete Logan for his brilliant '100km or Bust' club night that rounded off our winter programme in April. If you missed it, you can still watch the recording on YouTube.
+
+{{< youtube CAqM1-t7yVw>}}
+
+---
+
+# Social
+
+*Jacqui Kavanagh, Social Secretary*
+
+### Pennine Fest
+
+Chipping Showground has been booked for 6th-8th June for Pennine Fest.
+
+The cost of a camping pitch is £15 per night with electric hook up extra at £8 per night, payable in cash at the venue.
+
+There will be a group meal on Saturday the 7th at the Sun Inn but places will be limited - watch this space.
+
+[![](pennine-fest.png)](pennine-fest.png)
+
+---
+
 # A Grand Day Out
 
 *Scott O'Neil*
 
-"A link to my bucket list flight" says Scott and watching this footage of Snowdonia, he's not exaggerating!
+"A link to my bucket list flight" says Scott and watching this footage of Snowdonia, he's not exaggerating. Beautiful.
 
 {{< youtube YPBBqsRiZoQ>}}
 
@@ -120,8 +127,11 @@ A few months ago I was selected as second reserve for the British team at the HG
 It wasn't so easy getting away from Bradwell with the sky teeming with PGs and a few HGs, all desperate for that first thermal. Eventually I picked one up however and stuck with it to 3000ft ASL and drifted about 3km. A short while after I caught another which took me to 5600ft ASL and another 4km. From this point I glided all the way to the outskirts of Sheffield at about 2300ft - not enough to get all the way across the city, I circled in zeros for a while then set off around the edge of the built-up area. It turns out that the sky over Sheffield was booming, so if I had ventured even a short way into the city I would have skyed out again and got much further, while still being able to turn around and escape to good landing fields if nothing turned up. A big mistake that I learned from that day. My path outside the border of Sheffield was non-stop sink and shortly afterwards I landed in a very large ideal field, sloping upwards into wind. A local resident turned up with ice lollies and a request for me to take off and land again because she didn't get her camera out in time!
 
 [![](dn_leaving_bradwell.jpg)](dn_leaving_bradwell.jpg)
+
 [![](dn_hathersage_5500.jpg)](dn_hathersage_5500.jpg)
+
 [![](dn_gliding_stanage.jpg)](dn_gliding_stanage.jpg)
+
 [![](dn_landing_field_choice.jpg)](dn_landing_field_choice.jpg)
 	  
 Video: https://youtu.be/-9BOLibm-bY
@@ -131,16 +141,32 @@ Video: https://youtu.be/-9BOLibm-bY
 RASP indicated a blob of red (5-star) joining Longridge to my home in Blackrod at around 2-3pm, so I headed out with a plan to fly about 30km. Wind was 15-20mph when I arrived, but by the time I had rigged it had dropped significantly so I was concerned about not staying up at all. I took off and carefully scratched along the ridge until I was about 100ft above the trig point - safe enough to zip up my harness. A few minutes later I picked up an excellent, smooth thermal that took me to cloudbase at 3600ft ASL. Listening on the radio to the PGs who were flying down on the ridge, it seemed that things were turning off so I turned downwind to follow my plan. This was a mistake, downwind was all in shade but out front of Longridge was sunny. I should have cancelled my plan and made the most of exploring the valley. Instead my flight downwind was a sled ride to the ground a few kilometres past Ribchester. I found another great landing field, though messed up my landing slightly with a late flare.  While derigging just after 2pm the sky opened up above me and looked far better - heyho, another lesson learned.
 
 [![](dn_longridge_scratching.jpg)](dn_longridge_scratching.jpg)
+
 [![](dn_longridge_climbout.jpg)](dn_longridge_climbout.jpg)
+
 [![](dn_longridge_cloudbase.jpg)](dn_longridge_cloudbase.jpg)
 
 Video: https://youtu.be/RDqLhh5MPGI
 
 ---
 
-# The Gallery
+# Photo Diary
 
-{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
+*Elliott Brown at the Dales BP Cup Round*
+
+[![](bpc1.jpg)](bpc1.jpg)
+
+[![](bpc2.jpg)](bpc2.jpg)
+
+[![](bpc3.jpg)](bpc3.jpg)
+
+[![](bpc4.jpg)](bpc4.jpg)
+
+[![](bpc5.jpg)](bpc5.jpg)
+
+[![](bpc6jpg)](bpc6.jpg)
+
+[![](bpc7.jpg)](bpc7.jpg)
 
 ---
 
@@ -191,17 +217,21 @@ John Murphy and myself also joined in the good fun.
 
 ---
 
-# You Might Have Missed
+# Shout Outs
 
+A couple of pilots who have already appeared in this issue are due a round of congratulations.
 
+Doug Neil for making the British Class 1 Hang Gliding Team, with a compeition debut in 4 weeks.
+
+And Scott O'Neil who's leading the charge for Pennine in the XC league and was placed as high as 2nd on 26th April.
+
+[![](scott_xcl.jpg)](scott_xcl.jpg)
+
+Amazing work both!
 
 ---
 
 # Dates For Your Diary
-
-**14th April** - Club Night: 100km or Bust - Sea View Inn, Chorley
-
-**24th - 27th April** - [BP Cup](https://www.bpcup.co.uk/node/12) - Yorkshire Dales
 
 **10th - 11th May** - [Dragon Hike and Fly](https://airtribune.com/dragon-hike-and-fly/info) - Crickhowell, Wales
 
@@ -246,4 +276,4 @@ Send submissions on these or anything else you'd like to see featured to [editor
 
 --- 
 
-Fly safe, see you in May.
+Fly safe, see you in June.
