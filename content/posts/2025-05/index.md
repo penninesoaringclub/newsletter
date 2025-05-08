@@ -15,7 +15,7 @@ We've got some lovely contibutions this month from Scott, Doug and Elliott, plus
 
 [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
 
-[![](jim_moon.jpg)](jim_moon.jpg)  
+[![](jim_moon_pg.jpg)](jim_moon_pg.jpg)  
 *Cover photo: Jim Ashley makes the local paper*
 
 ---
