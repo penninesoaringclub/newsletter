@@ -3,7 +3,7 @@ title: "May 2025"
 date: 2025-05-10T10:00:00+05:30
 tags: 
 type: "post"
-image: "/posts/2025-04/cover1.jpg"
+image: "/posts/2025-05/cover.jpg"
 showTableOfContents: true
 ---
 
