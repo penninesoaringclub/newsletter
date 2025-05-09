@@ -3,7 +3,7 @@ title: "May 2025"
 date: 2025-05-10T10:00:00+05:30
 tags: 
 type: "post"
-image: "/posts/2025-05/cover.jpg"
+image: "/posts/2025-05/social.jpg"
 showTableOfContents: true
 ---
 
@@ -311,7 +311,7 @@ Send in any recent(ish) shots with when and where they were taken. Spectacular, 
 First ever XC? Smashed a PB? Took part in a comp? Let us know and get a shout out in the newsletter. Nominate your mates if they won't do it themselves.
 
 **Top Tips**  
-Spotted a bargain? Got a great travel tip? Know how to make Bluetooth connections work on an iPhone? Share your best ideas.
+Spotted a bargain? Got a travel tip? Know how to make Bluetooth connections work on an iPhone? Share your best ideas.
 
 Send submissions on these or anything else you'd like to see featured to [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk). You can also drop them over using the [web form](https://docs.google.com/forms/d/e/1FAIpQLSd3NJQKlmLjjlh-nZGQKaeXzN6dSSL2PHzKRXFYAy_Bw7SC9w/viewform?usp=sf_link) or message [Neil](https://t.me/NeilCharles) on Telegram.
 
