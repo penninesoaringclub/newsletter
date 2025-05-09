@@ -1,6 +1,6 @@
 ---
 title: "May 2025"
-date: 2025-05-09T10:00:00+05:30
+date: 2025-05-10T10:00:00+05:30
 tags: 
 type: "post"
 image: "/posts/2025-04/cover1.jpg"
@@ -15,8 +15,8 @@ We've got some lovely contibutions this month from Scott, Doug and Elliott, plus
 
 [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
 
-[![](jim_moon_pg.jpg)](jim_moon_pg.jpg)  
-*Cover photo: Jim Ashley makes the local paper*
+[![](cover.jpg)](cover.jpg)  
+*Cover photo: John Oliver*
 
 ---
 
@@ -52,15 +52,19 @@ From May to October, please do not land in the grass field next to Fell Foot cot
 
 ---
 
-# SIV
+# Money Box
 
 *Jim Ashley, Treasurer*
+
+### SIV
 
 If you've done your first SIV course you could claim a £50 subsidy from PSC. This will usually be your second year of PSC membership for obvious reasons and subject to committee aproval.
 
 Send whatever proof you have to me at [accounts@penninesoaringclub.org.uk](mailto:accounts@penninesoaringclub.org.uk)
 
-Jim
+### Thanks from North West Air Ambulance 
+
+[![](air_ambulance.jpg)](air_ambulance.jpg)
 
 ---
 
@@ -95,6 +99,17 @@ There will be a group meal on Saturday the 7th at the Sun Inn but places will be
 "A link to my bucket list flight" says Scott and watching this footage of Snowdonia, he's not exaggerating. Beautiful.
 
 {{< youtube YPBBqsRiZoQ>}}
+
+---
+
+# Coaching Corner
+
+*Simon Baillie, Chief Coach*
+
+We have a new Telegram XC development group. It is intended for BHPA members who hold a Pilot rating, and are therefore insured to fly XC.
+
+The idea is to encourage, and help motivate, PSC members who want to improve their XC skills. It's primarily a discussion group for new and aspiring XC pilots to ask questions, bounce ideas around, gaggle up, and get get advice from the more experienced pilots. There are some good XC pilots on it, so please feel free to ask questions or advice. There are no stupid questions!
+https://t.me/+a3hagh3YKXgwMGE0
 
 ---
 
@@ -147,6 +162,24 @@ RASP indicated a blob of red (5-star) joining Longridge to my home in Blackrod a
 [![](dn_longridge_cloudbase.jpg)](dn_longridge_cloudbase.jpg)
 
 Video: https://youtu.be/RDqLhh5MPGI
+
+---
+
+# Super Tuesday
+
+*John Murphy shares some thoughts on Tuesday 29th April*
+
+A 5 star day on Parlick is very unusual but that was Tuesday the 29 th April and to prove how good the forecast was, some of the top XC pilots from Scotland, Dales and the Lakes were there.
+
+For me the start was really good, when the thermals started and pilots launched it was busy, but everyone had the same aim, find lift and turn in it. The trickiest times were when adjacent cores started to merge and pilots had to judge when to open out to form one thermal gaggle. It was still a relief when I found a good core that lasted and took me to over 4000 feet. This made the crossing over to the Trough of Bowland easier, there was a big dark cloud to aim for and it provided strong lift. Another glider joined me but we both were in danger of being pulled into the cloud, he headed east and I decided to head west to ensure no danger of us ending up close in cloud.
+
+This did mean I was getting closer to where the sea air was starting to push in, evidenced by cloudless blue skies. I then started pushing more to the north east chasing the clouds, to my north was blue, again probably the sea air that pushes down the Settle valley.
+
+A long glide to Ingleton and then onto the foothills of Ingleborough left me struggling, Simon Baillie went over me onto Ingleborough and was scratching his way up the slopes. I found lift coming off the limestone crags and I was able to milk it back up to 3000 feet. I then decided to glide over the Ribblehead viaduct to a cloud that looked promising, dark bottom and solid shadow on rising ground.
+
+It didn't deliver and that was game over, made worse by Simon and several others gliding over me at cloudbase. That, however, is part of the attraction of XC, it's not easy and you just never know how far you will get, where you will land and how you get back – it's an adventure!
+
+There's loads more on the new XC Coaching Telegram group, including a brilliant, detailed write-up by Phil Wallbank. Make sure you join! See Coaching Corner for the link.
 
 ---
 
@@ -221,13 +254,21 @@ John Murphy and myself also joined in the good fun.
 
 A couple of pilots who have already appeared in this issue are due a round of congratulations.
 
-Doug Neil for making the British Class 1 Hang Gliding Team, with a compeition debut in 4 weeks.
+Doug Neil for making the British Class 1 Hang Gliding Team, with a competition debut in 4 weeks.
 
 And Scott O'Neil who's leading the charge for Pennine in the XC league and was placed as high as 2nd on 26th April.
 
 [![](scott_xcl.jpg)](scott_xcl.jpg)
 
 Amazing work both!
+
+---
+
+# The Gallery
+
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
+
+{{< youtube hwbhc6Iv22c>}}
 
 ---
 
