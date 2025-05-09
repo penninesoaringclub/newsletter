@@ -108,7 +108,7 @@ There will be a group meal on Saturday the 7th at the Sun Inn but places will be
 
 We have a new Telegram XC development group. It is intended for BHPA members who hold a Pilot rating, and are therefore insured to fly XC.
 
-The idea is to encourage, and help motivate, PSC members who want to improve their XC skills. It's primarily a discussion group for new and aspiring XC pilots to ask questions, bounce ideas around, gaggle up, and get get advice from the more experienced pilots. There are some good XC pilots on it, so please feel free to ask questions or advice. There are no stupid questions!
+The idea is to encourage, and help motivate, PSC members who want to improve their XC skills. It's primarily a discussion group for new and aspiring XC pilots to ask questions, bounce ideas around, gaggle up, and get advice from the more experienced pilots. There are some good XC pilots on it, so please feel free to ask questions or advice. There are no stupid questions!
 https://t.me/+a3hagh3YKXgwMGE0
 
 ---
@@ -207,7 +207,7 @@ There's loads more on the new XC Coaching Telegram group, including a brilliant,
 
 *Elliott Brown, Competitions Secretary*
 
-Updated 1st April 2025
+Updated 1st May 2025
 
 ### Northern Challenge Series 2025
 
