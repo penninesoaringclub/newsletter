@@ -66,7 +66,7 @@ If you've done your first SIV course you could claim a £50 subsidy from PSC. Th
 
 Send whatever proof you have to me at [accounts@penninesoaringclub.org.uk](mailto:accounts@penninesoaringclub.org.uk)
 
-### Another note from North West Air Ambulance 
+### Thank you from Bowland Forest Mountain Rescue
 
 Hi, Jim.
 
@@ -137,7 +137,6 @@ A CAT 1 competition is very much more formal than CAT 2 comps that I've attended
 [![](dn5.jpg)](dn5.jpg)
 
 ---
-
 
 # Photo Diary
 
