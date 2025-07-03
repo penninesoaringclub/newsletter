@@ -234,4 +234,4 @@ Send submissions on these or anything else you'd like to see featured to [editor
 
 --- 
 
-Fly safe, see you in June.
+Fly safe, see you in August.
