@@ -189,6 +189,10 @@ Huge changes in the top 5, with some massive flights being added by the XC hound
 
 Last issue it was congratulations to Doug Neil on making it to his first event with the England Hang Gliding Team. This issue it's congratulations on a World Championship bronze medal! Amazing work Doug.
 
+And just in time for going to press, yesterday our Competitions Secretary Elliott Brown banged in his first 100km flight with 101.9km from Worcester Beacon! Congratulations Elliott.
+
+[![](elliott_100.png)](https://www.xcontest.org/united-kingdom/flights/detail:ElliottB/3.07.2025/10:10)
+
 ---
 
 # The Gallery
