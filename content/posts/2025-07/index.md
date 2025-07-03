@@ -15,7 +15,7 @@ Unfortunately, Pennine Fest went the same way too and had to be cancelled with a
 
 But we're back! Paragliding and hang gliding have happened in the Pennines and we've got photos and stories to brighten your day. Thoughts from Brian on the X-Alps, comps news from Elliot and our own Doug Neil on his escapades in the British Hang Gliding Team at Laveno-Mombello. Plus loads of photos, including some gorgeous ones from John of the British and Irish Sports Championships in Gemona, Italy.
 
-Keep taking your camera flying and it's sunny buoyant evenings all the way to autumn now.
+Keep taking your camera flying and we're sure to have sunny buoyant evenings all the way to autumn now.
 
 [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
 
@@ -128,7 +128,7 @@ A CAT 1 competition is very much more formal than CAT 2 comps that I've attended
 
 [![](dn4.jpg)](dn4.jpg)
 
-[![](dn5.jpg)](dn5.jpg)
+[![](dn5a.jpg)](dn5a.jpg)
 
 ---
 
