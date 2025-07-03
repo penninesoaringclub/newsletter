@@ -1,6 +1,6 @@
 ---
 title: "July 2025"
-date: 2025-07-03T10:00:00+05:30
+date: 2025-07-04T10:00:00+05:30
 tags: 
 type: "post"
 image: "/posts/2025-07/social_small.jpg"
@@ -94,12 +94,6 @@ There have been some early discussions of trying for a more flexible club event 
 
 ---
 
-# Coaching Corner
-
-*Simon Baillie, Chief Coach*
-
----
-
 # Competition Diary
 
 *Doug Neil flies with the England Hang Gliding Team in Laveno-Mombello*
@@ -164,22 +158,27 @@ A CAT 1 competition is very much more formal than CAT 2 comps that I've attended
 
 *Elliott Brown, Competitions Secretary*
 
-Updated...
+### The Big One!
+
+If you’ve not already seen it, a new UK free distance record was set, beating the current one by just over 2km! With it being just short of the existing straight distance record (306.8km). It looked to be an epic flight, which I tuned into watch on PureTrack towards the end.
+
+[![](new_record.jpg)](https://www.xcontest.org/world/en/flights/detail:Alexcoltman/30.06.2025/10:11)
 
 ### Northern Challenge Series 2025
 
+Lots of new pilots appeared over the last 2 months, with the Brigsteer challenge proving popular. Lots of top pilots gave it ago, perfect for a day were you can’t go XC, but still want a challenge.
 
 [![](ncs.png)](https://www.xcmap.net/results.php?t=544)
 
 ### XContest - Pennine Soaring Club
 
-
-[![](xcontest-airspace.png)](xcontest-airspace.png)
-
+Huge changes in the top 5, with some massive flights being added by the XC hounds! May looked to be a good month for flying, who knew?
 
 [![](xcontest.png)](https://www.xcontest.org/united-kingdom/ranking-club:2688)
 
 ### XC League
+
+10th of May had a lot of pilots on Parlick, going for a big day trip North. The table is filling up nicely with some great flights, why don’t you join in the fun and add yours to the pile? It costs nothing and another record to look back on and see how you have progressed over the years.
 
 [![](xcleague.png)](https://xcleague.com/xc/leagues/view-15.html)
 
