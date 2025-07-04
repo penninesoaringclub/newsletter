@@ -1,6 +1,6 @@
 ---
 title: "July 2025"
-date: 2025-07-04T10:00:00+05:30
+date: 2025-07-04T08:00:00+05:30
 tags: 
 type: "post"
 image: "/posts/2025-07/social_small.jpg"
