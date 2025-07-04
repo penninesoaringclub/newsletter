@@ -13,7 +13,7 @@ Hopefully everyone was too distracted by the X-Alps to notice that June's newsle
 
 Unfortunately, Pennine Fest went the same way too and had to be cancelled with absolutely no chance of any flying across the whole weekend.
 
-But we're back! Paragliding and hang gliding have happened in the Pennines and we've got photos and stories to brighten your day. Thoughts from Brian on the X-Alps, comps news from Elliot and our own Doug Neil on his escapades in the British Hang Gliding Team at Laveno-Mombello. Plus loads of photos, including some gorgeous ones from John of the British and Irish Sports Championships in Gemona, Italy.
+But we're back! Paragliding and hang gliding have happened in the Pennines and we've got photos and stories to brighten your day. Thoughts from Brian on the X-Alps, comps news from Elliott and our own Doug Neil on his escapades in the British Hang Gliding Team at Laveno-Mombello. Plus loads of photos, including some gorgeous ones from John of the British and Irish Sports Championships in Gemona, Italy.
 
 Keep taking your camera flying and we're sure to have sunny buoyant evenings all the way to autumn now.
 
