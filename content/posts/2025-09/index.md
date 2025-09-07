@@ -44,6 +44,16 @@ Anyway I hung around long enough to be able to avoid retrieve duty, as most were
 
 ---
 
+# Winter Socials
+
+*Jacqui Kavanagh, Social Secretary*
+
+Kicking off our winter social programme, Richard Butterworth has agreed to talk in October about his experience in China earlier this year and his winning the British Open in Krushevo.
+
+Elliot Brown has kindly agreed to talk in November about his experience as a beginner starting out in comps and particularly how he experiences the SRS in Ager which is due to happen shortly. 
+
+---
+
 # Money Box
 
 *Jim Ashley, Treasurer*
@@ -79,6 +89,16 @@ If you have completed your first SIV course you could get a £50 contribution fr
 
 ---
 
+# Shout Outs
+
+A fraction too late for congratulations in previous issue, it's a huge round of applause for new British Champion Richard Butterworth.
+
+Richard has promised to tell us all about it at the first winter club night in October. Don't miss it!
+
+[![](rb_champ.jpg)](rb_champ.jpg)
+
+---
+
 # Photo Diary
 
 *Mike Scott flies Tiger Mountain, Issaquah, near Seattle, Washington*
@@ -102,6 +122,8 @@ If you have completed your first SIV course you could get a £50 contribution fr
 [![](ms9.jpg)](ms9.jpg)
 
 [![](ms10.jpg)](ms10.jpg)
+
+{{< youtube ZO4zmzWLXtI >}}
 
 ---
 
@@ -227,11 +249,21 @@ He came back this week to say how much the thread had helped him and seeing as w
 
 # Dates For Your Diary
 
-**12th - 19th July** - [British Championships](https://pgcomps.org.uk/timeline/) - Krushevo, North Macedonia
-
 **14th - 19th September** - [BP Cup](https://www.bpcup.co.uk/node/12) - Sopot, Bulgaria
 
 **20th - 23rd November** - [Kendal Mountain Festival](https://www.kendalmountainfestival.com/) - Kendal, Lake District
+
+**13th October** - Club Night - Richard Butterworth: China and winning the British Open in Krushevo
+
+**10th November** - Club Night - Elliott Brown: Starting Out in Comps
+
+**8th December** - Club Night - Richard Meek: TBC
+
+**12th January** - Club Night
+
+**9th February** - Club Night
+
+**9th March** - Club Night
 
 ---
 
