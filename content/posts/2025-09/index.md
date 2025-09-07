@@ -196,13 +196,13 @@ He came back this week to say how much the thread had helped him and seeing as w
 
 - Get even higher and do so often and the nerves will fade away.
 
-- After about half an hour or so I somehow manage to disconnect from the ground and after that I’m normally fine.
+- After about half an hour or so I somehow manage to disconnect from the ground and after that I'm normally fine.
 
 **Change your perspective**
 
-- A mantra that I think about: “It’s not scary, it’s exciting”.
+- A mantra that I think about: "It's not scary, it's exciting".
 
-- It’s often better if you can concentrate on where others are in a thermal; then your height will become relative to them rather than the ground.
+- It's often better if you can concentrate on where others are in a thermal; then your height will become relative to them rather than the ground.
 
 - When you start to feel "OMG something is wrong I am too high/ it is too turbulent/it is too strong" start to think to something else: if you keep focusing on those thoughts you will only make those fears bigger and bigger until you can't handle it anymore. Look at something far away (the next cloud? The next ridge?) and let your body manage the situation while your mind focus on something else.
 
