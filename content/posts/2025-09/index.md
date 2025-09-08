@@ -60,7 +60,7 @@ Richard has promised to tell us all about it at the first winter club night in O
 
 Kicking off our winter social programme, Richard Butterworth has agreed to talk in October about his experience in China earlier this year and his winning the British Open in Krushevo.
 
-Elliot Brown has kindly agreed to talk in November about his experience as a beginner starting out in comps and particularly how he experiences the SRS in Ager which is due to happen shortly.
+Elliot Brown has kindly agreed to talk in November about his experience as a beginner starting out in comps and particularly how he experiences the SRS in Ager which is due to happen shortly. Note the change to 3rd November rather than the usual second monday of the month for this one.
 
 As usual, we'll be at the [Sea View Inn](https://maps.app.goo.gl/jfWrrwup5R6mLpfW7) with reminders on Telegram closer to the dates.
 
