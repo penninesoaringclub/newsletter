@@ -1,6 +1,6 @@
 ---
 title: "September 2025"
-date: 2025-09-08T08:00:00+05:30
+date: 2025-09-08T11:00:00+05:30
 tags: 
 type: "post"
 image: "/posts/2025-09/social_small.jpg"
@@ -18,7 +18,7 @@ Make the most of the the last of the summer gloves weather and don't forget to b
 [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
 
 [![](cover.jpg)](cover.jpg)  
-*Cover photo: Jim Ashley*
+*Cover photo: Jim Ashley snaps Andy Clegg on his Chili*
 
 ---
 
@@ -44,13 +44,25 @@ Anyway I hung around long enough to be able to avoid retrieve duty, as most were
 
 ---
 
+# Shout Outs
+
+A fraction too late for congratulations in previous issue, it's a huge round of applause for new British Champion Richard Butterworth.
+
+Richard has promised to tell us all about it at the first winter club night in October. Don't miss it!
+
+[![](rb_champ.jpg)](rb_champ.jpg)
+
+---
+
 # Winter Socials
 
 *Jacqui Kavanagh, Social Secretary*
 
 Kicking off our winter social programme, Richard Butterworth has agreed to talk in October about his experience in China earlier this year and his winning the British Open in Krushevo.
 
-Elliot Brown has kindly agreed to talk in November about his experience as a beginner starting out in comps and particularly how he experiences the SRS in Ager which is due to happen shortly. 
+Elliot Brown has kindly agreed to talk in November about his experience as a beginner starting out in comps and particularly how he experiences the SRS in Ager which is due to happen shortly.
+
+As usual, we'll be at the [Sea View Inn](https://maps.app.goo.gl/jfWrrwup5R6mLpfW7) with reminders on Telegram closer to the dates.
 
 ---
 
@@ -58,9 +70,7 @@ Elliot Brown has kindly agreed to talk in November about his experience as a beg
 
 *Jim Ashley, Treasurer*
 
-### SIV
-
-SIV support 
+### SIV Support
 
 If you have completed your first SIV course you could get a £50 contribution from the club. This year only one person has claimed it so far, there must be others. Drop me a line if you've completed a recognised course recently: [accounts@penninesoaringclub.org.uk](mailto:accounts@penninesoaringclub.org.uk).
 
@@ -86,16 +96,6 @@ If you have completed your first SIV course you could get a £50 contribution fr
 
 [John's track](https://www.xcleague.com/xc/flights/20253483.html)  
 [Scott's track](https://www.xcleague.com/xc/flights/20253488.html)
-
----
-
-# Shout Outs
-
-A fraction too late for congratulations in previous issue, it's a huge round of applause for new British Champion Richard Butterworth.
-
-Richard has promised to tell us all about it at the first winter club night in October. Don't miss it!
-
-[![](rb_champ.jpg)](rb_champ.jpg)
 
 ---
 
@@ -188,7 +188,7 @@ Three years ago, an experienced South Wales pilot popped up on [Paragliding Foru
 
 The thread has comments from all sorts of pilots, from an ex-British champion, to PSC punters and your newsletter editor.
 
-He came back this week to say how much the thread had helped him and seeing as we all get the heebie-jeebies sometimes, it seemed a good idea to synthesise the ideas in that thread into a list of tips for combatting nerves, so here they are.
+He came back this week to say how much the thread had helped him and seeing as we all get the heebie-jeebies sometimes, it seemed a good idea to pull the ideas in that thread into a list of tips for combatting nerves, so here they are.
 
 ### Tips for nerves
 
@@ -206,7 +206,7 @@ He came back this week to say how much the thread had helped him and seeing as w
 
 - When you start to feel "OMG something is wrong I am too high/ it is too turbulent/it is too strong" start to think to something else: if you keep focusing on those thoughts you will only make those fears bigger and bigger until you can't handle it anymore. Look at something far away (the next cloud? The next ridge?) and let your body manage the situation while your mind focus on something else.
 
-- I have found a screaming vario to be a big factor increasing anxiety. Normal beep ranges and changes to +6 m/s are fine. Beyond that I don't need further info so let it continue beeping at that rate even if climbing more. It'll just sound nice and even with a calming effect... perfectly even circles. Obviously, the cutoff point can be set to whatever individual tolerances are preferred, but the calming effect of an evenly beeping vario I cannot understate.
+- I have found a screaming vario to be a big factor increasing anxiety [so customise the beeps]. Normal beep ranges and changes to +6 m/s are fine. Beyond that I don't need further info so let it continue beeping at that rate even if climbing more. It'll just sound nice and even with a calming effect... perfectly even circles. Obviously, the cutoff point can be set to whatever individual tolerances are preferred, but the calming effect of an evenly beeping vario I cannot understate.
 
 - One thing that helps me when I get nervous, if there are quite a few other paragliders around, is to think to myself: "They're not all collapsing, are they? So why should mine collapse? I'm a reasonably competent pilot (which you clearly are) and I'm on a certified EN B wing." And if the others ARE all getting collapses - go and land smartish!
 
@@ -255,7 +255,7 @@ He came back this week to say how much the thread had helped him and seeing as w
 
 **13th October** - Club Night - Richard Butterworth: China and winning the British Open in Krushevo
 
-**10th November** - Club Night - Elliott Brown: Starting Out in Comps
+**3rd November (FIRST MONDAY OF NOVEMBER)** - Club Night - Elliott Brown: Starting Out in Comps
 
 **8th December** - Club Night - Richard Meek: TBC
 
