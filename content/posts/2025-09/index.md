@@ -186,9 +186,7 @@ Task 5's good score meant I snuck into 3rd place in the British competition and 
 
 Three years ago, an experienced South Wales pilot popped up on [Paragliding Forum](https://www.paraglidingforum.com/viewtopic.php?p=p692018#p692018) asking for tips to help with the nerves that he'd started feeling in thermals and at altitude.
 
-The thread has comments from all sorts of pilots, from an ex-British champion, to PSC punters and your newsletter editor.
-
-He came back this week to say how much the thread had helped him and seeing as we all get the heebie-jeebies sometimes, it seemed a good idea to pull the ideas in that thread into a list of tips for combatting nerves, so here they are.
+The thread has comments from all sorts of pilots, from an ex-British champion to PSC punters and the opening poster came back this week to say how much the advice had helped him. Seeing as we all get the heebie-jeebies sometimes, it seemed a good idea to pull the ideas in that thread into a list of tips for combatting nerves, so here they are.
 
 ### Tips for nerves
 
