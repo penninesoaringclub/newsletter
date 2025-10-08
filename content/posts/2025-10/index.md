@@ -142,6 +142,14 @@ We're now into 2026's league, Pennine ended up 12th overall with Malvern winning
 
 ---
 
+# Shout Outs
+
+21st September was a beautiful autumn day on Longridge with pilots playing at cloudbase all over the valley. Paul Winterbottom managed an [out and return to Parlick](https://xcleague.com/xc/flights/20253917.html?vx=15), pictured here scraping back super-low into Longridge to complete the flight. Fantastic effort!
+
+[![](pw1.jpg)](pw1.jpg)
+
+---
+
 # The Gallery
 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
