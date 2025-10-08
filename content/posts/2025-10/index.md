@@ -28,15 +28,17 @@ And cover picture of the year from Ed. Wow.
 
 Sharing the Sky (re-visited)
 
-Of course we share the sky, everywhere we go we must be on our toes looking out for other aircraft. And hoping that the pilot of the other craft is also paying attention. The drone menace is already looming up on us – you’ve all completed the CAA consultation on Electronic Conspicuity, haven’t you? Drones are unmanned so don’t have any eyeballs looking out, and rely on electronics to see and avoid, but they’re not the only hazards.
+Of course we share the sky, everywhere we go we must be on our toes looking out for other aircraft. And hoping that the pilot of the other craft is also paying attention. The drone menace is already looming up on us - you've all completed the CAA consultation on Electronic Conspicuity, haven't you? Drones are unmanned so don't have any eyeballs looking out, and rely on electronics to see and avoid, but they're not the only hazards.
 
-Models rely on their operators on the ground maintaining line of sight with them and being able to judge their proximity to each other, and more importantly to us. 99% of the time we co-exist perfectly amicably – modellers I have spoken to recently have expressed their understanding of the vast difference in risk between us. A few weekends ago, there were upwards of a dozen models at Longridge and many more paragliders but I haven’t heard of any issues. When I spoke to them, they were perfectly happy to keep to the west of the take-off area.
+Models rely on their operators on the ground maintaining line of sight with them and being able to judge their proximity to each other, and more importantly to us. 99% of the time we co-exist perfectly amicably - modellers I have spoken to recently have expressed their understanding of the vast difference in risk between us. A few weekends ago, there were upwards of a dozen models at Longridge and many more paragliders but I haven't heard of any issues. When I spoke to them, they were perfectly happy to keep to the west of the take-off area.
 
-We are a hazard to each other: contact between us will not end well, taking avoiding action could cause problems. If we pass between the model operator and their aircraft they can lose sight of it and lose control. We must find ways of sharing these sites safely. Hard and fast rules can collapse on first contact with the flying conditions. But how do we deconflict this? Neither group operates on any formal basis on the hill – we don’t have launch marshals or CFIs telling us what to do – this is part of the joy of free flight.
+We are a hazard to each other: contact between us will not end well, taking avoiding action could cause problems. If we pass between the model operator and their aircraft they can lose sight of it and lose control. We must find ways of sharing these sites safely. Hard and fast rules can collapse on first contact with the flying conditions. But how do we deconflict this? Neither group operates on any formal basis on the hill - we don't have launch marshals or CFIs telling us what to do - this is part of the joy of free flight.
 
-However, the situation at Nont Sarah’s has become more volatile recently. There was an actual collision back in February, and more recently there have been angry exchanges between PG pilots accusing the modellers of flying dangerously close to them and acting aggressively.
+However, the situation at Nont Sarah's has become more volatile recently. There was an actual collision back in February, and more recently there have been angry exchanges between PG pilots accusing the modellers of flying dangerously close to them and acting aggressively.
 
 We are in the process of resolving this but have little concrete information other than hearsay. I have written to both Marsden Moor Soaring Association and the British Model Flying Association, as well as contacting BHPA for guidance. If you do have any knowledge of other incidents, please get in touch with either me or our sites officer.
+
+In the meantime if you are flying at Nonts, please try to agree your flight zones with any modellers who may be there or who turn up later. If you do come into conflict with anyone, try to remain calm and polite so as not to inflame the situation further. Make a note of any details you can and pass them on to me, and if there's a serious incident then do follow the incident reporting procedure.
 
 Tight Lines
 
@@ -122,13 +124,13 @@ If it's blowing ENE and too strong inland, Mappleton is well worth a look, at le
 
 ### Northern Challenge Series 2025
 
-We’re in the last month of NCS for 2025. Looks like a fair few new flights being added, bumping peoples' best up and a couple of places moving around on the scoreboard. Get those flights in, you’ve got until the 31st!
+We're in the last month of NCS for 2025. Looks like a fair few new flights being added, bumping peoples' best up and a couple of places moving around on the scoreboard. Get those flights in, you've got until the 31st!
 
 [![](ncs.png)](https://www.xcmap.net/index.php?c=Northern%20Challenge%20Trophy&y=2025)
 
 ### XContest - Pennine Soaring Club
 
-We’re now into 2026's league, Pennine ended up 12th overall with Malvern winning first place. Scores are on pilots in the club not the club location so if you get out and about, get involved. Sixteen pilots took part this year, can we add more next year and move up the table?
+We're now into 2026's league, Pennine ended up 12th overall with Malvern winning first place. Scores are on pilots in the club not the club location so if you get out and about, get involved. Sixteen pilots took part this year, can we add more next year and move up the table?
 
 2026 is open for registration for World and UK. It's free, just log in and register for both.
 
