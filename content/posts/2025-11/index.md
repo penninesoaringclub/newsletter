@@ -182,6 +182,12 @@ It's wet, it's windy and it's cold so why not settle down with a cup of tea and 
 
 [![](best_of_2025/P1020001.jpg)](best_of_2025/P1020001.jpg)
 
+### *Elliott Brown*
+
+[![](best_of_2025/20250503_130113_00_129_convergence-longridge-wide.jpg)](best_of_2025/20250503_130113_00_129_convergence-longridge-wide.jpg)
+
+[![](best_of_2025/VID_20250703_111119_00_002_2025-07-06_14-01-58_busy-wide.jpg)](best_of_2025/VID_20250703_111119_00_002_2025-07-06_14-01-58_busy-wide.jpg)
+
 ---
 
 # You Might Have Missed...
