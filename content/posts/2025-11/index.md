@@ -63,15 +63,15 @@ Richard maintained a good position on the leader board throughout the competitio
 
 Richard then went on to outline his outstanding performance and subsequent win in the British open Championship In Krushevo, Macedonia In July.
 
-We heard more about the unique terrain and the various tasks. Richard described how gaggles can form and then collectively head for less than optimal routes sometimes and how it's worth trying something else, which can really work out. This strategy worked well for on one occasion and enabled Richard to maintain an optimal position On the leaderboard.
+We heard more about the unique terrain and the various tasks. Richard described how gaggles can form and then collectively head for less than optimal routes sometimes and how it's worth trying something else, which can really work out. This strategy worked well on one occasion and enabled Richard to maintain an optimal position on the leaderboard.
 
-As he went into the final task Richard was uncertain of the points situation between himself and Ceri Brown - his nearest rival - but knew he needed to make one good final push in the last task to grab first place, which resulted in a closely fought race between the two pilots. Ceri entered the end of speed section a couple of seconds ahead of Richard and we were treated to an in depth playback of this final climactic task accompanied by Richard's thoughts and decision-making at each point, which was fascinating to watch and listen to, especially since he had no idea until he landed that he had in fact won the competition.
+As he went into the final task, Richard was uncertain of the points situation between himself and Ceri Brown - his nearest rival - but knew he needed to make one good final push in the last task to grab first place, which resulted in a closely fought race between the two pilots. Ceri entered the end of speed section a couple of seconds ahead of Richard and we were treated to an in depth playback of this final climactic task accompanied by Richard's thoughts and decision-making at each point, which was fascinating to watch and listen to, especially since he had no idea until he landed that he had in fact won the competition.
 
 Needless to say, a number of audience questions followed this much appreciated presentation.
 
 Unfortunately, it wasn't possible to record the presentation. However, you may be able to catch a rerun at the Dales or Cumbria club socials later this winter. 
 
-Our next club night will be on the 8th December when Richard Meek will share his best tips on planning and executing Big Flights.
+Our next club night will be on the 8th December when Richard Meek will share his tips on planning and executing Big Flights.
 
 [![](RM_club_night.png)](RM_club_night.png)
 
