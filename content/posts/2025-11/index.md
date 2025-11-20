@@ -1,6 +1,6 @@
 ---
 title: "November 2025"
-date: 2025-11-20T11:00:00+05:30
+date: 2025-11-20T00:00:00+05:30
 tags: 
 type: "post"
 image: "/posts/2025-11/social_small.jpg"
