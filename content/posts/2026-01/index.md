@@ -99,6 +99,18 @@ More details to follow from Barry but get it booked in your diary!
 
 ---
 
+# Coaching Corner
+
+*Simon Baillie, Chief Coach*
+
+Pilot revision nights have been booked with the experts and the pub! Sea View Inn Chorley, Wednesdays at 19:30.
+- Flight Theory with Brian Stuart on 21st January
+- Air Law and Navigation with Richard Butterworth on 28th January
+- Meteorology with Phil Wallbank on 4th February
+- Exam on 11th February
+
+Only come along to these if you've already been in touch with me about studying for the Pilot exam. Please bring your BHPA card and task book along on the first night, so I can check where you are at with completing your tasks.
+
 # Competitions
 
 *Elliott Brown, Competitions Secretary*
@@ -156,13 +168,21 @@ More found here; https://www.bhpa.co.uk/events/
 
 ### **12th January - Club Night: Know Thy Enemy - 7.30pm, Sea View Inn, Chorley**
 
-### **17th January - [Dales Club Repack](https://www.eventbrite.co.uk/e/the-dales-hang-gliding-and-paragliding-club-reserve-repack-day-tickets-1965342401027) - Ilkley**
+### **CANCELLED - Dales Club Repack - Ilkley**
+
+### **21st January - Pilot Exam Revision: Flight Theory - 7.30pm, Sea View Inn, Chorley**
+
+### **28th January - Pilot Exam Revision: Air Law & Navigation - 7.30pm, Sea View Inn, Chorley**
 
 ### **29th January - PSC Curry Night - 7pm, Sagar Premier, Preston**
+
+### **4th February - Pilot Exam Revision: Meteorology - 7.30pm, Sea View Inn, Chorley**
 
 8th February - [Big Fat Repack](http://www.tvhgc.co.uk/events) - Aldershot, Hants
 
 ### **9th February - Club Night: AGM - 7.30pm, Sea View Inn, Chorley**
+
+### **28th January - Pilot Exam - 7.30pm, Sea View Inn, Chorley**
 
 11th - 17th February - [British Winter Open](https://airtribune.com/bwo2026/info) - Roldanillo, Colombia
 
