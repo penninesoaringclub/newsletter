@@ -1,5 +1,5 @@
 ---
-title: "January 2025"
+title: "January 2026"
 date: 2026-01-06T00:00:00+05:30
 tags: 
 type: "post"
@@ -20,7 +20,7 @@ The Bent Upright award is looking for a new home and tales of unfortunate mishap
 [editor@penninesoaringclub.org.uk](mailto:editor@penninesoaringclub.org.uk).
 
 [![](cover.jpg)](cover.jpg)  
-*Cover photo: Sean Mercer*
+*Cover photo: Emma Wrathall snaps Sean Mercer at sunset on Parlick*
 
 ---
 
@@ -54,6 +54,12 @@ last year was a great success with a set price meal including numerous courses, 
 Buy your own drinks at the table or bar with card service. 
  
 To reserve a spot please [message Jacqui](https://t.me/Black_Puddin_Bertha).
+
+### Winter Sports Massage Clinic
+
+Any PSC pilots interested in joining a winter sports massage clinic, please [message Jacqui](https://t.me/Black_Puddin_Bertha) for more info and to be added to the group chat for notices and to book in. There’s no charge apart from a small donation to the running costs.
+
+Usually held in Chipping village hall. Various days/times TBA depending on level of interest in attending.
 
 ---
 
@@ -99,13 +105,15 @@ More details to follow from Barry but get it booked in your diary!
 
 ### XContest
 
-1st Oct 2025 - 30th Sep 2026 
+1st Oct 2025 - 30th Sep 2026   
 https://www.xcontest.org/united-kingdom/ 
 
 Come and keep me and Doug company:
 
+![xcontest.png](xcontest.png)
+
 ### XC League
-Loop local flights will be calculated from these results.
+Loop local flights will be calculated from these results.  
 https://xcleague.com/xc/ 
 
 ### NCS - Northern Challenge Series 2026
@@ -117,17 +125,17 @@ Even if it’s not running, these are great tasks to give your flight a bit of p
 
 ### Local competition dates for the UK
 
-Buttermere Bash (LCO likely)
-29-30 May 2026
-Assuming that there will be another Lakeland Charity Open competition held at the event.
+Buttermere Bash (LCO likely)  
+29-30 May 2026  
+Assuming that there will be another Lakeland Charity Open competition held at the event.  
 https://www.tickettailor.com/events/airventures/1970235?brid=EIHZAoEZ8dz1jlj8AP564Q 
 
-BPCup 2026 Dales Round
-04-07 Jun, 2026
+BPCup 2026 Dales Round  
+04-07 Jun, 2026  
 https://airtribune.com/bpcup-2026-dales-round/ 
 
-LCC & X-Lakes
-18-21 June, 2026
+LCC & X-Lakes  
+18-21 June, 2026  
 On airtribune soon…
 
 More found here; https://www.bhpa.co.uk/events/ 
