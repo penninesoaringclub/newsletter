@@ -336,9 +336,11 @@ If you need to be invited to a group, send me a message and I will either get th
 
 # SIV
 
-If you have completed your first SIV course you could get a £50 contribution from the club. Jack Pimblett, a PSC pilot now running SIV courses with Theo de Blic at [RISE](https://www.riseparagliding.com/) in Olu Deniz has been in touch to say that they will match the club's offer, so that's £100 off your first SIV course if you choose to go with RISE.
+If you've completed your first SIV course you could get a £50 contribution from the club. Make sure to email accounts@penninesoaringclub.org.uk with your details if you've booked onto your first course!
 
-Make sure to email accounts@penninesoaringclub.org.uk with your details if you've booked onto your first course!
+Jack Pimblett, a PSC pilot now running SIV courses with Theo de Blic at [RISE](https://www.riseparagliding.com/) in Olu Deniz has been in touch to say that they will match the club's offer, so that's £100 off your first SIV course if you choose to go with RISE.
+
+We're passing on the offer but aren't recommending any particular provider. The BHPA doesn't licence SIV courses so make sure you do your own research, read the [BHPA's guide to SIV](https://www.bhpa.co.uk/pdf/SIV.pdf), and pick a course that's right for you.
 
 ![rise_offer.jpg](rise_offer.jpg)
 
