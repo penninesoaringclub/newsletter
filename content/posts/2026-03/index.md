@@ -34,7 +34,7 @@ Our committee is a group of people who have all been willing to give up their ti
 
 The chairs have shuffled a bit on the committee and we welcome Matt, Barry & Sam but we're largely the same faces. There's an update on who's pitching in to help with which roles in the AGM section and thank you again to everyone who does. Could you help next time?
 
-Two seasons ago, Simon Scott said at the AGM that it would be nice to have a newsletter again, I put my hand up and here we are. Over those two years, I've learned that it's not a huge commitment of time to be on the committee but it is a commitment and it's important. This small group makes sure that we have a club. If you're thinking maybe you could help, or you find yourself at 2027's AGM wondering whether to maybe raise your hand and volunteer, please do! We'll all be tremendously grateful.
+Two seasons ago, Simon Scott said at the AGM that it would be nice to have a newsletter again, I put my hand up and here we are. Over those two years, I've learned that it's not a huge commitment of time to be on the committee but it is a commitment and it's important. This small group makes sure that we have a club. If you're thinking maybe you could help, or you find yourself at 2027's AGM wondering whether maybe to raise your hand and volunteer, please do! We'll all be tremendously grateful.
 
 If not volunteering for the committee, what else can you do?
 
@@ -110,7 +110,7 @@ We've had some shuffling of chairs and we welcome a few new faces to the committ
 **Webmaster** Sam Ashley (thanks to Carl Fairhurst, who steps down)  
 **Power** Simon Scott  
 **Newsletter Editor** Neil Charles  
-**Social Media** Barry Sayer(thanks to Neil Charles, who steps down)  
+**Social Media** Barry Sayer (thanks to Neil Charles, who steps down)  
 **A/V Equipment** Carl Fairhurst  
 
 ---
@@ -145,7 +145,7 @@ Winner: David McClean
 
 ### Representing the Club International
 
-"As a top UK pilot and relentless competitor, our winner has had an exceptionally busy season on the global stage. His year began with a trip to China for the Paragliding World Cup (PWC), followed by a double-header in North Macedonia. After competing in the Flymaster Open, he stayed on for the British & Dutch Championships, where he delivered a standout performance—finishing 5th overall and taking the title of 1st Brit.
+"As a top UK pilot and relentless competitor, our winner has had an exceptionally busy season on the global stage. His year began with a trip to China for the Paragliding World Cup (PWC), followed by a double-header in North Macedonia. After competing in the Flymaster Open, he stayed on for the British & Dutch Championships, where he delivered a standout performance—finishing 5th overall and taking the title of 1st Brit."
 
 Winner Richard Butterworth
 
@@ -165,16 +165,14 @@ Winner: John Oliver
 
 ![a_john_o.jpg](a_john_o.jpg)
 
-### PG League Awards
-
-**Fun Class - EN B and below**
+### PG League Fun Class - EN B and below
 "Some great XC flights up north from Parlick, one towards Barnard Castle early in the year and another trip up to Kendal solidified the winners place."
 
 Winner: Simon Baillie
 
 ![a_simon_b_xc.jpg](a_simon_b_xc.jpg)
 
-**PG League Sport Class – EN C (and below)**
+### PG League Sport Class – EN C (and below)
 
 "2 excellent 100km+ flights from Parlick heading north. One almost to the Scottish border on one of the big days of the year. With another heading towards Sunderland.
 
@@ -182,13 +180,13 @@ Winner: Phil Wallbank
 
 ![a_phil.jpg](a_phil.jpg)
 
-**PG League Overall – Open**
+### PG League Overall – Open
 
 "With 2 stonking flights from Parlick, breaking the site record on one of them, our pilot cemented his place as the overall league winner this year."
 
 Winner: Richard Meek
 
-**PSC Loop League**
+### PSC Loop League
 
 "Super close competition with the top 3 pilots, so close that there is only 1.9 points between 1st and 3rd place! In 3rd place, Mr Murphy with 93.1 pts. In 2nd place, Paul Winterbottom with 93.7 pts. And in 1st place, with 95 points, Elliott Brown“
 
@@ -196,7 +194,7 @@ Winner: Elliott Brown
 
 ![loop.jpg](loop.jpg)
 
-**Club Awards**
+### Club Awards
 
 Jacqui Kavanagh (social nights and pilot sports massage)
 
@@ -210,13 +208,13 @@ Simon Baillie (running our pilot qualification evenings. Nominated by attendees)
 
 ![a_simon_b.jpg](a_simon_b.jpg)
 
-**Bent Upright**
+### Bent Upright
 
 Simon Scott (taking off on the wrong runway)
 
 ![a_simon.jpg](a_simon.jpg)
 
-**William Marshall Trophy for Services to the Club**
+### William Marshall Trophy for Services to the Club
 
 Brian Stewart
 
@@ -333,6 +331,16 @@ There are a couple of apps that I’m aware of that are used by pilots. I’ve s
 
 ### Finally
 If you need to be invited to a group, send me a message and I will either get the link or get you added. This was quickly thrown together after a conversation with a newer pilot about some of the above and have been thinking about it for some time. It’s not comprehensive and purely my opinion and views, I would guess there is a lot out there I’m not aware of. If it helps 1 pilot, I’m happy.
+
+---
+
+# SIV
+
+If you have completed your first SIV course you could get a £50 contribution from the club. Jack Pimblett, a PSC pilot now running SIV courses with Theo de Blic at [RISE](https://www.riseparagliding.com/) in Olu Deniz has been in touch to say that they will match the club's offer, so that's £100 off your first SIV course if you choose to go with RISE.
+
+Make sure to email accounts@penninesoaringclub.org.uk with your details if you've booked onto your first course!
+
+![rise_offer.jpg](rise_offer.jpg)
 
 ---
 
