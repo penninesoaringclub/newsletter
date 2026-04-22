@@ -1,6 +1,6 @@
 ---
 title: "April 2026"
-date: 2026-04-23T00:00:00+05:30
+date: 2026-04-22T00:00:00+05:30
 tags: 
 type: "post"
 image: "/posts/2026-04/social_small.jpg"
@@ -230,6 +230,14 @@ Windbank had a good day on Thursday, a perfect task for when you need to stay lo
 # The Gallery
 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true >}}
+
+---
+
+# Shout Outs
+
+Simon has already mentioned Jim Woodward's first XC in his coaching notes but first XC flights are special so let's do it again.
+
+Well done Jim!
 
 ---
 
