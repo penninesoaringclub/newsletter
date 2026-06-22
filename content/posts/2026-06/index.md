@@ -51,6 +51,10 @@ We have an open vacancy for Social Secretary. Fancy joining us on the committee 
 
 *Andy Archer, Sites Officer*
 
+### The BP Cup is Coming to Parlick
+
+The second round of the [BP cup](https://www.bpcup.co.uk/) will be held at Parlick on the August Bank Holiday, Friday 27th to Monday 31st August.
+
 ### Edenfield
 
 Edenfield is open again following lambing.
@@ -305,7 +309,13 @@ August TBC - [British Paragliding Cup European Round](http://www.bpcup.co.uk)
 
 22nd - 29th August - [Sports Class Racing Series Spanish Edition](https://sportsracingseries.org) - Piedrahita, Spain
 
+27th - 31st August - [BP Cup Round 2](https://www.bpcup.co.uk/) - Parlick
+
+4th - 11th September - [British & Dutch Open Championships](https://pgcomps.org.uk/timeline/) - Pedro Bernardo, Spain
+
 5th - 12th September - [Paragliding World Cup Siatista](https://pwca.events) - Siatista, Greece
+
+13th - 19th September - [British & Irish Sports Trophy](https://pgcomps.org.uk/timeline/) - St Andre, France
 
 18th - 20th September - [BAC Round 4/Super Final](https://civlcomps.org/event/BAC-2026-Round-4) - Woldingham, Surrey
 
