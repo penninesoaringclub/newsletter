@@ -32,13 +32,7 @@ The primary motivation for this change appears to be preparing our airspace for 
 
 While the [consultation document](https://www.caa.co.uk/publication/download/29301) discusses safety for all airspace users, unmanned aircraft are mentioned first and the CAA is proposing that only unmanned aircraft must be able to *receive* ADS-B. In other words, everyone must buy and fly with an ADS-B transponder but the Cessna flying towards you doesn't have to have a receiver that can detect it - only drones do. In terms of collision avoidance, the mandate doesn't seem to do much at all for existing airspace users.
 
-<blockquote>
-One of its aims is to support the safe introduction of new types of aviation,
-including BVLOS operations and eVTOL. Another aim is to protect access for
-existing airspace users, including private pilots, glider and balloon operators,
-pilot training organisations, commercial and specialised aviation, military users,
-and emergency services.
-</blockquote>
+> One of its aims is to support the safe introduction of new types of aviation, including BVLOS operations and eVTOL. Another aim is to protect access for existing airspace users, including private pilots, glider and balloon operators, pilot training organisations, commercial and specialised aviation, military users, and emergency services.
 
 There is a small, battery-powered ADS-B device that could be carried by paragliders - the [Sky Echo 2](https://transair.co.uk/avionics/ipad-gps-receivers/uavionix/skyecho-2-uavionix-portable-ads-b-transceiver) - but it costs £650 and is really designed to be stuck to the window of a light aircraft.
 
